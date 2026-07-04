@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+
+# Temp
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Sync scripts
+sync-to-windows.bat
