@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|AI 教育检索地图]]
 > 治理规范：`system/wiki-harness.md`
-| 最后更新：2026-07-01 | 总页面数：27
+> 最后更新：2026-07-05 | 总页面数：28
 
 ## MOC 检索地图
 
@@ -57,6 +57,7 @@
 - [[raw/articles/2026-06-29-wenke-ai-era-research-paradigm|AI时代教研新范式：用"问课"把课堂问透]] — 来自 百家号（胡小勇问课团队）
 - [[raw/articles/2026-04-15-southern-daily-ai-general-education|AI将全面进入大中小学课堂——五部门联合推动AI通识教育普及]] — 来自 南方日报（日报入库）
 - [[raw/articles/2026-06-30-khan-academy-ai-motivation-gap|可汗学院创始人：AI不是最终解决方案]] — 来自 芥末堆（日报入库）
+
 
 ## Cases
 

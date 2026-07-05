@@ -1,7 +1,7 @@
 # AI 教育 — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-07-01 | 总页面数：24 个概念
+> 最后更新：2026-07-05 | 总页面数：25 个概念
 > 进入精选模式后，新入库的内容会逐步填充此处。
 
 ---
@@ -18,13 +18,14 @@
 
 | 页面 | 概要 |
 |------|------|
-| [[concepts/ai-education-action-plan\|"人工智能+教育"行动计划]] | 五部门联合印发，教科信〔2026〕1号，2030年目标 + 2026年部署会实施框架（已追加） |
+| [[concepts/ai-education-action-plan\\|"人工智能+教育"行动计划]] | 五部门联合印发，教科信〔2026〕1号，2030年目标 + 2026年部署会实施框架（已追加） |
+|<!-- 教育技术学自留地相关来源已移除 2026-07-05 -->|
 
 ### product — 产品、公司、平台
 
 | 页面 | 概要 |
 |------|------|
-| [[concepts/tianli-brain-nature-case\|天立学科大脑（Tianli Brain）]] | 首个登上《自然指数—中国》的中国AI+教育案例，107所学校部署的认知建模AI学伴系统 |
+| [[concepts/tianli-brain-nature-case\\|天立学科大脑（Tianli Brain）]] | 首个登上《自然指数—中国》的中国AI+教育案例，107所学校部署的认知建模AI学伴系统 |
 
 ### tool — 教学工具、AI 工具
 
@@ -34,33 +35,33 @@
 
 | 页面 | 概要 |
 |------|------|
-| [[concepts/ai-learning-methodology\|AI学习路径与方法]] | 从实践中学习AI的模式，"先上路才会学"，对教师AI素养培训有直接启发；附K-12"慢用比快用更有效"新发现 |
-| [[concepts/ai-automation-century-myth\|教育自动化的百年迷思]] | 从1885年函授课程到今天大模型，分析百年自动化承诺循环，反思AI进课堂的历史逻辑 |
-| [[concepts/ai-cannot-solve-motivation\|AI无法解决学习动机问题]] | 可汗学院Khanmigo使用率停滞背后的反思：AI无法激发学习动机，学习本质上是社交和关系活动（5%问题） |
-| [[concepts/ai-edu-three-routes\|AI教育的三条路径——大厂效率、教培名师与"认知断点"路线]] | 对比分析2026年AI教育行业三大路线，洋葱学园"认知断点"方法论与人机复合型教师模式 |
-| [[concepts/2026-education-trends\|2026年六大教育趋势]] | 福布斯预测：AI智能体、AI素养、游戏化体验学习、以人为中心技能等六大方向 |
-| [[concepts/ai-education-current-state\|AI教育当前阶段分析]] | 批判性分析：教育AI化处于浅层辅助阶段，"AI辅助、教师主导"是未来方向 |
-| [[concepts/ai-era-learning-theory\|AI时代呼唤新的学习理论]] | 行为主义/认知主义/建构主义已不足以解释AI时代的学习现象，呼唤整合性的新理论 |
-| [[concepts/china-education-macro-trends\|中国教育宏观趋势]] | 2026年高考锐减45万背后的三重结构性变化：普职分流主动化、复读模式终结、公平迭代为素养差距 |
-| [[concepts/education-ai-agent-review\|教育大模型智能体综述]] | 学术综述：20个典型教育AI智能体的技术架构、开发框架与四大应用场景 |
-| [[concepts/loop-engineering-framework\|循环工程（Loop Engineering）——AI自动化系统的四大核心要素]] | Addy Osmani 系统化的循环工程框架，包含定时自动触发、持久记忆、技能沉淀、外部连接四要素 |
-| [[concepts/wenke-wise-classroom-research\|问课课堂研究：WISE框架与AIED人机协同教研模型]] | 胡小勇团队课堂研究新范式，从"判别式评课"转向"探究式问课"，WISE四层分析框架+AIED四步教研流程 |
+| [[concepts/ai-learning-methodology\\|AI学习路径与方法]] | 从实践中学习AI的模式，"先上路才会学"，对教师AI素养培训有直接启发；附K-12"慢用比快用更有效"新发现 |
+| [[concepts/ai-automation-century-myth\\|教育自动化的百年迷思]] | 从1885年函授课程到今天大模型，分析百年自动化承诺循环，反思AI进课堂的历史逻辑 |
+| [[concepts/ai-cannot-solve-motivation\\|AI无法解决学习动机问题]] | 可汗学院Khanmigo使用率停滞背后的反思：AI无法激发学习动机，学习本质上是社交和关系活动（5%问题） |
+| [[concepts/ai-edu-three-routes\\|AI教育的三条路径——大厂效率、教培名师与"认知断点"路线]] | 对比分析2026年AI教育行业三大路线，洋葱学园"认知断点"方法论与人机复合型教师模式 |
+| [[concepts/2026-education-trends\\|2026年六大教育趋势]] | 福布斯预测：AI智能体、AI素养、游戏化体验学习、以人为中心技能等六大方向 |
+| [[concepts/ai-education-current-state\\|AI教育当前阶段分析]] | 批判性分析：教育AI化处于浅层辅助阶段，"AI辅助、教师主导"是未来方向 |
+| [[concepts/ai-era-learning-theory\\|AI时代呼唤新的学习理论]] | 行为主义/认知主义/建构主义已不足以解释AI时代的学习现象，呼唤整合性的新理论 |
+| [[concepts/china-education-macro-trends\\|中国教育宏观趋势]] | 2026年高考锐减45万背后的三重结构性变化：普职分流主动化、复读模式终结、公平迭代为素养差距 |
+|| [[concepts/education-ai-agent-review\\|教育大模型智能体综述]] | 学术综述：20个典型教育AI智能体的技术架构、开发框架与四大应用场景 |
+| [[concepts/loop-engineering-framework\\|循环工程（Loop Engineering）——AI自动化系统的四大核心要素]] | Addy Osmani 系统化的循环工程框架，包含定时自动触发、持久记忆、技能沉淀、外部连接四要素 |
+| [[concepts/wenke-wise-classroom-research\\|问课课堂研究：WISE框架与AIED人机协同教研模型]] | 胡小勇团队课堂研究新范式，从"判别式评课"转向"探究式问课"，WISE四层分析框架+AIED四步教研流程 |
 
 ### practice — 课堂实践、教学案例
 
 | 页面 | 概要 |
 |------|------|
-| [[concepts/ai-lesson-prep-methodology\|AI备课方法论]] | 教师用AI备课六步法：先拆解课堂再生成教案，含可直接复用的提示词 |
-| [[concepts/ai-exam-review-courseware\|AI试卷讲评互动课件]] | 用飞象老师5分钟生成互动试卷讲评课件，三步法：上传→确认→生成HTML |
-| [[concepts/create-thought-space\|教师创造思想空间]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
-| [[concepts/teacher-ai-socratic-method\|苏格拉底式AI交互法]] | 让AI问你问题而非你问AI要答案，三种实操场景：苏格拉底引导/需求前置/心理咨询师 |
-| [[concepts/teacher-ai-application-guidelines\|教师生成式AI应用指引（第一版）]] | 国家层面首份教师群体生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景 |
-| [[concepts/333-evaluation-framework\|"333"教研评课框架]] | 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好 |
-| [[concepts/ai-era-gaokao-reform\|AI时代的考试改革——高考内容与形式需与时俱进]] | 李志民：知识考查→认知能力，开放性问题+高阶思维，从考试改革倒逼教学转变 |
-| [[concepts/ai-two-mode-collaboration\|两种AI协同模式：内容生产者 vs 思维伙伴]] | 区分AI作为内容生产工具与作为思维伙伴的两种协同方向，提出"诊断先于建议"的深度AI协同原则 |
-| [[concepts/ai-era-teacher-two-fates\|AI时代教师的两种命运——中间地带正在消失]] | 腾讯研究院报告+刘欣文章：AI侵蚀教师职业中间层，不存在"中等水平"的AI使用者，教育应如何发力 |
-| [[concepts/ai-general-education-literacy\|智能体协作的三层意识与AI通识教育普及]] | 黄秉刚三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"范式转变，AI通识教育课程落地建议 |
-| [[concepts/ai-education-misuse-analysis\|AI教育常见误区分析：十六宗错与三个层次]] | 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失 |
+| [[concepts/ai-lesson-prep-methodology\\|AI备课方法论]] | 教师用AI备课六步法：先拆解课堂再生成教案，含可直接复用的提示词 |
+| [[concepts/ai-exam-review-courseware\\|AI试卷讲评互动课件]] | 用飞象老师5分钟生成互动试卷讲评课件，三步法：上传→确认→生成HTML |
+| [[concepts/create-thought-space\\|教师创造思想空间]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
+| [[concepts/teacher-ai-socratic-method\\|苏格拉底式AI交互法]] | 让AI问你问题而非你问AI要答案，三种实操场景：苏格拉底引导/需求前置/心理咨询师 |
+| [[concepts/teacher-ai-application-guidelines\\|教师生成式AI应用指引（第一版）]] | 国家层面首份教师群体生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景 |
+| [[concepts/333-evaluation-framework\\|"333"教研评课框架]] | 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好 |
+| [[concepts/ai-era-gaokao-reform\\|AI时代的考试改革——高考内容与形式需与时俱进]] | 李志民：知识考查→认知能力，开放性问题+高阶思维，从考试改革倒逼教学转变 |
+| [[concepts/ai-two-mode-collaboration\\|两种AI协同模式：内容生产者 vs 思维伙伴]] | 区分AI作为内容生产工具与作为思维伙伴的两种协同方向，提出"诊断先于建议"的深度AI协同原则 |
+| [[concepts/ai-era-teacher-two-fates\\|AI时代教师的两种命运——中间地带正在消失]] | 腾讯研究院报告+刘欣文章：AI侵蚀教师职业中间层，不存在"中等水平"的AI使用者，教育应如何发力 |
+| [[concepts/ai-general-education-literacy\\|智能体协作的三层意识与AI通识教育普及]] | 黄秉刚三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"范式转变，AI通识教育课程落地建议 |
+| [[concepts/ai-education-misuse-analysis\\|AI教育常见误区分析：十六宗错与三个层次]] | 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失 |
 
 ---
 
@@ -68,6 +69,7 @@
 
 | 日期 | 变更 |
 |------|------|
+|| 2026-07-05 | ❌ 已移除——教育技术学自留地/焦建利相关3篇（用户要求） |
 | 2026-07-01 | 入库《智能体协作的三层意识与AI通识教育普及》（practice）——南方日报解读五部门行动计划落地，黄秉刚三层意识框架+从工匠到指挥家范式转变 |
 | 2026-07-01 | 入库《AI无法解决学习动机问题——可汗学院的反思与教育的社会本质》（research）——芥末堆，可汗学院Khanmigo使用率停滞与"5%问题" |
 | 2026-06-29 | 入库《问课课堂研究：WISE框架与AIED人机协同教研模型》（research）——胡小勇华南师范大学团队，"判别式评课→探究式问课"范式转型，WISE四层分析框架+AIED四步教研流程+问课大模型 |
@@ -107,6 +109,6 @@
 
 | 分类 | 入口 | 说明 |
 |------|------|------|
-| 🏫 课堂教学 | [[../../cases/yong-ai/index\|用AI案例]] | 9个课堂教学案例 |
-| 🏗️ 管理平台 | [[../../cases/chuang-ai/index\|创AI案例]] | 8个管理平台案例 |
-| 🛡️ AI安全 | [[../../cases/hu-ai/index\|护AI案例]] | 1个AI安全案例 |
+| 🏫 课堂教学 | [[../../cases/yong-ai/index\\|用AI案例]] | 9个课堂教学案例 |
+| 🏗️ 管理平台 | [[../../cases/chuang-ai/index\\|创AI案例]] | 8个管理平台案例 |
+| 🛡️ AI安全 | [[../../cases/hu-ai/index\\|护AI案例]] | 1个AI安全案例 |
