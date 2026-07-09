@@ -274,3 +274,11 @@
 - 对电教站价值：为教师AI培训注入"反向思考"（AI不能做什么）；教育科技产品选型中优先选择增强师生互动的产品
 - 关联：[[concepts/ai-education-current-state]] [[concepts/ai-automation-century-myth]] [[concepts/ai-era-learning-theory]] [[concepts/create-thought-space]] [[concepts/ai-era-teacher-two-fates]] [[concepts/ai-education-misuse-analysis]]
 - 更新 index.md + MOC（research+practice scope索引/近期变化/页面数24）
+
+## [2026-07-08] ingest | 区域AI+教育推进的实践路径与困难（日报入库）
+- 来源：新华网，2026-06-17新华视点调研报道（日报第1条）
+- 保存原文 raw/articles/2026-07-08-xinhua-ai-plus-education.md
+- 创建概念页 [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]]（practice）
+- 核心框架：四类做法（课堂数据采集/AI减负/资源辐射/顶层设计）→ 三大卡点（工具错位/教师能力/设备鸿沟）→ 三步走推进路径
+- 对电教站价值：点阵笔/人机双师/智慧云校等方案可直接参考；三大卡点可提前预判纳入区域规划
+- 关联：[[concepts/ai-education-current-state]] [[concepts/ai-cannot-solve-motivation]] [[concepts/teacher-ai-application-guidelines]] [[concepts/ai-education-misuse-analysis]]

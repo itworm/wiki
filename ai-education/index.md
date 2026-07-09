@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|AI 教育检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-07-05 | 总页面数：28
+> 最后更新：2026-07-08 | 总页面数：29
 
 ## MOC 检索地图
 
@@ -34,7 +34,9 @@
 - [[concepts/ai-general-education-literacy|智能体协作的三层意识与AI通识教育普及]] — 黄秉刚提出学生与AI协作的三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"的能力范式转变（scope: practice）
 - [[concepts/loop-engineering-framework|循环工程（Loop Engineering）——AI自动化系统的四大核心要素]] — Addy Osmani 系统化的循环工程框架，包含定时自动触发、持久记忆、技能沉淀、外部连接四要素，与 Hermes 的 cron+skill+memory+API 架构高度对应（scope: research）
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析：十六宗错与三个层次]] — 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失（scope: practice）
-- [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从"判别式评课"转向"探究式问课"，含WISE四层分析框架和AIED四步教研流程（scope: research）
+- [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] — 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点（scope: practice）
+- [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
+
 
 ## Raw Articles
 
@@ -57,6 +59,7 @@
 - [[raw/articles/2026-06-29-wenke-ai-era-research-paradigm|AI时代教研新范式：用"问课"把课堂问透]] — 来自 百家号（胡小勇问课团队）
 - [[raw/articles/2026-04-15-southern-daily-ai-general-education|AI将全面进入大中小学课堂——五部门联合推动AI通识教育普及]] — 来自 南方日报（日报入库）
 - [[raw/articles/2026-06-30-khan-academy-ai-motivation-gap|可汗学院创始人：AI不是最终解决方案]] — 来自 芥末堆（日报入库）
+- [[raw/articles/2026-07-08-xinhua-ai-plus-education|新华视点：AI+教育，如何加出未来]] — 来自 新华网（日报入库）
 
 
 ## Cases
