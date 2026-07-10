@@ -36,6 +36,7 @@
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析：十六宗错与三个层次]] — 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失（scope: practice）
 - [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] — 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点（scope: practice）
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
+- [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]] — 谷歌ISTE2026启示：AI是关系增强器而非效率替代品，围绕师生关系做增强（scope: research）
 
 
 ## Raw Articles

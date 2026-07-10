@@ -23,6 +23,12 @@
 ## [2026-06-02] note | 第2条文章已存在
 - URL 7643322864422109737（Wcof myknowledge-skill）已于上一步入库，跳过
 
+## [2026-07-04] ingest | 谷歌AI教育产品路线分析
+- 概念提取入库，聚焦"AI是关系增强器"核心理念
+- 保存原文 raw/articles/2026-07-04-google-ai-education-iste2026.md
+- 创建概念页 [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]]
+- 原文AI痕迹较重，仅提取有价值观点
+
 ## [2026-06-02] ingest | 《Hermes+AutoCLI+Obsidian：打造自动入库...》
 - 保存原文 raw/articles/2026-06-02-hermes-autocli-obsidian-kb.md
 - 创建概念页 [[hermes-autocli-workflow|Hermes+AutoCLI 知识系统方案]]
