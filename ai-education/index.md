@@ -9,6 +9,14 @@
 
 - [[moc/ai-education|AI 教育检索地图]] — AI 教育主题总览页
 
+## Decisions
+
+- [[decisions/index|决策记录索引]] — 架构取舍记录
+
+## Cases
+
+（暂无内容，教师案例见 [[cases/yong-ai/index|课堂教学]] / [[cases/chuang-ai/index|管理平台]] / [[cases/hu-ai/index|AI安全]]）
+
 ## Concepts
 
 - [[concepts/ai-cannot-solve-motivation|AI无法解决学习动机问题——可汗学院的反思与教育的社会本质]] — 可汗学院Khanmigo访问量激增但使用率停滞，暴露AI教育核心盲区：AI无法激发学习动机，学习本质上是社交和关系活动（scope: research）

@@ -96,6 +96,10 @@
 - 灵感：项飙"创造思想空间"理念在教育中的转化——教师不应只是知识传递者，更应是思想空间的营造者
 - 关联：[[concepts/ai-lesson-prep-methodology]] [[concepts/ai-exam-review-courseware]] [[concepts/ai-learning-methodology]]
 
+## [2026-07-04] update | 补充李政涛"新智人"视角
+- 概念页 [[concepts/ai-general-education-literacy]] 新增"从获得答案到提对问题"章节
+- 新增人机协同/人机交互/人机共创三种能力定义
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
