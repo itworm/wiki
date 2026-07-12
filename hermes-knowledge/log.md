@@ -23,6 +23,11 @@
 - 保存原文 raw/articles/from-hoarding-to-cultivating.md
 - 创建概念页 [[concepts/cognitive-asset-framework|认知资产库构建框架]]
 - 关联已有 3 篇概念页（[[wikilinks]] 已补充）
+
+## [2026-07-04] ingest | 《AI工程的第四次跃迁》
+- 保存原文 raw/articles/ai-engineering-four-evolutions.md
+- 创建概念页 [[concepts/ai-engineering-four-evolutions|AI工程四次跃迁]]
+- EXTEND——与 [[concepts/loop-engineering-framework|循环工程框架]] 形成互补
 - 创建概念页 [[concepts/ai-kb-hallucination-solutions|AI知识库幻觉原理与应对方案]]
 - 核心内容：LLM"接梗王"本质 → 文档切块上下文断裂 → 三套实操方案对比 → 数据外挂法提升准确率至95%
 - 关联：[[concepts/myknowledge-methodology]] [[concepts/hermes-kb-guide]]
