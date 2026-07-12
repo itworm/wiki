@@ -292,3 +292,22 @@
 - 核心框架：四类做法（课堂数据采集/AI减负/资源辐射/顶层设计）→ 三大卡点（工具错位/教师能力/设备鸿沟）→ 三步走推进路径
 - 对电教站价值：点阵笔/人机双师/智慧云校等方案可直接参考；三大卡点可提前预判纳入区域规划
 - 关联：[[concepts/ai-education-current-state]] [[concepts/ai-cannot-solve-motivation]] [[concepts/teacher-ai-application-guidelines]] [[concepts/ai-education-misuse-analysis]]
+
+## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
+- 来源：微信公众号「刘欣教学设计」，2026-06-06发布
+- 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
+- 创建案例页 [[cases/yong-ai/tuiqiao-ai|当古诗"推敲"遇上AI——一堂让孩子告别"非此即彼"的语文思辨课]]（practice）
+- AI角色定位亮点：AI扮演贾岛但不给标准答案，制造认知冲突而非提供答案
+- 两个可迁移环节：AI扮演角色制造认知冲突、AI生成→学生找茬培养批判性思维
+- 有前后测对比的教学效果证据
+- 关联：[[concepts/teacher-ai-socratic-method]] [[concepts/ai-two-mode-collaboration]] [[concepts/create-thought-space]] [[concepts/ai-education-misuse-analysis]]
+- 更新 index.md + cases/yong-ai/index.md（页面数30→29→30）
+
+## [2026-07-12] ingest | 《历史课变法庭辩论赛——隋炀帝功过辩论中的AI史料助手》
+- 来源：微信公众号「刘欣教学设计」，2026-06-10发布
+- 保存原文 raw/articles/2026-06-10-sui-yangdi-ai-debate.md
+- 创建案例页 [[cases/yong-ai/sui-yangdi-ai-debate|历史课变法庭辩论赛——隋炀帝功过辩论中的AI史料助手]]（practice）
+- AI设计亮点：Coze智能体+双私有知识库限定AI知识范围；每次AI输出后教师做"史源验证"（来源→立场→程度）；辩论驱动AI调用而非教师预设播放
+- 与"推敲"案例互补：语文思辨+历史史料批判，共同支撑"AI作为思辨伙伴"设计路径
+- 关联：[[cases/yong-ai/tuiqiao-ai]] [[concepts/teacher-ai-socratic-method]] [[concepts/ai-two-mode-collaboration]] [[concepts/create-thought-space]] [[concepts/ai-education-misuse-analysis]]
+- 更新 index.md + cases/yong-ai/index.md + MOC（页面数31）

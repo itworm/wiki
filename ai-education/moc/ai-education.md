@@ -28,7 +28,7 @@
 - [[concepts/teacher-digital-burden|教师数字负担]]
 
 **找教师案例：**
-- [[cases/yong-ai/index|课堂教学案例（用AI）]] — 9个
+| [[cases/yong-ai/index|课堂教学案例（用AI）]] — 11个
 - [[cases/chuang-ai/index|教育管理平台案例（创AI）]] — 8个
 - [[cases/hu-ai/index|AI安全应用案例（护AI）]] — 1个
 
