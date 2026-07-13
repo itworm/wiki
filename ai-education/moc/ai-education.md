@@ -1,7 +1,7 @@
 # AI 教育 — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-07-04 | 总页面数：25个概念
+> 最后更新：2026-07-13 | 总页面数：27 个概念
 
 ---
 
@@ -48,7 +48,8 @@
 | [[concepts/ai-era-teacher-two-fates|AI时代教师的两种命运]] | 中间地带正在消失 |
 | [[concepts/ai-general-education-literacy|智能体协作三层意识与AI通识教育]] | 从工匠到指挥家的能力范式转变 |
 | [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] | 十六宗错与三个层次 |
-| [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] | 从新华视点多地调研看真实卡点 |
+| [[concepts/regional-ai-edu-path\\|区域AI+教育推进的实践路径与困难]] | 新华视点多地调研，区域推进AI+教育的具体做法与真实卡点 |
+| [[concepts/ai-native-vs-ai-powered\\|AI-native教育产品——从AI工具到教学决策参与者]] | AI-powered vs AI-native框架，AI参与教学决策的四步引擎模型 |
 
 ### research — 研究、理论、趋势
 
@@ -63,6 +64,8 @@
 | [[concepts/education-ai-agent-review|教育大模型智能体综述]] | 20个典型AI智能体技术架构 |
 | [[concepts/loop-engineering-framework|循环工程框架]] | AI自动化系统四大核心要素 |
 | [[concepts/ai-edu-product-strategy|AI教育产品路线对比]] | 关系增强 vs 效率替代，谷歌路线分析 |
+| [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] | 四阶段递进：事务工具→情境应用→实践分析→协同重构 |
+| [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] | 教学范式先于技术，AI应为PBL/翻转课堂服务而非强化传统讲授 |
 | [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架]] | 从判别式评课转向探究式问课 |
 
 ### product — 产品、公司、平台
@@ -90,6 +93,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-07-13 | 新增概念：AI-native教育产品——从AI工具到教学决策参与者（research），AI-powered vs AI-native框架+四步引擎模型 |
 | 2026-07-04 | 新增概念：AI教育产品路线（关系增强 vs 效率替代） |
 | 2026-07-04 | 新增 `decisions/` 决策记录目录 |
 | 2026-06-02 | 清空自动入库的旧内容，进入用户指定精选模式 |

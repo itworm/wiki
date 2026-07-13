@@ -100,6 +100,29 @@
 - 概念页 [[concepts/ai-general-education-literacy]] 新增"从获得答案到提对问题"章节
 - 新增人机协同/人机交互/人机共创三种能力定义
 
+## [2026-07-04] ingest | 个人感悟：教师角色的重新定位
+- 创建概念页 [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位]]
+- 核心命题：教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成
+- 关联 [[ai-era-teacher-two-fates]] [[ai-in-classroom]]
+
+## [2026-07-04] update | 补充陈玉琨出处+"认知外包"概念
+- UPDATE [[teacher-role-teaching-vs-education]]
+- 补充陈玉琨"把教书交给机器，把育人留给教师"原文出处
+- 新增刘大伟"认知外包"概念+UK研究数据
+- 新增"三层人机协同边界"框架
+- 来源：校长派微信公众号
+
+## [2026-07-04] ingest | AI+HI人机协同递进模型
+- 学术论文入库（《中小学信息技术教育》2026年6期）
+- 保存原文 raw/articles/2026-07-04-ai-plus-hi-teacher-cognition.md
+- 创建概念页 [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]]
+- 四阶段框架：事务型→情境型→实践型→协同型
+
+## [2026-07-04] ingest | AI赋能新范式而非旧范式
+- 概念提取入库，聚焦"教学范式先于技术"核心论点
+- 保存原文 raw/articles/2026-07-04-ai-empower-new-paradigm.md
+- 创建概念页 [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]]
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
@@ -292,6 +315,14 @@
 - 核心框架：四类做法（课堂数据采集/AI减负/资源辐射/顶层设计）→ 三大卡点（工具错位/教师能力/设备鸿沟）→ 三步走推进路径
 - 对电教站价值：点阵笔/人机双师/智慧云校等方案可直接参考；三大卡点可提前预判纳入区域规划
 - 关联：[[concepts/ai-education-current-state]] [[concepts/ai-cannot-solve-motivation]] [[concepts/teacher-ai-application-guidelines]] [[concepts/ai-education-misuse-analysis]]
+
+## [2026-07-13] ingest | AI-native教育产品——从AI工具到教学决策参与者（日报入库）
+- 来源：芥末堆，LingoAce发布Tutor Luna（日报第1条）
+- 保存原文 raw/articles/2026-07-13-lingoace-tutor-luna.md
+- 创建概念页 [[concepts/ai-native-vs-ai-powered|AI-native教育产品——从AI工具到教学决策参与者的范式转变]]（research）
+- 核心框架：AI教育三次跃迁 → AI-powered vs AI-native 分析框架 → 四步学习引擎模型（识别→生成→反馈→建模→优化）→ 从课程交付到能力增长交付
+- 对电教站价值：AI-powered/AI-native可作为产品选型判断维度；"能力增长交付"理念可融入区域AI教育评价导向
+- 关联：[[concepts/ai-education-current-state]] [[concepts/ai-edu-three-routes]] [[concepts/ai-education-misuse-analysis]]
 
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布

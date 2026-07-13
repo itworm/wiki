@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|AI 教育检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-07-12 | 总页面数：31
+> 最后更新：2026-07-13 | 总页面数：30
 
 ## MOC 检索地图
 
@@ -24,13 +24,16 @@
 - [[concepts/ai-learning-methodology|AI学习路径与方法]] — 从实践中学习AI的模式，对教师AI素养培训有直接启发
 - [[concepts/ai-lesson-prep-methodology|AI备课方法论]] — 教师用AI备课的六步法：先拆解课堂再生成教案（scope: practice）
 - [[concepts/ai-exam-review-courseware|AI试卷讲评互动课件]] — 用飞象老师5分钟生成互动试卷讲评课件（scope: practice）
+- [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] — 江丰光提出四阶段递进：事务工具→情境应用→实践分析→协同重构（scope: research）
 - [[concepts/create-thought-space|教师创造思想空间]] — 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
+- [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成（scope: practice）
 - [[concepts/2026-education-trends|2026年六大教育趋势]] — 福布斯预测：AI智能体、AI素养、游戏化学习、以人为中心技能等六大方向（scope: research）
 - [[concepts/ai-era-learning-theory|AI时代呼唤新的学习理论]] — 行为主义/认知主义/建构主义已不足以解释AI时代的学习，呼唤新理论（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
-- [[concepts/ai-edu-three-routes|AI教育的三条路径——大厂效率、教培名师与"认知断点"路线]] — 对比分析2026年AI教育行业三大路线，洋葱学园"认知断点"方法论与人机复合型教师模式（scope: research）
-- [[concepts/ai-education-current-state|AI教育当前阶段分析]] — 批判性分析：教育AI化处于浅层辅助阶段，"AI辅助、教师主导"是未来方向（scope: research）
+- [[concepts/ai-edu-three-routes|AI教育的三条路径——大厂效率、教培名师与认知断点路线]] — 对比分析2026年AI教育行业三大路线（scope: research）
+- [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] — 教学范式先于技术应用，先变革教学结构再赋能，而非用AI强化传统讲授（scope: research）
+- [[concepts/ai-education-current-state|AI教育当前阶段分析]]
 - [[concepts/ai-era-gaokao-reform|AI时代的考试改革——高考内容与形式需与时俱进]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
 - [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引（第一版）]] — 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景（scope: practice）
 - [[concepts/china-education-macro-trends|中国教育宏观趋势：生源结构转型与教育分层]] — 2026年高考锐减45万背后的三重结构性变化：普职分流主动化、复读模式终结、公平迭代为素养差距（scope: research）
@@ -43,6 +46,7 @@
 - [[concepts/loop-engineering-framework|循环工程（Loop Engineering）——AI自动化系统的四大核心要素]] — Addy Osmani 系统化的循环工程框架，包含定时自动触发、持久记忆、技能沉淀、外部连接四要素，与 Hermes 的 cron+skill+memory+API 架构高度对应（scope: research）
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析：十六宗错与三个层次]] — 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失（scope: practice）
 - [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] — 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点（scope: practice）
+- [[concepts/ai-native-vs-ai-powered|AI-native教育产品——从AI工具到教学决策参与者的范式转变]] — AI-powered vs AI-native分析框架，AI参与教学决策的四步引擎模型（scope: research）
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]] — 谷歌ISTE2026启示：AI是关系增强器而非效率替代品，围绕师生关系做增强（scope: research）
 
@@ -69,6 +73,7 @@
 - [[raw/articles/2026-04-15-southern-daily-ai-general-education|AI将全面进入大中小学课堂——五部门联合推动AI通识教育普及]] — 来自 南方日报（日报入库）
 - [[raw/articles/2026-06-30-khan-academy-ai-motivation-gap|可汗学院创始人：AI不是最终解决方案]] — 来自 芥末堆（日报入库）
 - [[raw/articles/2026-07-08-xinhua-ai-plus-education|新华视点：AI+教育，如何加出未来]] — 来自 新华网（日报入库）
+- [[raw/articles/2026-07-13-lingoace-tutor-luna|从AI工具到教学决策：LingoAce发布Tutor Luna]] — 来自 芥末堆（日报入库）
 
 
 ## Cases
