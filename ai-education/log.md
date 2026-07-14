@@ -324,6 +324,14 @@
 - 对电教站价值：AI-powered/AI-native可作为产品选型判断维度；"能力增长交付"理念可融入区域AI教育评价导向
 - 关联：[[concepts/ai-education-current-state]] [[concepts/ai-edu-three-routes]] [[concepts/ai-education-misuse-analysis]]
 
+## [2026-07-14] ingest | 课堂认知盲区与可观测AI（日报入库）
+- 来源：OpenAI，SchoolAI利用GPT-4.1打造AI导师Sidekick，覆盖全球100万教室（日报第5条）
+- 保存原文 raw/articles/2026-07-14-schoolai-sidekick.md
+- 创建概念页 [[concepts/classroom-blindspot-observable-ai|课堂认知盲区与可观测AI]]（research）
+- 核心框架：课堂认知盲区（中间80%学生）→ 可观测AI架构 → 教练式引导vs直接给答案 → 智能路由成本优化
+- 对电教站价值：认知盲区概念可唤醒教师在AI培训中的需求痛点；"可观测性"可作为AI产品选型硬性门槛
+- 关联：[[concepts/ai-native-vs-ai-powered]] [[concepts/ai-education-current-state]] [[concepts/ai-cannot-solve-motivation]] [[concepts/regional-ai-edu-path]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md

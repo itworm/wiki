@@ -1,7 +1,7 @@
 # AI 教育 — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-07-13 | 总页面数：27 个概念
+> 最后更新：2026-07-14 | 总页面数：28 个概念
 
 ---
 
@@ -50,6 +50,7 @@
 | [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] | 十六宗错与三个层次 |
 | [[concepts/regional-ai-edu-path\\|区域AI+教育推进的实践路径与困难]] | 新华视点多地调研，区域推进AI+教育的具体做法与真实卡点 |
 | [[concepts/ai-native-vs-ai-powered\\|AI-native教育产品——从AI工具到教学决策参与者]] | AI-powered vs AI-native框架，AI参与教学决策的四步引擎模型 |
+| [[concepts/classroom-blindspot-observable-ai\\|课堂认知盲区与可观测AI]] | SchoolAI教练式引导+可观测AI架构，从课堂认知盲区出发的设计 |
 
 ### research — 研究、理论、趋势
 
@@ -93,6 +94,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-07-14 | 新增概念：课堂认知盲区与可观测AI（research），SchoolAI教练式引导+智能路由+可观测架构 |
 | 2026-07-13 | 新增概念：AI-native教育产品——从AI工具到教学决策参与者（research），AI-powered vs AI-native框架+四步引擎模型 |
 | 2026-07-04 | 新增概念：AI教育产品路线（关系增强 vs 效率替代） |
 | 2026-07-04 | 新增 `decisions/` 决策记录目录 |
