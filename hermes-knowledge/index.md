@@ -20,6 +20,8 @@
 | [[concepts/ai-engineering-four-evolutions|AI工程四次跃迁]] | 🟢 | Prompt→Context→Harness→Loop 演进框架 |
 | [[concepts/ai-kb-hallucination-solutions|AI知识库幻觉原理与应对方案]] | LLM"接梗王"本质+文档切块陷阱+三套实战方案对比 |
 | [[concepts/karpathy-llm-wiki|Karpathy LLM Wiki——知识库的复利增长模型]] | Karpathy 顶层哲学：LLM 是知识工程师，知识是一次性编译永久复用的资产 |
+| [[concepts/kb-productization-methodology|知识库产品化方法论]] | 🟢 | Sean 系列第三篇：从自用到开源，框架与内容分离 |
+| [[concepts/kb-engineering-practice|知识库工程化实践]] | 🟢 | Sean 系列第二篇：目录即状态、脚本三连、三层防线 |
 
 ## Raw Articles
 
@@ -31,5 +33,6 @@
 | [[raw/articles/from-hoarding-to-cultivating|从囤积到经营：认知资产库构建]] | 人人都是产品经理 / Sean |
 | [[raw/articles/skill-verification-handover|Skill 验证、版本与交接]] | 人人都是产品经理 / Zoe产品手记 |
 | [[raw/articles/ai-engineering-four-evolutions|AI工程的第四次跃迁]] | 人人都是产品经理 / 枝酒 |
+| [[raw/articles/kb-productization-practice|从自用到开源——知识库产品化实践]] | 人人都是产品经理 / Sean |
 | [[raw/articles/2026-07-08-ai-kb-hallucination-analysis\\|为什么花了十几万搭知识库，生成内容还是很多幻觉？]] | 人人都是产品经理 / 邹叔 |
 | [[raw/articles/2026-07-08-karpathy-llm-wiki\\|Karpathy 开源新方案：Agent+Obsidian，让 LLM 帮你构建复利知识库]] | 今日头条 / AI架构之家 |
