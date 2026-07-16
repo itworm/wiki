@@ -332,6 +332,14 @@
 - 对电教站价值：认知盲区概念可唤醒教师在AI培训中的需求痛点；"可观测性"可作为AI产品选型硬性门槛
 - 关联：[[concepts/ai-native-vs-ai-powered]] [[concepts/ai-education-current-state]] [[concepts/ai-cannot-solve-motivation]] [[concepts/regional-ai-edu-path]]
 
+## [2026-07-16] ingest | AI思辨式伴读——从不可能三角看AI在阅读教育中的破局（日报入库）
+- 来源：芥末堆，猿辅导AI一对一伴读（日报第2条）
+- 保存原文 raw/articles/2026-07-16-yuanfudao-ai-reading.md
+- 创建概念页 [[concepts/ai-socratic-reading-companion|AI思辨式伴读——从不可能三角看AI在阅读教育中的破局]]（practice）
+- 核心框架：阅读教育"不可能三角"→ AI思辨式伴读四层追问框架（找现象→比行为→挖内因→提规律）→ 陪练式AI vs 问答式AI
+- 对电教站价值："不可能三角"可作为区域产品选型通用分析框架；"陪练式AI"维度可融入教师AI培训内容
+- 关联：[[concepts/ai-native-vs-ai-powered]] [[concepts/regional-ai-edu-path]] [[concepts/ai-cannot-solve-motivation]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md

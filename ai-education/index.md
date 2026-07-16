@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|AI 教育检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-07-14 | 总页面数：31
+> 最后更新：2026-07-16 | 总页面数：32
 
 ## MOC 检索地图
 
@@ -48,6 +48,7 @@
 - [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] — 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点（scope: practice）
 - [[concepts/ai-native-vs-ai-powered|AI-native教育产品——从AI工具到教学决策参与者的范式转变]] — AI-powered vs AI-native分析框架，AI参与教学决策的四步引擎模型（scope: research）
 - [[concepts/classroom-blindspot-observable-ai|课堂认知盲区与可观测AI]] — SchoolAI的教练式引导设计哲学，可观测AI架构（scope: research）
+- [[concepts/ai-socratic-reading-companion|AI思辨式伴读——从不可能三角看AI在阅读教育中的破局]] — 猿辅导AI一对一伴读，陪练式AI比问答式AI更有长期价值（scope: practice）
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]] — 谷歌ISTE2026启示：AI是关系增强器而非效率替代品，围绕师生关系做增强（scope: research）
 
@@ -76,6 +77,7 @@
 - [[raw/articles/2026-07-08-xinhua-ai-plus-education|新华视点：AI+教育，如何加出未来]] — 来自 新华网（日报入库）
 - [[raw/articles/2026-07-13-lingoace-tutor-luna|从AI工具到教学决策：LingoAce发布Tutor Luna]] — 来自 芥末堆（日报入库）
 - [[raw/articles/2026-07-14-schoolai-sidekick|SchoolAI借助GPT-4.1打造AI导师Sidekick，已覆盖全球100万间教室]] — 来自 OpenAI（日报入库）
+- [[raw/articles/2026-07-16-yuanfudao-ai-reading|猿辅导AI一对一伴读助力青少年读深想透说得出]] — 来自 芥末堆（日报入库）
 
 
 ## Cases
