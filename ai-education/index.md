@@ -27,14 +27,17 @@
 - [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] — 江丰光提出四阶段递进：事务工具→情境应用→实践分析→协同重构（scope: research）
 - [[concepts/create-thought-space|教师创造思想空间]] — 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
+- [[concepts/ai-native-teacher-formula|AI原生教师=教学系统设计内功×AI外功]] — 刘欣提出：当内功不够时，再强的外功也是危险的（scope: practice）
 - [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成（scope: practice）
 - [[concepts/2026-education-trends|2026年六大教育趋势]] — 福布斯预测：AI智能体、AI素养、游戏化学习、以人为中心技能等六大方向（scope: research）
 - [[concepts/ai-era-learning-theory|AI时代呼唤新的学习理论]] — 行为主义/认知主义/建构主义已不足以解释AI时代的学习，呼唤新理论（scope: research）
+- [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 注意力从150秒到47秒，AI摘要替代不了一手阅读，认知挣扎是学习必要条件（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
 - [[concepts/ai-edu-three-routes|AI教育的三条路径——大厂效率、教培名师与认知断点路线]] — 对比分析2026年AI教育行业三大路线（scope: research）
 - [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] — 教学范式先于技术应用，先变革教学结构再赋能，而非用AI强化传统讲授（scope: research）
 - [[concepts/ai-education-current-state|AI教育当前阶段分析]]
-- [[concepts/ai-era-gaokao-reform|AI时代的考试改革——高考内容与形式需与时俱进]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
+- [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]] — 刘欣方法论：静态→动态、计算→建模、解题→出题、经验→数据（scope: practice）
+- [[concepts/ai-era-gaokao-reform|AI时代的考试改革]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
 - [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引（第一版）]] — 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景（scope: practice）
 - [[concepts/china-education-macro-trends|中国教育宏观趋势：生源结构转型与教育分层]] — 2026年高考锐减45万背后的三重结构性变化：普职分流主动化、复读模式终结、公平迭代为素养差距（scope: research）
 - [[concepts/education-ai-agent-review|教育大模型智能体综述]] — 学术综述：20个典型教育AI智能体的技术架构、开发框架与四大应用场景（scope: research）

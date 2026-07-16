@@ -67,6 +67,7 @@
 | [[concepts/ai-edu-product-strategy|AI教育产品路线对比]] | 关系增强 vs 效率替代，谷歌路线分析 |
 | [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] | 四阶段递进：事务工具→情境应用→实践分析→协同重构 |
 | [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] | 教学范式先于技术，AI应为PBL/翻转课堂服务而非强化传统讲授 |
+| [[concepts/ai-native-teacher-formula|AI原生教师公式]] | 教学系统设计内功 x AI外功，当内功不够时外功危险 |
 | [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架]] | 从判别式评课转向探究式问课 |
 
 ### product — 产品、公司、平台

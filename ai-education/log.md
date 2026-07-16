@@ -123,6 +123,23 @@
 - 保存原文 raw/articles/2026-07-04-ai-empower-new-paradigm.md
 - 创建概念页 [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]]
 
+## [2026-07-04] ingest | AI原生教师公式（刘欣）
+- 保存原文 raw/articles/2026-07-04-ai-native-teacher-formula.md
+- 创建概念页 [[concepts/ai-native-teacher-formula|AI原生教师=教学系统设计内功×AI外功]]
+- 核心公式：内功（教学系统设计能力）× 外功（AI工具能力）
+
+## [2026-07-04] ingest | AI融合课四步改造法（刘欣实操案例）
+- 保存原文 raw/articles/2026-07-04-liuxin-math-ai-case.md
+- 创建概念页 [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]]
+- 四步：静态→动态 / 计算→建模 / 解题→出题 / 经验→数据
+- 关联 [[ai-native-teacher-formula]]（同一作者，理论→实操）
+
+## [2026-07-04] ingest | 后识字时代——阅读衰退与AI认知影响
+- 译自《大西洋月刊》，万字长文
+- 保存原文 raw/articles/2026-07-04-end-of-reading-atlantic.md
+- 创建概念页 [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]]
+- 三条论据：AI摘要替代不了一手阅读 / 认知挣扎是学习必要条件 / 深度思维能力系统性衰退
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
