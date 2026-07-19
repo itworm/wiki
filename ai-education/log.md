@@ -375,3 +375,19 @@
 - 与"推敲"案例互补：语文思辨+历史史料批判，共同支撑"AI作为思辨伙伴"设计路径
 - 关联：[[cases/yong-ai/tuiqiao-ai]] [[concepts/teacher-ai-socratic-method]] [[concepts/ai-two-mode-collaboration]] [[concepts/create-thought-space]] [[concepts/ai-education-misuse-analysis]]
 - 更新 index.md + cases/yong-ai/index.md + MOC（页面数31）
+
+## [2026-07-19] ingest | 教育AI战国时代 —— 猿力/松鼠AI/豆神/粉笔/作业帮五路突围
+- 来源：人人都是产品经理（白名单C组），2026-04-01发布
+- 保存原文 raw/articles/2026-04-01-ai-edu-warring-states.md
+- 创建概念页 [[concepts/ai-edu-warring-states-landscape|教育AI战国格局——五家企业的战略路线对比]]（scope: product）
+- 核心框架：五家企业战略路线对比表（全栈自研/算法原教旨/人文情感/垂直效率/流量规模）+ 短板分析 + 终局预测
+- 关联：[[concepts/ai-edu-three-routes]] [[concepts/ai-edu-product-strategy]] [[concepts/tianli-brain-nature-case]]
+- 更新 index.md + MOC（页面数32→34）
+
+## [2026-07-19] ingest | 教育AI技术栈解构 —— 从大模型到智能体的架构实践
+- 来源：人人都是产品经理（白名单C组），2026-07-02发布
+- 保存原文 raw/articles/2026-07-02-edu-ai-tech-stack.md
+- 创建概念页 [[concepts/edu-ai-tech-stack-deconstruction|教育AI技术栈——从大模型到智能体的架构解构]]（scope: research）
+- 核心案例：爱学大模型双数据飞轮+三层记忆、微软Study and Learn以问代答、企鹅教师助手经验结构化、学而思T6闭环、2026 WDEC标准之争
+- 关联：[[concepts/education-ai-agent-review]] [[concepts/ai-native-vs-ai-powered]] [[concepts/ai-edu-three-routes]] [[concepts/wenke-wise-classroom-research]]
+- 更新 index.md + MOC

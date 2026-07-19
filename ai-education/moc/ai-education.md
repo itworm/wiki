@@ -1,7 +1,7 @@
 # AI 教育 — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-07-16 | 总页面数：28 个概念
+> 最后更新：2026-07-19 | 总页面数：30 个概念
 
 ---
 
@@ -22,6 +22,9 @@
 - [[concepts/ai-in-classroom|AI走进课堂教学]]
 - [[concepts/ai-education-tools|AI教育工具（演示工具）]]
 - [[concepts/edge-ai-education|端侧AI与教育场景]]
+
+**找行业竞争格局：**
+- [[concepts/ai-edu-warring-states-landscape|教育AI战国格局]] — 猿力/松鼠AI/豆神/粉笔/作业帮五家路线对比
 
 **找政策与安全：**
 - [[concepts/ai-exam-security|AI与考试安全]]
@@ -64,7 +67,8 @@
 | [[concepts/china-education-macro-trends|中国教育宏观趋势]] | 生源结构转型与教育分层 |
 | [[concepts/education-ai-agent-review|教育大模型智能体综述]] | 20个典型AI智能体技术架构 |
 | [[concepts/loop-engineering-framework|循环工程框架]] | AI自动化系统四大核心要素 |
-| [[concepts/ai-edu-product-strategy|AI教育产品路线对比]] | 关系增强 vs 效率替代，谷歌路线分析 |
+| [[concepts/edu-ai-tech-stack-deconstruction|教育AI技术栈]] | 爱学大模型/微软Study and Learn/企鹅教师助手/学而思T6技术案例 |
+| [[concepts/ai-edu-product-strategy|AI教育产品路线对比]]
 | [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] | 四阶段递进：事务工具→情境应用→实践分析→协同重构 |
 | [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] | 教学范式先于技术，AI应为PBL/翻转课堂服务而非强化传统讲授 |
 | [[concepts/ai-native-teacher-formula|AI原生教师公式]] | 教学系统设计内功 x AI外功，当内功不够时外功危险 |
@@ -80,6 +84,7 @@
 | [[concepts/wange-zhiyuan|万格智元]] | 端侧算力引擎cPilot |
 | [[concepts/ai-university-platform|高校AI大模型中台架构]] | 北师大中台方案 |
 | [[concepts/tianli-brain-nature-case|天立学科大脑]] | 登上Nature Index的中国AI+教育案例 |
+| [[concepts/ai-edu-warring-states-landscape|教育AI战国格局]] | 猿力/松鼠AI/豆神/粉笔/作业帮五家路线对比 |
 
 ### policy — 政策、标准、考试安全
 
@@ -95,6 +100,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-07-19 | 新增概念：教育AI战国格局（product）— 五家企业路线对比；教育AI技术栈（research）— 爱学/微软Study and Learn/企鹅助手/学而思T6技术架构 |
 | 2026-07-16 | 新增概念：AI思辨式伴读（practice），猿辅导AI阅读破局"不可能三角"+陪练式AI框架 |
 | 2026-07-14 | 新增概念：课堂认知盲区与可观测AI（research）
 | 2026-07-13 | 新增概念：AI-native教育产品——从AI工具到教学决策参与者（research），AI-powered vs AI-native框架+四步引擎模型 |

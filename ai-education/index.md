@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|AI 教育检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-07-16 | 总页面数：32
+> 最后更新：2026-07-19 | 总页面数：34
 
 ## MOC 检索地图
 
@@ -34,7 +34,8 @@
 - [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 注意力从150秒到47秒，AI摘要替代不了一手阅读，认知挣扎是学习必要条件（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
 - [[concepts/ai-edu-three-routes|AI教育的三条路径——大厂效率、教培名师与认知断点路线]] — 对比分析2026年AI教育行业三大路线（scope: research）
-- [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]] — 教学范式先于技术应用，先变革教学结构再赋能，而非用AI强化传统讲授（scope: research）
+- [[concepts/ai-edu-warring-states-landscape|教育AI战国格局——五家企业的战略路线对比]] — 猿力/松鼠AI/豆神/粉笔/作业帮五家AI教育公司路线对比（scope: product）
+- [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]]
 - [[concepts/ai-education-current-state|AI教育当前阶段分析]]
 - [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]] — 刘欣方法论：静态→动态、计算→建模、解题→出题、经验→数据（scope: practice）
 - [[concepts/ai-era-gaokao-reform|AI时代的考试改革]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
@@ -54,6 +55,7 @@
 - [[concepts/ai-socratic-reading-companion|AI思辨式伴读——从不可能三角看AI在阅读教育中的破局]] — 猿辅导AI一对一伴读，陪练式AI比问答式AI更有长期价值（scope: practice）
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]] — 谷歌ISTE2026启示：AI是关系增强器而非效率替代品，围绕师生关系做增强（scope: research）
+- [[concepts/edu-ai-tech-stack-deconstruction|教育AI技术栈——从大模型到智能体的架构解构]] — 爱学大模型/微软Study and Learn/企鹅教师助手/学而思T6等2026年教育AI技术架构案例（scope: research）
 
 
 ## Raw Articles
