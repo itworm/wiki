@@ -32,6 +32,7 @@
 - [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成（scope: practice）
 - [[concepts/2026-education-trends|2026年六大教育趋势]] — 福布斯预测：AI智能体、AI素养、游戏化学习、以人为中心技能等六大方向（scope: research）
 - [[concepts/ai-era-learning-theory|AI时代呼唤新的学习理论]] — 行为主义/认知主义/建构主义已不足以解释AI时代的学习，呼唤新理论（scope: research）
+- [[concepts/three-behavior-change-models|持久行为改变的三个模型]] — 阶梯模型/社交磁力/要事为先，游戏化学习的理论根基（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 - [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 注意力从150秒到47秒，AI摘要替代不了一手阅读，认知挣扎是学习必要条件（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
