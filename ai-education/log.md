@@ -140,6 +140,17 @@
 - 创建概念页 [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]]
 - 三条论据：AI摘要替代不了一手阅读 / 认知挣扎是学习必要条件 / 深度思维能力系统性衰退
 
+## [2026-07-04] ingest | 高位转移——AI教育问题升维框架
+- 保存原文 raw/articles/2026-07-04-high-level-shift-education.md
+- 创建概念页 [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]]
+- 核心框架：效率退潮→质量显形 / 技术止步→人性登场 / 工具退后→哲学升维
+
+## [2026-07-04] ingest | 伟大事物——课堂中心与AI融合的哲学基础
+- 保存原文 raw/articles/2026-07-04-palmer-great-things.md
+- 创建概念页 [[concepts/great-things-classroom-center|伟大事物——课堂中心与AI融合的哲学基础]]
+- 帕尔默《教学勇气》：让学科本身而非教师/学生居于课堂中心
+- 关联 [[ai-lesson-four-step-transformation]]
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]

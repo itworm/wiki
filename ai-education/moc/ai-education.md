@@ -44,7 +44,8 @@
 | 页面 | 概要 |
 |------|------|
 | [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法]] | 让AI问你问题而非你问AI要答案，三种实操场景 |
-| [[concepts/teacher-ai-application-guidelines|教师生成式AI应用指引（第一版）]] | 国家层面首份教师AI应用规范 |
+| [[concepts/great-things-classroom-center|伟大事物——课堂中心与AI融合的哲学基础]] | 帕尔默第三条路：学科本身居于中心 |
+| [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]]
 | [[concepts/ai-era-gaokao-reform|AI时代的考试改革]] | 高考从记忆转向运用知识，开放性试题 |
 | [[concepts/333-evaluation-framework|333教研评课框架]] | 3优点+3缺点+3建议结构化评课 |
 | [[concepts/ai-two-mode-collaboration|两种AI协同模式]] | 内容生产者 vs 思维伙伴 |

@@ -27,10 +27,12 @@
 - [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] — 江丰光提出四阶段递进：事务工具→情境应用→实践分析→协同重构（scope: research）
 - [[concepts/create-thought-space|教师创造思想空间]] — 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
+- [[concepts/great-things-classroom-center|伟大事物——课堂中心与AI融合的哲学基础]] — 帕尔默：让学科本身而非教师/学生居于课堂中心（scope: practice）
 - [[concepts/ai-native-teacher-formula|AI原生教师=教学系统设计内功×AI外功]] — 刘欣提出：当内功不够时，再强的外功也是危险的（scope: practice）
 - [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成（scope: practice）
 - [[concepts/2026-education-trends|2026年六大教育趋势]] — 福布斯预测：AI智能体、AI素养、游戏化学习、以人为中心技能等六大方向（scope: research）
 - [[concepts/ai-era-learning-theory|AI时代呼唤新的学习理论]] — 行为主义/认知主义/建构主义已不足以解释AI时代的学习，呼唤新理论（scope: research）
+- [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 - [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 注意力从150秒到47秒，AI摘要替代不了一手阅读，认知挣扎是学习必要条件（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
 - [[concepts/ai-edu-three-routes|AI教育的三条路径——大厂效率、教培名师与认知断点路线]] — 对比分析2026年AI教育行业三大路线（scope: research）
