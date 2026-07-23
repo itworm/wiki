@@ -156,6 +156,12 @@
 - 创建概念页 [[concepts/three-behavior-change-models|持久行为改变的三个模型]]
 - 来源：Sean Young《如何想到又做到》，游戏化学习的理论根基
 
+## [2026-07-04] ingest | 乘法算理大师——三年级AI智能体课堂实录
+- 保存原文 raw/articles/2026-07-04-multiplication-ai-agent-case.md
+- 创建案例页 [[cases/national/multiplication-ai-agent-case|乘法算理大师课堂实录]]
+- 新增 cases/national/ 目录，收录全国优秀案例
+- 关联 [[teacher-role-teaching-vs-education]] [[ai-lesson-four-step-transformation]] [[great-things-classroom-center]] [[high-level-shift-education]]
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]

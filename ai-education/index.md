@@ -95,3 +95,4 @@
 | [[cases/yong-ai/index|课堂教学案例（用AI）]] | 11 | 数学/语文/英语/科学/历史课堂中AI辅助教学实践 |
 | [[cases/chuang-ai/index|教育管理平台案例（创AI）]] | 8 | 校园管理、智能体、数据分析等平台 |
 | [[cases/hu-ai/index|AI安全应用案例（护AI）]] | 1 | AI生成内容审核与数据安全 |
+| [[cases/national/index|全国优秀案例]] | 1 | 张安仁团队乘法算理大师课堂实录 |

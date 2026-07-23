@@ -34,6 +34,7 @@
 | [[cases/yong-ai/index|课堂教学案例（用AI）]] — 11个
 - [[cases/chuang-ai/index|教育管理平台案例（创AI）]] — 8个
 - [[cases/hu-ai/index|AI安全应用案例（护AI）]] — 1个
+- [[cases/national/index|全国优秀案例]] — 张安仁团队乘法算理大师
 
 ---
 
