@@ -414,11 +414,6 @@
 - 关联：[[concepts/education-ai-agent-review]] [[concepts/ai-native-vs-ai-powered]] [[concepts/ai-edu-three-routes]] [[concepts/wenke-wise-classroom-research]]
 - 更新 index.md + MOC
 
-## [2026-07-27] ingest | AI时代，大学文凭和专业资格正在被重新定价（白名单采集）
-- 来源：人人都是产品经理（白名单C组），作者「职场人类学」，2026-07-24发布
-- 保存原文 raw/articles/2026-07-24-ai-era-credential-value.md
-- 创建概念页 [[concepts/ai-era-credential-crisis|AI时代，大学文凭和专业资格正在被重新定价]]（scope: research）
-- 核心框架：大学作为"中介"被绕过 → 专业服务中层被AI挤压 → 专业伦理成为AI无法替代的优势
 - 关键数据：摩根士丹利2026年7月报告——专业服务行业AI净生产率提升9.6%
 - 对电教站价值：教师专业发展的重心应从"技术培训"转向"决策判断力+伦理承担"
 - 关联：[[concepts/china-education-macro-trends]] [[concepts/ai-era-teacher-two-fates]] [[concepts/ai-education-current-state]] [[concepts/ai-education-misuse-analysis]]
