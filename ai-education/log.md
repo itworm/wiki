@@ -379,6 +379,22 @@
 - 对电教站价值："不可能三角"可作为区域产品选型通用分析框架；"陪练式AI"维度可融入教师AI培训内容
 - 关联：[[concepts/ai-native-vs-ai-powered]] [[concepts/regional-ai-edu-path]] [[concepts/ai-cannot-solve-motivation]]
 
+## [2026-07-21] ingest | 上海市中小学人工智能素养评价框架（日报入库）
+- 来源：芥末堆，WAIC 2026国际AI教育论坛发布（日报第1条）
+- 保存原文 raw/articles/2026-07-21-shanghai-ai-literacy-framework.md
+- 创建概念页 [[concepts/shanghai-ai-literacy-framework|上海市中小学人工智能素养评价框架]]（policy）
+- 核心框架：四维度（AI意识/思维/应用与创新/社会责任）+ 12项二级指标 + 三水平递进（感知理解→实践应用→协同创新）+ 分学段聚焦
+- 对电教站价值：可直接作为区域制定本地化AI素养评价标准的模板；评估任务示例可复用
+- 关联：[[concepts/ai-education-action-plan]] [[concepts/ai-general-education-literacy]] [[concepts/regional-ai-edu-path]]
+
+## [2026-07-21] ingest | WAIC 2026教育论坛——AI时代的人才培养与教育重构（日报入库）
+- 来源：澎湃新闻/人民日报，WAIC 2026教育专题论坛（日报第1条）
+- 保存原文 raw/articles/2026-07-21-waic-2026-education-panel.md
+- 创建概念页 [[concepts/waic-2026-education-reform|WAIC 2026教育论坛——AI时代的人才培养与教育重构]]（practice）
+- 核心框架：经师+人师+机师三重身份（马余刚）→ OPC/FDE新人才范式（周刚）→ 徐汇区重构教育三件事 → AI金句集
+- 对电教站价值：三重身份框架可用于教师培训目标设定；徐汇区三件事可作为区域推进参照；金句可作培训素材
+- 关联：[[concepts/shanghai-ai-literacy-framework]] [[concepts/ai-education-action-plan]] [[concepts/ai-education-current-state]] [[concepts/ai-era-teacher-two-fates]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
