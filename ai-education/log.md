@@ -162,6 +162,18 @@
 - 新增 cases/national/ 目录，收录全国优秀案例
 - 关联 [[teacher-role-teaching-vs-education]] [[ai-lesson-four-step-transformation]] [[great-things-classroom-center]] [[high-level-shift-education]]
 
+## [2026-07-28] ingest | AI个性化学习适配——五维自测法
+- 保存原文 raw/articles/2026-07-28-ai-learning-profile-five-dimensions.md
+- 创建概念页 [[concepts/ai-personalized-learning-profile|AI个性化学习适配——五维自测法]]
+- 五维框架：VARK / 场独立依存 / 能量节奏 / 自我效能 / 考试焦虑
+- 关联 [[three-behavior-change-models]]
+
+## [2026-07-28] ingest | AI不是削弱思考，而是让思考进入更高维度
+- 保存原文 raw/articles/2026-07-28-ai-elevates-thinking.md
+- 创建概念页 [[concepts/ai-elevates-thinking-bloom-zpd|AI提升思考维度——Bloom+ZPD视角]]
+- 核心框架：AI降低低阶认知 + Bloom分层 + 维果茨基ZPD
+- 与[[high-level-shift-education]]和[[post-literacy-age-ai-impact]]形成互补对照
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
