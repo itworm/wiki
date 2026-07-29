@@ -407,6 +407,14 @@
 - 对电教站价值：三重身份框架可用于教师培训目标设定；徐汇区三件事可作为区域推进参照；金句可作培训素材
 - 关联：[[concepts/shanghai-ai-literacy-framework]] [[concepts/ai-education-action-plan]] [[concepts/ai-education-current-state]] [[concepts/ai-era-teacher-two-fates]]
 
+## [2026-07-29] ingest | 从工具效率到认知理解——教育AI的深水区转型与认知世界模型（日报入库）
+- 来源：芥末堆，复旦大学副校长周磊谈教师转型 + 天立启鸣CWM白皮书（日报第1条）
+- 保存原文 raw/articles/2026-07-29-cognitive-world-model-edu-ai.md
+- 创建概念页 [[concepts/cognitive-world-model-edu-ai|从工具效率到认知理解——教育AI的深水区转型与认知世界模型]]（research）
+- 核心框架：范式转型（工具效率→认知理解）→ 三大结构性难题 → CWM认知世界模型 + LAM闭环 → 认知主权伦理框架
+- 对电教站价值：范式框架可用于培训宣讲；三难题可作为区域自评工具；CWM和认知主权可作为产品选型新维度
+- 关联：[[concepts/ai-education-current-state]] [[concepts/ai-native-vs-ai-powered]] [[concepts/regional-ai-edu-path]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
