@@ -415,6 +415,14 @@
 - 对电教站价值：范式框架可用于培训宣讲；三难题可作为区域自评工具；CWM和认知主权可作为产品选型新维度
 - 关联：[[concepts/ai-education-current-state]] [[concepts/ai-native-vs-ai-powered]] [[concepts/regional-ai-edu-path]]
 
+## [2026-07-30] ingest | AI时代教师角色的国际探索——光明日报四重角色与四根支柱（日报入库）
+- 来源：光明日报，社科院王维国（日报第3条）
+- 保存原文 raw/articles/2026-07-30-gmw-teacher-role-international.md
+- 创建概念页 [[concepts/gmw-teacher-role-international|AI时代教师角色的国际探索——光明日报四重角色与四根支柱]]（research）
+- 核心框架：电动自行车vs扫地机器人隐喻 → 四种不可替代角色（心灵陪伴/价值塑造/创新启发/成长引领）→ 四根治理支柱（制度/素养/规律/护栏）
+- 对电教站价值：电动自行车隐喻可直接用于培训开场；四种角色框架可用于教师AI培训模块设计；国际案例可作为说服素材
+- 关联：[[concepts/ai-era-teacher-two-fates]] [[concepts/ai-education-current-state]] [[concepts/waic-2026-education-reform]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
