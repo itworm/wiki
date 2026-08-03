@@ -174,6 +174,17 @@
 - 核心框架：AI降低低阶认知 + Bloom分层 + 维果茨基ZPD
 - 与[[high-level-shift-education]]和[[post-literacy-age-ai-impact]]形成互补对照
 
+## [2026-07-28] ingest | AI-TPACK框架——从用好技术到让学习被看见
+- 保存原文 raw/articles/2026-07-28-ai-tpack-framework.md
+- 创建概念页 [[concepts/ai-tpack-framework|AI-TPACK框架]]
+- 核心结构：轴心决断知识(DK) + AIPCK证据链（目标显性化/思维可见化/证据闭环）
+- 关联5个概念页
+
+## [2026-07-28] ingest | 中国教师AI应用报告解读（《财经》）
+- 保存原文 raw/articles/2026-07-28-teacher-ai-report-caijing.md
+- 创建概念页 [[concepts/teacher-ai-report-2026|中国教师AI应用报告解读]]
+- 数据：8.6万教师调研，通用热专业冷（96.9% vs 35.2%）、四大不可替代领域、四维三阶模型
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
