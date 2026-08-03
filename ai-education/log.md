@@ -185,6 +185,12 @@
 - 创建概念页 [[concepts/teacher-ai-report-2026|中国教师AI应用报告解读]]
 - 数据：8.6万教师调研，通用热专业冷（96.9% vs 35.2%）、四大不可替代领域、四维三阶模型
 
+## [2026-07-28] ingest | 儿童AI陪伴风险——被动占据vs主动替代
+- 保存原文 raw/articles/2026-07-28-ai-native-children-risk.md
+- 创建概念页 [[concepts/children-ai-companion-risk|儿童AI陪伴风险]]
+- 填补护AI"儿童心理安全"维度（此前只有内容审核）
+- 关键框架：HOPE原则 + DETECT清单 + 加工食品类比
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
