@@ -3,7 +3,7 @@
 3|> 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 4|> 入口参考：[[moc/ai-education|AI 教育检索地图]]
 5|> 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-07-30 | 总页面数：36
+> 最后更新：2026-08-04 | 总页面数：37
 7|
 8|## MOC 检索地图
 9|
@@ -65,6 +65,7 @@
 60|- [[concepts/waic-2026-education-reform|WAIC 2026教育论坛——AI时代的人才培养与教育重构]] — 经师+人师+机师，OPC/FDE新人才范式，徐汇区重构教育三件事（scope: practice）
 - [[concepts/cognitive-world-model-edu-ai|从工具效率到认知理解——教育AI的深水区转型与认知世界模型]] — CWM建模学生认知状态，LAM闭环推导思维盲区（scope: research）
 - [[concepts/gmw-teacher-role-international|AI时代教师角色的国际探索——光明日报四重角色与四根支柱]] — 电动自行车vs扫地机器人，四种不可让渡的教师角色（scope: research）
+- [[concepts/rule-based-ai-education|有规则的AI教育——禁止进课堂不是出路，分层管理才是]] — 三层学习环境框架，披露制度+过程评价（scope: practice）
 61|- [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 62|- [[concepts/ai-edu-product-strategy|AI教育产品路线：关系增强 vs 效率替代]] — 谷歌ISTE2026启示：AI是关系增强器而非效率替代品，围绕师生关系做增强（scope: research）
 63|- [[concepts/edu-ai-tech-stack-deconstruction|教育AI技术栈——从大模型到智能体的架构解构]] — 爱学大模型/微软Study and Learn/企鹅教师助手/学而思T6等2026年教育AI技术架构案例（scope: research）
@@ -98,6 +99,7 @@
 91|- [[raw/articles/2026-07-21-waic-2026-education-panel|教育如何应对人工智能大考？WAIC 2026专家学者热议]] — 来自 澎湃新闻（日报入库）
 - [[raw/articles/2026-07-29-cognitive-world-model-edu-ai|当AI学会仿真思维，教师才能回归育人本质]] — 来自 芥末堆（日报入库）
 - [[raw/articles/2026-07-30-gmw-teacher-role-international|AI浪潮下教师角色重塑的国外探索]] — 来自 光明日报（日报入库）
+- [[raw/articles/2026-08-04-banning-ai-in-classroom-risk|禁止AI进入课堂，才是教育真正的风险]] — 来自 科学网（日报入库）
 92|
 93|## Cases
 94|

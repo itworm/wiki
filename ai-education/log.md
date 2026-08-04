@@ -440,6 +440,14 @@
 - 对电教站价值：电动自行车隐喻可直接用于培训开场；四种角色框架可用于教师AI培训模块设计；国际案例可作为说服素材
 - 关联：[[concepts/ai-era-teacher-two-fates]] [[concepts/ai-education-current-state]] [[concepts/waic-2026-education-reform]]
 
+## [2026-08-04] ingest | 有规则的AI教育——禁止进课堂不是出路，分层管理才是（日报入库）
+- 来源：科学网/中国科学报，郭英剑（日报第3条）
+- 保存原文 raw/articles/2026-08-04-banning-ai-in-classroom-risk.md
+- 创建概念页 [[concepts/rule-based-ai-education|有规则的AI教育——禁止进课堂不是出路，分层管理才是]]（practice）
+- 核心框架：禁止AI的三大反噬（教育悖论/地下化/能力推迟）→ 三层学习环境（禁止/有限/充分）→ 写作重定义 → 披露制度+教师AI教育+过程评价
+- 对电教站价值：三层环境框架可直接用于区域AI教育应用规范；防"地下化"预警；写作教学落地抓手
+- 关联：[[concepts/ai-education-misuse-analysis]] [[concepts/ai-education-current-state]] [[concepts/ai-era-teacher-two-fates]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
