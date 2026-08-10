@@ -191,6 +191,12 @@
 - 填补护AI"儿童心理安全"维度（此前只有内容审核）
 - 关键框架：HOPE原则 + DETECT清单 + 加工食品类比
 
+## [2026-07-28] ingest | AI赋能教育培训设计——刘欣五段式提纲
+- 保存原文 raw/articles/2026-07-28-liuxin-ai-training-outline.md
+- 创建概念页 [[concepts/ai-training-five-stage-design|AI赋能教育培训设计]]
+- 五段式：破冰→现象→谬误→案例→第一性原理
+- 关键概念：认知卸载 / K型分化 / AMV模型（李继刚）/ 提示词≠许愿池
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
