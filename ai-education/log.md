@@ -473,6 +473,14 @@
 - 关联：[[cases/yong-ai/tuiqiao-ai]] [[concepts/teacher-ai-socratic-method]] [[concepts/ai-two-mode-collaboration]] [[concepts/create-thought-space]] [[concepts/ai-education-misuse-analysis]]
 - 更新 index.md + cases/yong-ai/index.md + MOC（页面数31）
 
+## [2026-08-12] ingest | AI三问学习法——NotebookLM 48小时速通案例
+- 来源：X 平台 @ihtesham2005 原帖（2026-03-07，约300万浏览）+ note.com 方法论拆解 + 多平台二创
+- 创建概念页 [[concepts/ai-three-questions-learning|AI三问学习法]]（scope: practice）
+- 核心内容：三问法（专家思维模型/争议地图/自我检测题）+ 认知科学依据（框架先行、主动回忆）+ 真伪核查表（"导师怀疑作弊"等情节为中文二创虚构）
+- 教育价值：提问能力培养案例，可进培训素材，但引用须标注"细节未经验证"，剔除演绎情节
+- 关联：[[concepts/teacher-ai-socratic-method]] [[concepts/ai-elevates-thinking-bloom-zpd]] [[concepts/post-literacy-age-ai-impact]] [[concepts/high-level-shift-education]] [[concepts/create-thought-space]]
+- 更新 index.md + MOC（页面数37→38，概念30→31）
+
 ## [2026-07-19] ingest | 教育AI战国时代 —— 猿力/松鼠AI/豆神/粉笔/作业帮五路突围
 - 来源：人人都是产品经理（白名单C组），2026-04-01发布
 - 保存原文 raw/articles/2026-04-01-ai-edu-warring-states.md

@@ -3,7 +3,7 @@
 3|> 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 4|> 入口参考：[[moc/ai-education|AI 教育检索地图]]
 5|> 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-08-04 | 总页面数：37
+> 最后更新：2026-08-12 | 总页面数：38
 7|
 8|## MOC 检索地图
 9|
@@ -46,6 +46,7 @@
 42|- [[concepts/ai-education-current-state|AI教育当前阶段分析]]
 43|- [[concepts/children-ai-companion-risk|儿童AI陪伴风险——被动占据vs主动替代]] — AI介入情感发育而非仅占时间，HOPE框架+DETECT清单（scope: research）
 44|- [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]] — 刘欣方法论：静态→动态、计算→建模、解题→出题、经验→数据（scope: practice）
+- [[concepts/ai-three-questions-learning|AI三问学习法——NotebookLM 48小时速通案例]] — 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查（scope: practice）
 45|- [[concepts/ai-training-five-stage-design|AI赋能教育培训设计——刘欣五段式提纲]] — 破冰→现象→谬误→案例→原理，可复用的教师培训结构（scope: practice）
 44|- [[concepts/ai-era-gaokao-reform|AI时代的考试改革]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
 45|- [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引（第一版）]] — 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景（scope: practice）
