@@ -40,6 +40,7 @@
 - [[concepts/ai-elevates-thinking-bloom-zpd|AI提升思考维度——Bloom+ZPD视角]] — AI不是削弱思考，而是降低低阶认知负担让人类聚焦高阶思维（scope: research）
 - [[concepts/ai-tpack-framework|AI-TPACK框架——从用好技术到让学习被看见]] — TPACK升级：决断知识DK为轴心，AIPCK证据链为核心（scope: research）
 - [[concepts/teacher-ai-report-2026|中国教师AI应用报告解读]] — 8.6万教师全球最大调研：通用热专业冷、四大不可替代领域、四维三阶模型（scope: research）
+- [[concepts/oecd-digital-education-2026|OECD数字教育展望2026]] — 国际权威证据：练习+48%考试-17%，完成任务≠学习发生（scope: research）
 - [[concepts/ai-edu-three-routes|AI教育的三条路径]]
 40|- [[concepts/ai-edu-warring-states-landscape|教育AI战国格局——五家企业的战略路线对比]] — 猿力/松鼠AI/豆神/粉笔/作业帮五家AI教育公司路线对比（scope: product）
 41|- [[concepts/ai-empower-new-paradigm|AI赋能新范式而非旧范式]]
