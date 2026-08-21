@@ -466,6 +466,14 @@
 - 对电教站价值：三层环境框架可直接用于区域AI教育应用规范；防"地下化"预警；写作教学落地抓手
 - 关联：[[concepts/ai-education-misuse-analysis]] [[concepts/ai-education-current-state]] [[concepts/ai-era-teacher-two-fates]]
 
+## [2026-08-21] ingest | 全球智慧学校倡议——学校智能化转型的五维度自查框架（日报入库）
+- 来源：北京师范大学，2026全球智慧教育大会发布《全球智慧学校倡议》（日报第1条）
+- 保存原文 raw/articles/2026-08-21-global-smart-school-initiative.md
+- 创建概念页 [[concepts/smart-school-five-dimensions|全球智慧学校倡议——学校智能化转型的五维度自查框架]]（practice）
+- 核心框架：智慧学校五维度（学习体验/教学创新/教师发展/学校规划/家校社协同）+ 两个根本问题 + 变革成熟度评估方法论
+- 对电教站价值：五维度可直接转化为区域学校智慧化转型自查表；构成学校智慧教育评估指标体系
+- 关联：[[concepts/regional-ai-edu-path]] [[concepts/ai-education-current-state]] [[concepts/shanghai-ai-literacy-framework]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
