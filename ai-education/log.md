@@ -209,6 +209,18 @@
 - 关键数据：练习+48% / 考试-17%，完成任务≠学习发生
 - 与教师报告（中国）+ 后识字时代形成国际证据链
 
+## [2026-07-28] ingest | 教学设计的问题三属性框架
+- 保存原文 raw/articles/2026-07-28-ai-lesson-design-anomaly-framework.md
+- 创建概念页 [[concepts/question-three-attributes-framework|问题三属性框架]]
+- 核心：AI算均值人类提供异常值（韦青）+ 真问题/对的问题/高价值问题
+- 关联5个概念页
+
+## [2026-07-28] ingest | AI融合课的克制与留白——教育发生的四瞬间
+- 保存原文 raw/articles/2026-07-28-ai-restraint-and-blank-space.md
+- 创建概念页 [[concepts/ai-restraint-blank-space-framework|克制与留白框架]]
+- 核心：要素齐全≠教育在场（可口可乐隐喻）+ 四瞬间诊断 + 克制三原则
+- 关联5个概念页
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
