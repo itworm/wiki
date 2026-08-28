@@ -486,6 +486,14 @@
 - 对电教站价值：五维度可直接转化为区域学校智慧化转型自查表；构成学校智慧教育评估指标体系
 - 关联：[[concepts/regional-ai-edu-path]] [[concepts/ai-education-current-state]] [[concepts/shanghai-ai-literacy-framework]]
 
+## [2026-08-28] ingest | AI教育的四大风险——认知伙伴时代的挑战与应对（日报入库）
+- 来源：新华网，《全球AI创造力发展报告2026——AI教育专项》（日报第2条）
+- 保存原文 raw/articles/2026-08-28-global-ai-creativity-report.md
+- 创建概念页 [[concepts/ai-education-four-risks|AI教育的四大风险——认知伙伴时代的挑战与应对]]（research）
+- 核心框架：认知伙伴阶段判断 → 四大风险（认知外包/信息真实性/算法偏见/情感依赖）→ AI越强越要人做主 → 评价转向"验是否真理解"
+- 对电教站价值：四大风险（尤其情感依赖）可作为区域风险自查清单；"AI越强越要人做主"可作培训引用
+- 关联：[[concepts/rule-based-ai-education]] [[concepts/ai-education-misuse-analysis]] [[concepts/shanghai-ai-literacy-framework]] [[concepts/smart-school-five-dimensions]]
+
 ## [2026-07-12] ingest | 《当古诗"推敲"遇上AI》语文思辨课案例
 - 来源：微信公众号「刘欣教学设计」，2026-06-06发布
 - 保存原文 raw/articles/2026-06-06-tuiqiao-ai-speculative-chinese.md
