@@ -221,6 +221,18 @@
 - 核心：要素齐全≠教育在场（可口可乐隐喻）+ 四瞬间诊断 + 克制三原则
 - 关联5个概念页
 
+## [2026-07-28] ingest | AI破坏最近发展区——三机制认知分析
+- 保存原文 raw/articles/2026-07-28-ai-destroys-zpd-cognitive-analysis.md
+- 创建概念页 [[concepts/ai-destroys-zpd-cognitive-analysis|AI破坏最近发展区]]
+- 三机制：认知负荷错配（Sweller）/ 认知卸载（Risko）/ 必要难度消解（Bjork）
+- 与[[ai-elevates-thinking-bloom-zpd]]形成正反对照
+
+## [2026-07-28] ingest | AI时代的退行性进步——麦克卢汉自我截除视角
+- 保存原文 raw/articles/2026-07-28-ai-regressive-progress-mcluhan.md
+- 创建概念页 [[concepts/ai-regressive-progress-mcluhan|退行性进步]]
+- 核心：麦克卢汉"自我截除"理论 + 七领域进步/退步对照表
+- 关联5个概念页（十六宗错术语的理论化）
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]

@@ -38,6 +38,8 @@
 37|- [[concepts/post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 注意力从150秒到47秒，AI摘要替代不了一手阅读，认知挣扎是学习必要条件（scope: research）
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结（scope: research）
 - [[concepts/ai-elevates-thinking-bloom-zpd|AI提升思考维度——Bloom+ZPD视角]] — AI不是削弱思考，而是降低低阶认知负担让人类聚焦高阶思维（scope: research）
+- [[concepts/ai-destroys-zpd-cognitive-analysis|AI破坏最近发展区——三机制认知分析]] — 认知负荷错配/认知卸载/必要难度消解，AI把学生"空投"到终点（scope: research）
+- [[concepts/ai-regressive-progress-mcluhan|AI时代的退行性进步——麦克卢汉自我截除视角]] — 技术延伸大脑同时截除受压功能，七领域退步对照表（scope: research）
 - [[concepts/ai-tpack-framework|AI-TPACK框架——从用好技术到让学习被看见]] — TPACK升级：决断知识DK为轴心，AIPCK证据链为核心（scope: research）
 - [[concepts/teacher-ai-report-2026|中国教师AI应用报告解读]] — 8.6万教师全球最大调研：通用热专业冷、四大不可替代领域、四维三阶模型（scope: research）
 - [[concepts/oecd-digital-education-2026|OECD数字教育展望2026]] — 国际权威证据：练习+48%考试-17%，完成任务≠学习发生（scope: research）
