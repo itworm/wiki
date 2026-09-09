@@ -239,6 +239,12 @@
 - 六层透镜：技术理性/SAMR替代/银行式教育/教育之弱/经验断裂/景观化展演性
 - 与[[ai-micro-decisions-lesson-design]]"怪病"点形成完整展开
 
+## [2026-08-27] ingest | 教育技术课AI爆改——从作品考核到过程考核
+- 保存原文 raw/articles/2026-08-27-edtech-course-experiential-reform.md
+- 创建案例页 [[cases/national/edtech-course-process-assessment|教育技术课AI爆改]]
+- 用户心得：作品型考核2023年后必须转向过程型考核
+- 核心洞察：PBL前提塌方（AI代做绕过学习）+ 作品考核失效
+
 ## [2026-06-04] ingest | AI时代呼唤新的学习理论
 - 来源：微信公众号「教育技术学自留地」（白名单），2026年发布
 - 保存原文 [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]]
