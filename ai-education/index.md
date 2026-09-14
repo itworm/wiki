@@ -56,6 +56,7 @@
 47|- [[concepts/question-three-attributes-framework|教学设计的问题三属性框架]] — 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子）（scope: practice）
 48|- [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — 教育发生四瞬间（意外/暂停/挣扎/突破）+克制三原则（scope: practice）
 49|- [[concepts/ai-five-design-principles|AI高支持环境教学设计五原则]] — 体验先行/任务驱动/思维可见/刻意摩擦/角色分化（scope: practice）
+50|- [[concepts/human-ai-collaboration-width-depth|人机协同教学设计——AI做宽度教师做深度]] — 7:3分工+思维眼镜卡片+教育工程师（scope: practice）
 44|- [[concepts/ai-era-gaokao-reform|AI时代的考试改革]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
 45|- [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引（第一版）]] — 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景（scope: practice）
 46|- [[concepts/china-education-macro-trends|中国教育宏观趋势：生源结构转型与教育分层]] — 2026年高考锐减45万背后的三重结构性变化：普职分流主动化、复读模式终结、公平迭代为素养差距（scope: research）
