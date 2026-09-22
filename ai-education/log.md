@@ -579,3 +579,22 @@
 - 对电教站价值：教师专业发展的重心应从"技术培训"转向"决策判断力+伦理承担"
 - 关联：[[concepts/china-education-macro-trends]] [[concepts/ai-era-teacher-two-fates]] [[concepts/ai-education-current-state]] [[concepts/ai-education-misuse-analysis]]
 - 更新 index.md + MOC（页面数34→35）
+
+## [2026-09-22] ingest | 项目化融合课评价：赛课评价工具包 + 教研员角色转变（刘老师原创教研资料）
+- 来源：刘老师在 DeepSeek 辅助下整理的两份指导性教研资料（本地文件，非外链）
+- 保存原文 raw/articles/2026-09-22-pbl-competition-evaluation-toolkit.md（HTML 提取，5896 字）、raw/articles/2026-09-22-pbl-tech-integration-evaluation.md（4066 字）
+- 创建概念页 [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]]（scope: practice）
+  - 8 部分结构：评赛理念与评委须知（三原则 + 评委三角色 + **5 条红线**）、100 分制评分量表、课堂观察记录表、学科评价量规模板（语/数/科/英示例）、过程性证据采集清单（6 类）、评委反馈对话单、跨学科协同评价单、评委使用手册
+  - 5 维度权重：学科素养 25% / 项目化设计 30% / 技术融合 20% / 过程成果 15% / 教学评一致 10%
+  - 红线处理：①学科素养未发展→降一档 ②为用而用→不得分 ③拼盘式→不认定整合 ④教师代劳→扣分 ⑤技术替代思考→倒扣
+- 创建概念页 [[concepts/pbl-tech-integration-evaluation|教研员角色转变与方法框架]]（scope: practice）
+  - **核心判断：学科核心素养是主坐标，信息技术融合是条件性、支持性、增值性维度**——信息科技核心素养只在信息科技课程或明确以其为目标的项目中才成为主坐标
+  - 五层评价框架：主维度（学科素养目标一致性 / 学科实践深度）+ 辅助增值维度（技术融合适切性）+ 保障维度（过程性证据与教学评一致）+ 条件维度（跨学科整合合理性）+ 发展维度（反馈与改进）
+  - 三个转向：评教→评学、技术中心→学科中心、单科裁决→协同判断
+  - 反馈机制：证据先行五步（描述证据→解释意义→聚焦问题→提出改进→跟踪再评）
+- 关联：[[concepts/333-evaluation-framework]] [[concepts/ai-tpack-framework]] [[concepts/question-three-attributes-framework]] [[cases/national/edtech-course-process-assessment]]
+- **索引修复（连带处理，非本次入库内容）**：
+  - index.md 曾被行号前缀污染（102/127 行），已重写为干净格式；概念计数 40→65，raw 收录 30→74
+  - MOC 检索地图原先仅收录 9 个概念（实际 65 个），已补全 scope 索引表 + 近期变化 + 总页面数三项
+  - 归档 5 个回滚残留空占位符（5-country-uni-ai-policy / ai-education-ethics-framework / china-ai-edu-2026-overview / hk-digital-edu-blueprint / regional-ai-edu-international-models）→ `_archive/*.md.removed`
+  - tianli-brain-nature-case 元数据从旧格式（type: entity）升级为当前格式（补 domain/scope: product/primary_entry 等）

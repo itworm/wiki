@@ -1,11 +1,21 @@
 ---
 title: 天立学科大脑（Tianli Brain）——覆盖107校的AI个性化学习系统
 created: 2026-06-09
-updated: 2026-06-09
-type: entity
-tags: [product, company, model, practice]
+updated: 2026-09-22
+domain: ai-education
+scope: product
+topic: AI教育产品
+primary_entry: 天立学科大脑是什么？登上《自然指数》的中国AI教育案例
+secondary_entries:
+  - 覆盖107所学校的AI个性化学习系统
+  - 认知建模而非解题能力的AI教育产品
+status: current
+tags: [ai, education, product, company, model]
 sources: [raw/articles/2026-03-26-tianli-brain-nature-index.md]
-confidence: high
+objects:
+  - 天立国际控股有限公司
+  - 启鸣AI学伴
+  - 《自然指数—中国》
 ---
 
 # 天立学科大脑（Tianli Brain）

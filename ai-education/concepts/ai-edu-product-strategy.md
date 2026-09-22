@@ -1,7 +1,7 @@
 ---
 title: AI教育产品路线：关系增强 vs 效率替代
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-22
 domain: ai-education
 scope: research
 topic: AI教育产品设计
@@ -37,5 +37,7 @@ AI教育不能只走"替代教师"一条路。另一条路是：**把AI做成教
 
 ## 关联
 
-- [[ai-in-classroom|AI走进课堂教学]] — 课堂实践中的人机协同，与"增强教师"理念一致
-- [[teacher-digital-burden|教师数字负担]] — "效率替代"路线可能加剧的问题
+- [[concepts/human-ai-collaboration-width-depth|人机协同教学设计——AI做宽度、教师做深度]] — 课堂实践中的人机协同，"关系增强"路线的教学设计落地
+- [[concepts/ai-era-teacher-two-fates|AI时代教师的两种命运——中间地带正在消失]] — "效率替代"路线可能加剧的教师职业挤压
+- [[concepts/ai-edu-warring-states-landscape|教育AI战国格局]] — 国内五家AI教育公司的路线对比，与谷歌路线形成参照
+- [[moc/ai-education|AI 教育检索地图]]

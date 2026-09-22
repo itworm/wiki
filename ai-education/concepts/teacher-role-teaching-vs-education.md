@@ -55,4 +55,5 @@ UK研究佐证：使用AI可节省31%备课时间，但教师能力未得到同�
 ## 关联
 
 - [[ai-era-teacher-two-fates|AI时代教师的两种命运]] — 从"中间层正在消失"到"教师应该聚焦什么"，互为补充
-- [[ai-in-classroom|AI走进课堂教学]] — AI辅助"教书"，教师专注"育人"的具体场景
+- [[concepts/ai-lesson-four-step-transformation|AI融合课四步改造法]] — AI辅助"教书"的具体改造路径（静态→动态、计算→建模、解题→出题、经验→数据）
+- [[moc/ai-education|AI 教育检索地图]]
