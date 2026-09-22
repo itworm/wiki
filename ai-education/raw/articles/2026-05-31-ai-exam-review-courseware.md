@@ -2,6 +2,7 @@
 source_url: https://mp.weixin.qq.com/s?__biz=MzI1MDM4ODIwNg==&mid=2247523834&idx=1&sn=e8d30d6f09879ed05164c670edbeac04
 ingested: 2026-06-03
 sha256: fc5b3d8a5522c1e8c884a20c406927b5079723bccb0f59b02564a74d9b64be49
+note: 2026-09-22 全文抓取失败——微信返回环境异常页，正文不可得，保留摘要
 ---
 
 # 人工智能丨我用飞象老师5分钟生成了可互动的试卷讲评课件

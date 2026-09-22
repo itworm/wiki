@@ -2,6 +2,7 @@
 source_url: https://yznu.edu.cn/2026/0410/c8291a277276/page.htm
 ingested: 2026-06-03
 sha256: b0b8ee0ff173a4e8c80c8c4f75ee6eb5e0f3a81b4ec4414c842b2e9d41f66317
+note: 2026-09-22 全文抓取失败——站点超时（yznu.edu.cn 多次超时/返回空），保留摘要
 ---
 
 # "人工智能+教育"行动计划（教科信〔2026〕1号）摘要

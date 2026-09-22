@@ -6,6 +6,7 @@ date: 2026-06-06
 author: 23教技二班第四组
 domain: ai-education
 status: archive
+note: 2026-09-22 无 source_url（个人感悟/本地资料），无法回补全文，保留摘要
 ---
 
 标题：当古诗"推敲"遇上AI：一堂让孩子告别"非此即彼"的语文思辨课

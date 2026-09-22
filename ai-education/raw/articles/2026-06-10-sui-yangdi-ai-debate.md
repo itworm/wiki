@@ -6,6 +6,7 @@ date: 2026-06-10
 author: 23教二第二组
 domain: ai-education
 status: archive
+note: 2026-09-22 无 source_url（个人感悟/本地资料），无法回补全文，保留摘要
 ---
 
 标题：历史课变法庭辩论赛！隋炀帝被全班当场"审判"

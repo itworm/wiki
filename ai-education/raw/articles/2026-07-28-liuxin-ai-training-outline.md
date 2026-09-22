@@ -3,7 +3,7 @@ source_url: https://mp.weixin.qq.com/s/-CH8D7-SLAmT8NHpktXkrg
 source_name: 微信公众号「刘欣教学设计」
 author: 刘欣
 ingested: 2026-07-28
-note: 培训提纲复盘，郑州2026/7/5
+note: 2026-09-22 全文抓取失败——微信正文为 JS 动态加载，HTML 中无 js_content 正文，保留摘要
 ---
 # AI赋能教育：从认知觉醒到超级个体——培训提纲复盘
 
