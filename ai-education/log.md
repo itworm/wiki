@@ -598,3 +598,15 @@
   - MOC 检索地图原先仅收录 9 个概念（实际 65 个），已补全 scope 索引表 + 近期变化 + 总页面数三项
   - 归档 5 个回滚残留空占位符（5-country-uni-ai-policy / ai-education-ethics-framework / china-ai-edu-2026-overview / hk-digital-edu-blueprint / regional-ai-edu-international-models）→ `_archive/*.md.removed`
   - tianli-brain-nature-case 元数据从旧格式（type: entity）升级为当前格式（补 domain/scope: product/primary_entry 等）
+
+## [2026-09-22] refresh | 撞库核查 + raw 全文补全：光明日报《AI浪潮下教师角色重塑的国外探索》
+- 用户提供链接询问入库价值 → 撞库核查发现 **2026-07-30 已入库**（[[concepts/gmw-teacher-role-international]]），不重复入库
+- 补全 raw 原文：raw/articles/2026-07-30-gmw-teacher-role-international.md 原为摘要（1974 字节），
+  已重抓全文并写入真实 sha256（13751 字节）
+- 增强概念页：新增「AI 接走什么，教师拿回什么」对照表
+  - 英国橡树国家学院 "Aila" 备课助手 → AI 搭材料骨架，教师做挑选/删改/重组/校准
+  - 美国佐治亚州立大学 "突袭" 聊天机器人 → 第一个夏天 18.5 万次互动，省下的时间要进入真实教育关系
+  - 补 3 条关联：[[concepts/ai-restraint-blank-space-framework]] / [[concepts/human-ai-collaboration-width-depth]] / MOC
+- **发现系统性问题（待用户决策）**：raw/articles 74 篇中 70 篇 <3000 字节（摘要而非全文），
+  15 篇 sha256 为 placeholder，6 篇为空壳（22-37 字节）。raw 层实际退化为"摘要层"，
+  原文不可回溯、无法校验概念页忠实度。
