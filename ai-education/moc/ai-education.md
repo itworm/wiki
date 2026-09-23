@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-09-22 | 总页面数：65 个概念
+> 最后更新：2026-09-23 | 总页面数：66 个概念
 
 ---
 
@@ -62,6 +62,7 @@
 | [[concepts/ai-micro-decisions-lesson-design\|AI微决策——课程设计中的决策链框架]] | 备课是决策链而非单次决策，教学问题叙事优先于技术叙事 |
 | [[concepts/ai-socratic-reading-companion\|AI思辨式伴读——从"不可能三角"看AI在阅读教育中的破局]] | 猿辅导AI一对一伴读，陪练式AI比问答式AI更有长期价值 |
 | [[concepts/ai-education-misuse-analysis\|AI教育常见误区分析：十六宗错与三个层次]] | 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失 |
+| [[concepts/ai-era-teacher-as-hub\|AI时代教师作为 Hub——U型理论视角下的课堂重构]] | AI时代教师的新身份是什么？U型理论的 Hub 怎么理解？ |
 | [[concepts/ai-era-teacher-two-fates\|AI时代教师的两种命运——中间地带正在消失，教育应如何发力？]] | AI侵蚀教师职业中间层，不存在"中等水平"的AI使用者，教育应如何发力 |
 | [[concepts/teacher-role-teaching-vs-education\|AI时代教师角色的重新定位：教书与育人分离]] | 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成 |
 | [[concepts/ai-era-gaokao-reform\|AI时代的考试改革——高考内容与形式需与时俱进]] | 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才 |
@@ -98,6 +99,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-09-22 | 新增概念：[[concepts/ai-era-teacher-as-hub\|AI时代教师作为 Hub]]（practice），U型理论视角——教师从知识源头转为连接节点、**容器而非管道**；含 6 个高校课堂改造案例 |
 | 2026-09-22 | 新增 2 个概念：[[concepts/pbl-competition-evaluation-toolkit|项目化融合课赛课评价工具包]]（practice，100分制5维度量表+5条红线+8类表单）、[[concepts/pbl-tech-integration-evaluation|教研员角色转变与方法框架]]（practice，五维评价框架+证据先行反馈五步）；**同时修复索引**：清理 index.md 行号污染、MOC 从 9 条补全至 65 条、归档 5 个回滚占位符、升级 tianli-brain 元数据 |
 | 2026-08-28 | 新增概念：AI教育四大风险（research），认知伙伴时代风险框架+AI越强越要人做主 |
 | 2026-08-21 | 新增概念：全球智慧学校倡议五维度框架（practice） |

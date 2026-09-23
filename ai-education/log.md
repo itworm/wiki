@@ -628,3 +628,15 @@
 
 **工具修复**（wiki_rebuild_index.py）：原版重建会丢失 Reports/Cases/Decisions/Raw Articles 四段，
 已补齐；raw 标题中的 `|` 转义残留已清洗
+
+## [2026-09-22] ingest | AI时代教师作为 Hub——U型理论视角下的课堂重构
+- 来源：微信公众号「刘欣教学设计」，2026-09-16 发布，4192 字（用户指定入库）
+- 保存原文 raw/articles/2026-09-16-liuxin-teacher-as-hub.md（全文 12512 字节 + 真实 sha256）
+- 创建概念页 [[concepts/ai-era-teacher-as-hub|AI时代教师作为 Hub]]（scope: practice）
+- **入库前增量评估**（已核查库内无此框架）：
+  - **U型理论 Hub 框架**：AI 是知识源、教师是 Hub；**容器 vs 管道**（管道传输信息，容器孕育思想）；Hub 的本地性；产出是行动不是答案
+  - **6 个高校课堂改造案例**：哈工大齐超（诊断室）/ 清华卢滇楠（竞技场·三次人机对决）/ 大连理工（师生机三元）/ 台湾中央大学张家凯（**让 AI 刻意延后回答**）/ 广美（1800 名新生"轰"出教室）/ 兰州交大辛惠娟（给 AI 纠错）
+  - "学生逃离的是无感不是学习"三层归因（课程与生命经验断连 / 知识触手可及 / 课程价值判断方式变了）
+- **重叠说明**：教师角色转向母题库内已有多页覆盖（teacher-role-teaching-vs-education / ai-era-teacher-two-fates / gmw-teacher-role-international），本页聚焦 Hub 的机制区分与案例，不重复论述
+- 关联：[[concepts/ai-native-teacher-formula]]（同作者）[[concepts/ai-restraint-blank-space-framework]] [[concepts/human-ai-collaboration-width-depth]] [[concepts/create-thought-space]]
+- 更新 index.md + MOC（总页面数 65→66）

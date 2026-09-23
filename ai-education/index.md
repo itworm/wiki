@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-22 | 概念页 65 个 | 原始文章 68 篇
+> 最后更新：2026-09-23 | 概念页 66 个 | 原始文章 69 篇
 
 ---
 
@@ -52,7 +52,7 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（30 个）
+### practice — 课堂实践、教学案例（31 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
 - [[concepts/ai-three-questions-learning|AI三问学习法——NotebookLM 48小时速通案例的方法论拆解与真伪核查]] — 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查（scope: practice）
@@ -62,6 +62,7 @@
 - [[concepts/ai-micro-decisions-lesson-design|AI微决策——课程设计中的决策链框架]] — 备课是决策链而非单次决策，教学问题叙事优先于技术叙事（scope: practice）
 - [[concepts/ai-socratic-reading-companion|AI思辨式伴读——从"不可能三角"看AI在阅读教育中的破局]] — 猿辅导AI一对一伴读，陪练式AI比问答式AI更有长期价值（scope: practice）
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析：十六宗错与三个层次]] — 刘欣系统梳理教师使用AI的16个误区，按三个递进层次组织，从效率崇拜到教育本质迷失（scope: practice）
+- [[concepts/ai-era-teacher-as-hub|AI时代教师作为 Hub——U型理论视角下的课堂重构]] — AI时代教师的新身份是什么？U型理论的 Hub 怎么理解？（scope: practice）
 - [[concepts/ai-era-teacher-two-fates|AI时代教师的两种命运——中间地带正在消失，教育应如何发力？]] — AI侵蚀教师职业中间层，不存在"中等水平"的AI使用者，教育应如何发力（scope: practice）
 - [[concepts/teacher-role-teaching-vs-education|AI时代教师角色的重新定位：教书与育人分离]] — 教书与育人分离，教师从知识传授转向三观/习惯/情绪/创新养成（scope: practice）
 - [[concepts/ai-era-gaokao-reform|AI时代的考试改革——高考内容与形式需与时俱进]] — 李志民：高考从"记忆知识"转向"运用知识"，增加开放性试题，用AI时代标准选拔AI时代人才（scope: practice）
@@ -113,6 +114,7 @@
 - [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]] — 来自 教育技术学自留地
 - [[raw/articles/2026-09-22-pbl-tech-integration-evaluation|2026-09-22-pbl-tech-integration-evaluation]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-22-pbl-competition-evaluation-toolkit|2026-09-22-pbl-competition-evaluation-toolkit]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
+- [[raw/articles/2026-09-16-liuxin-teacher-as-hub|大学课堂求生记之AI来了大学老师要放弃的是"只有教书才是在教育"这个执念]] — 来自 刘欣教学设计
 - [[raw/articles/2026-08-28-global-ai-creativity-report|《全球AI创造力发展报告2026——AI教育专项》发布：AI教育进入系统性重构新阶段]] — 来自 news.cn
 - [[raw/articles/2026-08-27-tsinghua-teacher-ai-partnership|2026-08-27-tsinghua-teacher-ai-partnership]] — 来自 中国青年报（清华新闻网转载）
 - [[raw/articles/2026-08-27-edtech-course-experiential-reform|今天上了我教师职业生涯最难的一次课｜90分钟的《现代教育技术》只允许我讲20分钟]] — 来自 微信公众号
