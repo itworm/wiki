@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-09-24 | 总页面数：68 个概念
+> 最后更新：2026-09-24 | 总页面数：70 个概念
 
 ---
 
@@ -55,6 +55,7 @@
 | 页面 | 概要 |
 |------|------|
 | [[concepts/333-evaluation-framework\|"333" 教研评课框架]] | 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作 |
+| [[concepts/human-ai-collaboration-five-steps\|"人机协同五步法"——厦门思明区AI通识教育的区域框架]] | 人机协同五步法是什么？学生怎么和AI协作完成任务？ |
 | [[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链——把"用"前置的课堂重构实操]] | 课堂怎么从"先讲后做"翻转成"先做后讲"？五活动链是什么？ |
 | [[concepts/ai-three-questions-learning\|AI三问学习法——NotebookLM 48小时速通案例的方法论拆解与真伪核查]] | 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查 |
 | [[concepts/ai-personalized-learning-profile\|AI个性化学习适配——五维自测法]] | VARK/场独立/能量节奏/自我效能/考试焦虑，20分钟让学生生成AI学习档案 |
@@ -84,6 +85,7 @@
 | [[concepts/question-three-attributes-framework\|教学设计中的问题三属性框架——AI时代的异常值设计]] | 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子） |
 | [[concepts/create-thought-space\|教师创造思想空间：让学生成为思考的主体]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
 | [[concepts/teacher-ai-application-guidelines\|教师生成式人工智能应用指引（第一版）]] | 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景 |
+| [[concepts/ai-general-education-rollout\|普及人工智能教育的关键点——降成本的四维落地框架]] | 中小学怎么把人工智能教育真正普及开？关键抓手是什么？ |
 | [[concepts/ai-general-education-literacy\|智能体协作的三层意识与AI通识教育普及]] | 黄秉刚提出学生与AI协作的三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"的能力范式转变 |
 | [[concepts/rule-based-ai-education\|有规则的AI教育——禁止进课堂不是出路，分层管理才是]] | 三层学习环境框架，披露制度+过程评价 |
 | [[concepts/teacher-ai-socratic-method\|苏格拉底式AI交互法：让AI问你问题]] | 让AI问你问题而非你问AI要答案，三种实操场景 |
@@ -101,6 +103,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-09-22 | 新增 2 篇（中国教育报 9-22「智慧教育」·系列②）：[[concepts/ai-general-education-rollout\|普及人工智能教育的关键点]]（practice，降成本四维落地框架）+ [[concepts/human-ai-collaboration-five-steps\|人机协同五步法]]（practice，厦门思明区区域框架）；「向世界讲述中国数字教育发展故事」评估后未入库（展会新闻，信息密度低） |
 | 2026-09-22 | 新增 3 篇（中国教育报 9-15「智慧教育」专版·提升学生AI素养系列①）：[[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架]]（practice，三段九法）+ 案例 [[cases/yong-ai/chicken-rabbit-ai\|鸡兔同笼AI思维催化课例]] + [[cases/chuang-ai/data-portrait-growth\|数据画像里的成长密码]]（体质优良率 56%→78%） |
 | 2026-09-22 | 新增概念：[[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链]]（practice），查→辩→论→验→省五步课堂重构 + 教师三身份（含 **AI 护栏员**）+ 护栏设计原则"退不是放" |
 | 2026-09-22 | 新增概念：[[concepts/ai-era-teacher-as-hub\|AI时代教师作为 Hub]]（practice），U型理论视角——教师从知识源头转为连接节点、**容器而非管道**；含 6 个高校课堂改造案例 |

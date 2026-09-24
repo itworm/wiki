@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-24 | 概念页 68 个 | 原始文章 73 篇
+> 最后更新：2026-09-24 | 概念页 70 个 | 原始文章 75 篇
 
 ---
 
@@ -52,9 +52,10 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（33 个）
+### practice — 课堂实践、教学案例（35 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
+- [[concepts/human-ai-collaboration-five-steps|"人机协同五步法"——厦门思明区AI通识教育的区域框架]] — 人机协同五步法是什么？学生怎么和AI协作完成任务？（scope: practice）
 - [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链——把"用"前置的课堂重构实操]] — 课堂怎么从"先讲后做"翻转成"先做后讲"？五活动链是什么？（scope: practice）
 - [[concepts/ai-three-questions-learning|AI三问学习法——NotebookLM 48小时速通案例的方法论拆解与真伪核查]] — 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查（scope: practice）
 - [[concepts/ai-personalized-learning-profile|AI个性化学习适配——五维自测法]] — VARK/场独立/能量节奏/自我效能/考试焦虑，20分钟让学生生成AI学习档案（scope: practice）
@@ -84,6 +85,7 @@
 - [[concepts/question-three-attributes-framework|教学设计中的问题三属性框架——AI时代的异常值设计]] — 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子）（scope: practice）
 - [[concepts/create-thought-space|教师创造思想空间：让学生成为思考的主体]] — 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化（scope: practice）
 - [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引（第一版）]] — 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景（scope: practice）
+- [[concepts/ai-general-education-rollout|普及人工智能教育的关键点——降成本的四维落地框架]] — 中小学怎么把人工智能教育真正普及开？关键抓手是什么？（scope: practice）
 - [[concepts/ai-general-education-literacy|智能体协作的三层意识与AI通识教育普及]] — 黄秉刚提出学生与AI协作的三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"的能力范式转变（scope: practice）
 - [[concepts/rule-based-ai-education|有规则的AI教育——禁止进课堂不是出路，分层管理才是]] — 三层学习环境框架，披露制度+过程评价（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法：让AI问你问题]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
@@ -117,6 +119,8 @@
 - [[raw/articles/2026-09-24-liuxin-five-activity-chain|旧课堂已死催促AI支撑下的新课堂创生｜这样大学课堂谁能不爱？！]] — 来自 刘欣教学设计
 - [[raw/articles/2026-09-22-pbl-tech-integration-evaluation|2026-09-22-pbl-tech-integration-evaluation]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-22-pbl-competition-evaluation-toolkit|2026-09-22-pbl-competition-evaluation-toolkit]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
+- [[raw/articles/2026-09-22-jyb-five-steps|“五步法”提升学生AI素养]] — 来自 中国教育报
+- [[raw/articles/2026-09-22-jyb-ai-edu-rollout|抓好普及人工智能教育的关键点]] — 来自 中国教育报
 - [[raw/articles/2026-09-16-liuxin-teacher-as-hub|大学课堂求生记之AI来了大学老师要放弃的是"只有教书才是在教育"这个执念]] — 来自 刘欣教学设计
 - [[raw/articles/2026-09-15-jyb-data-portrait-growth|数据画像里的成长密码——宁夏吴忠市利通区金积中心学校依托智能系统提升班队会育人成效]] — 来自 中国教育报
 - [[raw/articles/2026-09-15-jyb-collaboration-competency|如何提升学生人机协同能力]] — 来自 中国教育报
