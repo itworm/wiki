@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-23 | 概念页 66 个 | 原始文章 69 篇
+> 最后更新：2026-09-24 | 概念页 67 个 | 原始文章 70 篇
 
 ---
 
@@ -52,9 +52,10 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（31 个）
+### practice — 课堂实践、教学案例（32 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
+- [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链——把"用"前置的课堂重构实操]] — 课堂怎么从"先讲后做"翻转成"先做后讲"？五活动链是什么？（scope: practice）
 - [[concepts/ai-three-questions-learning|AI三问学习法——NotebookLM 48小时速通案例的方法论拆解与真伪核查]] — 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查（scope: practice）
 - [[concepts/ai-personalized-learning-profile|AI个性化学习适配——五维自测法]] — VARK/场独立/能量节奏/自我效能/考试焦虑，20分钟让学生生成AI学习档案（scope: practice）
 - [[concepts/ai-native-teacher-formula|AI原生教师 = 教学系统设计内功 × AI外功]] — 刘欣提出：当内功不够时，再强的外功也是危险的（scope: practice）
@@ -112,6 +113,7 @@
 
 - [[raw/articles/2026-parallelism-learning-theory|Sonny Magana 的并行学习理论，一种全新的人工智能时代的学习理论]] — 来自 教育技术学自留地
 - [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]] — 来自 教育技术学自留地
+- [[raw/articles/2026-09-24-liuxin-five-activity-chain|旧课堂已死催促AI支撑下的新课堂创生｜这样大学课堂谁能不爱？！]] — 来自 刘欣教学设计
 - [[raw/articles/2026-09-22-pbl-tech-integration-evaluation|2026-09-22-pbl-tech-integration-evaluation]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-22-pbl-competition-evaluation-toolkit|2026-09-22-pbl-competition-evaluation-toolkit]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-16-liuxin-teacher-as-hub|大学课堂求生记之AI来了大学老师要放弃的是"只有教书才是在教育"这个执念]] — 来自 刘欣教学设计

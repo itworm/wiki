@@ -640,3 +640,20 @@
 - **重叠说明**：教师角色转向母题库内已有多页覆盖（teacher-role-teaching-vs-education / ai-era-teacher-two-fates / gmw-teacher-role-international），本页聚焦 Hub 的机制区分与案例，不重复论述
 - 关联：[[concepts/ai-native-teacher-formula]]（同作者）[[concepts/ai-restraint-blank-space-framework]] [[concepts/human-ai-collaboration-width-depth]] [[concepts/create-thought-space]]
 - 更新 index.md + MOC（总页面数 65→66）
+
+## [2026-09-22] ingest | "先做后讲"五活动链——把"用"前置的课堂重构实操
+- 来源：微信公众号「刘欣教学设计」，2026-09-24 发布，2862 字（用户指定入库）
+- 保存原文 raw/articles/2026-09-24-liuxin-five-activity-chain.md（全文 8595 字节 + 真实 sha256）
+- 创建概念页 [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链]]（scope: practice）
+- **入库前增量评估**（已核查）：五活动链、教师三身份（体验设计师/思辨引发者/AI护栏员）库内均无
+- 四项增量：
+  - **查→辩→论→验→省 五活动链**：查（3分钟微型演讲，教师只补盲点纠偏差）/ 辩（"手机看老电影算新媒体吗"，不许用手机回答）/ 论（立场辩论 + 三组论证支架）/ 验（3/5/10 秒微实验观察表）/ 省（200 字发群，不许用 AI）
+  - **教师三身份**：第三个 **AI 护栏员** 为库内新概念——"课堂上必须留下的，恰恰是学生自己做判断、自己负责任的那部分"
+  - **翻转路径**：概念→案例→作业 改为 真实困境→工具→自我建构（奥苏贝尔有意义学习）
+  - **护栏设计原则**："退，不是放。我退得越多，护栏就要设计得越细"——讲授的量减下去，设计的量升上来
+- **定位区分**（避免与已有页重叠）：
+  - 与 [[concepts/ai-era-teacher-as-hub]]：同作者姊妹篇，Hub 是"为什么"（理论），本页是"怎么做"（实录）
+  - 与 [[concepts/ai-lesson-four-step-transformation]]：同作者，那页改**内容呈现方式**，本页改**课堂顺序结构与活动链**
+  - 不重复"教师角色转向"母题（库内已有 5 页覆盖）
+- 已建立双向链接（Hub 页 ↔ 五活动链页）
+- 更新 index.md + MOC（总页面数 66→67）

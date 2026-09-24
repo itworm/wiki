@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-09-23 | 总页面数：66 个概念
+> 最后更新：2026-09-24 | 总页面数：67 个概念
 
 ---
 
@@ -55,6 +55,7 @@
 | 页面 | 概要 |
 |------|------|
 | [[concepts/333-evaluation-framework\|"333" 教研评课框架]] | 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作 |
+| [[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链——把"用"前置的课堂重构实操]] | 课堂怎么从"先讲后做"翻转成"先做后讲"？五活动链是什么？ |
 | [[concepts/ai-three-questions-learning\|AI三问学习法——NotebookLM 48小时速通案例的方法论拆解与真伪核查]] | 三个问题让AI成为私人导师：思维模型/争议地图/自我检测，含真伪核查 |
 | [[concepts/ai-personalized-learning-profile\|AI个性化学习适配——五维自测法]] | VARK/场独立/能量节奏/自我效能/考试焦虑，20分钟让学生生成AI学习档案 |
 | [[concepts/ai-native-teacher-formula\|AI原生教师 = 教学系统设计内功 × AI外功]] | 刘欣提出：当内功不够时，再强的外功也是危险的 |
@@ -99,6 +100,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-09-22 | 新增概念：[[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链]]（practice），查→辩→论→验→省五步课堂重构 + 教师三身份（含 **AI 护栏员**）+ 护栏设计原则"退不是放" |
 | 2026-09-22 | 新增概念：[[concepts/ai-era-teacher-as-hub\|AI时代教师作为 Hub]]（practice），U型理论视角——教师从知识源头转为连接节点、**容器而非管道**；含 6 个高校课堂改造案例 |
 | 2026-09-22 | 新增 2 个概念：[[concepts/pbl-competition-evaluation-toolkit|项目化融合课赛课评价工具包]]（practice，100分制5维度量表+5条红线+8类表单）、[[concepts/pbl-tech-integration-evaluation|教研员角色转变与方法框架]]（practice，五维评价框架+证据先行反馈五步）；**同时修复索引**：清理 index.md 行号污染、MOC 从 9 条补全至 65 条、归档 5 个回滚占位符、升级 tianli-brain 元数据 |
 | 2026-08-28 | 新增概念：AI教育四大风险（research），认知伙伴时代风险框架+AI越强越要人做主 |

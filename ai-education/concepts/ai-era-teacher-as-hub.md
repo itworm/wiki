@@ -142,6 +142,7 @@ U型理论中 Hub 的最终目的是把**洞见转化为原型行动**。一群�
 
 ## 关联页面
 
+- [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链——把"用"前置的课堂重构实操]] — **同作者姊妹篇（9-24 发文）**：本页讲"为什么教师要做容器"，该页是容器式课堂的完整课实录（查→辩→论→验→省）
 - [[concepts/ai-native-teacher-formula|AI原生教师=教学系统设计内功×AI外功]] — 同一作者（刘欣）；Hub 是"内功"在角色层面的具体形象
 - [[concepts/ai-restraint-blank-space-framework|AI克制与留白框架]] — "让 AI 刻意延后回答"是"留白"设计的实证案例
 - [[concepts/human-ai-collaboration-width-depth|人机协同——AI做宽度、教师做深度]] — Hub 框架是这一分工在课堂角色上的理论化
