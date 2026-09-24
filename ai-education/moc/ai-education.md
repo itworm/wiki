@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-09-24 | 总页面数：67 个概念
+> 最后更新：2026-09-24 | 总页面数：68 个概念
 
 ---
 
@@ -79,6 +79,7 @@
 | [[concepts/pbl-tech-integration-evaluation\|信息技术融合下的项目化学习评价——教研员角色转变与方法框架]] | 信息技术融合背景下项目化学习课程怎么评？教研员角色怎么转变？ |
 | [[concepts/smart-school-five-dimensions\|全球智慧学校倡议——学校智能化转型的五维度自查框架]] | 智慧学习体验/教学创新/教师发展/学校规划/家校社协同 |
 | [[concepts/regional-ai-edu-path\|区域AI+教育推进的实践路径与困难——基于新华视点多地调研]] | 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点 |
+| [[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架——问题意识·提问能力·真实问题]] | 怎么培养学生的人机协同能力？三段九法是什么？ |
 | [[concepts/pbl-competition-evaluation-toolkit\|小学项目化融合课赛课评价工具包]] | 项目化融合课赛课怎么评分？评价量表各维度权重是多少？ |
 | [[concepts/question-three-attributes-framework\|教学设计中的问题三属性框架——AI时代的异常值设计]] | 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子） |
 | [[concepts/create-thought-space\|教师创造思想空间：让学生成为思考的主体]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
@@ -100,6 +101,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-09-22 | 新增 3 篇（中国教育报 9-15「智慧教育」专版·提升学生AI素养系列①）：[[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架]]（practice，三段九法）+ 案例 [[cases/yong-ai/chicken-rabbit-ai\|鸡兔同笼AI思维催化课例]] + [[cases/chuang-ai/data-portrait-growth\|数据画像里的成长密码]]（体质优良率 56%→78%） |
 | 2026-09-22 | 新增概念：[[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链]]（practice），查→辩→论→验→省五步课堂重构 + 教师三身份（含 **AI 护栏员**）+ 护栏设计原则"退不是放" |
 | 2026-09-22 | 新增概念：[[concepts/ai-era-teacher-as-hub\|AI时代教师作为 Hub]]（practice），U型理论视角——教师从知识源头转为连接节点、**容器而非管道**；含 6 个高校课堂改造案例 |
 | 2026-09-22 | 新增 2 个概念：[[concepts/pbl-competition-evaluation-toolkit|项目化融合课赛课评价工具包]]（practice，100分制5维度量表+5条红线+8类表单）、[[concepts/pbl-tech-integration-evaluation|教研员角色转变与方法框架]]（practice，五维评价框架+证据先行反馈五步）；**同时修复索引**：清理 index.md 行号污染、MOC 从 9 条补全至 65 条、归档 5 个回滚占位符、升级 tianli-brain 元数据 |

@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-24 | 概念页 67 个 | 原始文章 70 篇
+> 最后更新：2026-09-24 | 概念页 68 个 | 原始文章 73 篇
 
 ---
 
@@ -52,7 +52,7 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（32 个）
+### practice — 课堂实践、教学案例（33 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
 - [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链——把"用"前置的课堂重构实操]] — 课堂怎么从"先讲后做"翻转成"先做后讲"？五活动链是什么？（scope: practice）
@@ -79,6 +79,7 @@
 - [[concepts/pbl-tech-integration-evaluation|信息技术融合下的项目化学习评价——教研员角色转变与方法框架]] — 信息技术融合背景下项目化学习课程怎么评？教研员角色怎么转变？（scope: practice）
 - [[concepts/smart-school-five-dimensions|全球智慧学校倡议——学校智能化转型的五维度自查框架]] — 智慧学习体验/教学创新/教师发展/学校规划/家校社协同（scope: practice）
 - [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难——基于新华视点多地调研]] — 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点（scope: practice）
+- [[concepts/ai-collaboration-competency-framework|学生人机协同能力培养框架——问题意识·提问能力·真实问题]] — 怎么培养学生的人机协同能力？三段九法是什么？（scope: practice）
 - [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]] — 项目化融合课赛课怎么评分？评价量表各维度权重是多少？（scope: practice）
 - [[concepts/question-three-attributes-framework|教学设计中的问题三属性框架——AI时代的异常值设计]] — 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子）（scope: practice）
 - [[concepts/create-thought-space|教师创造思想空间：让学生成为思考的主体]] — 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化（scope: practice）
@@ -100,8 +101,8 @@
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| [[cases/yong-ai/index|课堂教学案例（用AI）]] | 11 | 学科课堂中 AI 辅助教学实践 |
-| [[cases/chuang-ai/index|教育管理平台案例（创AI）]] | 8 | 校园管理、智能体、数据分析等平台 |
+| [[cases/yong-ai/index|课堂教学案例（用AI）]] | 12 | 学科课堂中 AI 辅助教学实践 |
+| [[cases/chuang-ai/index|教育管理平台案例（创AI）]] | 9 | 校园管理、智能体、数据分析等平台 |
 | [[cases/hu-ai/index|AI安全应用案例（护AI）]] | 1 | AI 生成内容审核与数据安全 |
 | [[cases/national/index|全国优秀案例]] | 2 | 全国范围征集的优秀 AI 教育案例 |
 
@@ -117,6 +118,9 @@
 - [[raw/articles/2026-09-22-pbl-tech-integration-evaluation|2026-09-22-pbl-tech-integration-evaluation]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-22-pbl-competition-evaluation-toolkit|2026-09-22-pbl-competition-evaluation-toolkit]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-16-liuxin-teacher-as-hub|大学课堂求生记之AI来了大学老师要放弃的是"只有教书才是在教育"这个执念]] — 来自 刘欣教学设计
+- [[raw/articles/2026-09-15-jyb-data-portrait-growth|数据画像里的成长密码——宁夏吴忠市利通区金积中心学校依托智能系统提升班队会育人成效]] — 来自 中国教育报
+- [[raw/articles/2026-09-15-jyb-collaboration-competency|如何提升学生人机协同能力]] — 来自 中国教育报
+- [[raw/articles/2026-09-15-jyb-ai-thinking-catalyst|让AI成为学生的"思维催化剂"]] — 来自 中国教育报
 - [[raw/articles/2026-08-28-global-ai-creativity-report|《全球AI创造力发展报告2026——AI教育专项》发布：AI教育进入系统性重构新阶段]] — 来自 news.cn
 - [[raw/articles/2026-08-27-tsinghua-teacher-ai-partnership|2026-08-27-tsinghua-teacher-ai-partnership]] — 来自 中国青年报（清华新闻网转载）
 - [[raw/articles/2026-08-27-edtech-course-experiential-reform|今天上了我教师职业生涯最难的一次课｜90分钟的《现代教育技术》只允许我讲20分钟]] — 来自 微信公众号

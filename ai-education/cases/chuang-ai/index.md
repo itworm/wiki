@@ -1,6 +1,6 @@
 # 教育管理平台案例（创AI）
 
-校园管理、智能体、数据分析等平台案例（共 8 个案例）
+校园管理、智能体、数据分析等平台案例（共 9 个案例）
 
 ---
 
@@ -12,3 +12,4 @@
 - [[mental-health-monitor|心灵守护学生心理健康监测系统]]
 - [[digital-footprint-analysis|数字足迹教学决策支持系统]]
 - [[english-writing-diagnosis|高中英语写作诊断与分层反馈系统]]
+- [[data-portrait-growth|数据画像里的成长密码——"数字成长秀"班队会育人案例]]
