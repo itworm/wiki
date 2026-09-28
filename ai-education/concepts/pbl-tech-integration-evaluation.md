@@ -135,6 +135,7 @@ objects:
 
 ## 关联页面
 
+- [[concepts/ai-cross-disciplinary-teaching|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]] — 本页判定"拼盘式跨学科"之后，**怎么走向真整合**的六路方法（备课/学生/探究/评价/写作）
 - [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]] — 本框架的**可操作落地版**：100 分制评分量表 + 8 类配套表单
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 本框架解决"评什么"，333 解决"怎么说"：3 优点 + 3 缺点 + 3 建议的呈现结构
 - [[concepts/ai-tpack-framework|AI-TPACK 框架]] — 同样以"证据链"为核心，从用好技术到让学习被看见

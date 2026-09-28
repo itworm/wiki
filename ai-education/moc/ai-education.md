@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-09-24 | 总页面数：70 个概念
+> 最后更新：2026-09-28 | 总页面数：71 个概念
 
 ---
 
@@ -72,6 +72,7 @@
 | [[concepts/ai-restraint-blank-space-framework\|AI融合课的克制与留白——教育发生的四瞬间]] | 教育发生四瞬间（意外/暂停/挣扎/突破）+克制三原则 |
 | [[concepts/ai-exam-review-courseware\|AI试卷讲评互动课件——飞象老师三步法]] | 用飞象老师5分钟生成互动试卷讲评课件 |
 | [[concepts/ai-training-five-stage-design\|AI赋能教育培训设计——刘欣五段式提纲]] | 破冰→现象→谬误→案例→原理，可复用的教师培训结构 |
+| [[concepts/ai-cross-disciplinary-teaching\|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]] | 跨学科教学怎么用AI？怎么从"拼盘"变成真整合？ |
 | [[concepts/ai-five-design-principles\|AI高支持环境教学设计五原则]] | 体验先行/任务驱动/思维可见/刻意摩擦/角色分化 |
 | [[concepts/waic-2026-education-reform\|WAIC 2026教育论坛——AI时代的人才培养与教育重构]] | 经师+人师+机师，OPC/FDE新人才范式，徐汇区重构教育三件事 |
 | [[concepts/ai-two-mode-collaboration\|两种AI协同模式：内容生产者 vs 思维伙伴]] | 区分AI作为内容生产工具与作为思维伙伴的两种协同方向，提出"诊断先于建议"的深度AI协同原则 |
@@ -103,6 +104,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-09-22 | 新增概念：[[concepts/ai-cross-disciplinary-teaching\|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]]（practice，中国教育报 9-08 专刊 6 篇整合）：三遍提问法 + AI预答辩三条实操 + 探究四支架 + 评价三要三不要 + 思维导图三阶段；**补齐 PBL 评价两页只给判据、缺方法的空白** |
 | 2026-09-22 | 新增 2 篇（中国教育报 9-22「智慧教育」·系列②）：[[concepts/ai-general-education-rollout\|普及人工智能教育的关键点]]（practice，降成本四维落地框架）+ [[concepts/human-ai-collaboration-five-steps\|人机协同五步法]]（practice，厦门思明区区域框架）；「向世界讲述中国数字教育发展故事」评估后未入库（展会新闻，信息密度低） |
 | 2026-09-22 | 新增 3 篇（中国教育报 9-15「智慧教育」专版·提升学生AI素养系列①）：[[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架]]（practice，三段九法）+ 案例 [[cases/yong-ai/chicken-rabbit-ai\|鸡兔同笼AI思维催化课例]] + [[cases/chuang-ai/data-portrait-growth\|数据画像里的成长密码]]（体质优良率 56%→78%） |
 | 2026-09-22 | 新增概念：[[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链]]（practice），查→辩→论→验→省五步课堂重构 + 教师三身份（含 **AI 护栏员**）+ 护栏设计原则"退不是放" |

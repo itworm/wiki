@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-24 | 概念页 70 个 | 原始文章 75 篇
+> 最后更新：2026-09-28 | 概念页 71 个 | 原始文章 76 篇
 
 ---
 
@@ -52,7 +52,7 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（35 个）
+### practice — 课堂实践、教学案例（36 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
 - [[concepts/human-ai-collaboration-five-steps|"人机协同五步法"——厦门思明区AI通识教育的区域框架]] — 人机协同五步法是什么？学生怎么和AI协作完成任务？（scope: practice）
@@ -72,6 +72,7 @@
 - [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白——教育发生的四瞬间]] — 教育发生四瞬间（意外/暂停/挣扎/突破）+克制三原则（scope: practice）
 - [[concepts/ai-exam-review-courseware|AI试卷讲评互动课件——飞象老师三步法]] — 用飞象老师5分钟生成互动试卷讲评课件（scope: practice）
 - [[concepts/ai-training-five-stage-design|AI赋能教育培训设计——刘欣五段式提纲]] — 破冰→现象→谬误→案例→原理，可复用的教师培训结构（scope: practice）
+- [[concepts/ai-cross-disciplinary-teaching|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]] — 跨学科教学怎么用AI？怎么从"拼盘"变成真整合？（scope: practice）
 - [[concepts/ai-five-design-principles|AI高支持环境教学设计五原则]] — 体验先行/任务驱动/思维可见/刻意摩擦/角色分化（scope: practice）
 - [[concepts/waic-2026-education-reform|WAIC 2026教育论坛——AI时代的人才培养与教育重构]] — 经师+人师+机师，OPC/FDE新人才范式，徐汇区重构教育三件事（scope: practice）
 - [[concepts/ai-two-mode-collaboration|两种AI协同模式：内容生产者 vs 思维伙伴]] — 区分AI作为内容生产工具与作为思维伙伴的两种协同方向，提出"诊断先于建议"的深度AI协同原则（scope: practice）
@@ -125,6 +126,7 @@
 - [[raw/articles/2026-09-15-jyb-data-portrait-growth|数据画像里的成长密码——宁夏吴忠市利通区金积中心学校依托智能系统提升班队会育人成效]] — 来自 中国教育报
 - [[raw/articles/2026-09-15-jyb-collaboration-competency|如何提升学生人机协同能力]] — 来自 中国教育报
 - [[raw/articles/2026-09-15-jyb-ai-thinking-catalyst|让AI成为学生的"思维催化剂"]] — 来自 中国教育报
+- [[raw/articles/2026-09-08-jyb-ai-cross-disciplinary|人工智能如何赋能跨学科教学]] — 来自 中国教育报
 - [[raw/articles/2026-08-28-global-ai-creativity-report|《全球AI创造力发展报告2026——AI教育专项》发布：AI教育进入系统性重构新阶段]] — 来自 news.cn
 - [[raw/articles/2026-08-27-tsinghua-teacher-ai-partnership|2026-08-27-tsinghua-teacher-ai-partnership]] — 来自 中国青年报（清华新闻网转载）
 - [[raw/articles/2026-08-27-edtech-course-experiential-reform|今天上了我教师职业生涯最难的一次课｜90分钟的《现代教育技术》只允许我讲20分钟]] — 来自 微信公众号

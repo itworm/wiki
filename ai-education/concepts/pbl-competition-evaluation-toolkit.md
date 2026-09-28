@@ -242,6 +242,7 @@ objects:
 
 ## 关联页面
 
+- [[concepts/ai-cross-disciplinary-teaching|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]] — 本页判定"拼盘式跨学科"之后，**怎么走向真整合**的六路方法（备课/学生/探究/评价/写作）
 - [[concepts/pbl-tech-integration-evaluation|信息技术融合下的项目化学习评价——教研员角色转变与方法框架]] — 本工具包的**理论母本**：五维框架、三个转向、证据先行反馈机制
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 赛后口头反馈的呈现结构（3 优点 + 3 缺点 + 3 建议），与本工具包的"反馈对话单"配合使用
 - [[concepts/ai-tpack-framework|AI-TPACK 框架]] — 证据链与"让学习被看见"的同源思路
