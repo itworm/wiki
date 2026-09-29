@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-09-28 | 概念页 71 个 | 原始文章 76 篇
+> 最后更新：2026-09-29 | 概念页 73 个 | 原始文章 78 篇
 
 ---
 
@@ -18,12 +18,13 @@
 - [[concepts/ai-education-action-plan|"人工智能+教育"行动计划（教科信〔2026〕1号）]] — 五部门联合印发，2026年AI教育顶层设计文件（教科信〔2026〕1号）（scope: policy）
 - [[concepts/shanghai-ai-literacy-framework|上海市中小学人工智能素养评价框架]] — 四维度+三水平递进，上海从有课可上走到有尺可量（scope: policy）
 
-### research — 研究、理论、趋势（31 个）
+### research — 研究、理论、趋势（32 个）
 
 - [[concepts/2026-education-trends|2026年六大教育趋势]] — 2026年全球教育趋势有哪些？福布斯怎么看？（scope: research）
 - [[concepts/ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] — 江丰光提出四阶段递进：事务工具→情境应用→实践分析→协同重构（scope: research）
 - [[concepts/ai-tpack-framework|AI-TPACK框架——从用好技术到让学习被看见]] — TPACK升级：决断知识DK为轴心，AIPCK证据链为核心（scope: research）
 - [[concepts/ai-native-vs-ai-powered|AI-native教育产品——从AI工具到教学决策参与者的范式转变]] — AI-powered vs AI-native分析框架，AI参与教学决策的四步引擎模型（scope: research）
+- [[concepts/ai-native-school-time-redistribution|AI原生学校的时间重构——教育最稀缺的资源是儿童的生命时间]] — AI时代学校该教什么？为什么说最稀缺的资源是生命时间？（scope: research）
 - [[concepts/ai-resurrected-ancient-educational-myth|AI复活古人的教育迷思——结构性批判]] — 六层透镜批判：技术理性裹挟/SAMR底层替代/景观化展演性（scope: research）
 - [[concepts/ai-learning-methodology|AI学习路径与方法——从实践中学习的模式]] — 从实践中学习AI的模式，对教师AI素养培训有直接启发（scope: research）
 - [[concepts/ai-elevates-thinking-bloom-zpd|AI提升思考维度——Bloom+ZPD视角]] — AI不是削弱思考，而是降低低阶认知负担让人类聚焦高阶思维（scope: research）
@@ -52,7 +53,7 @@
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
 
-### practice — 课堂实践、教学案例（36 个）
+### practice — 课堂实践、教学案例（37 个）
 
 - [[concepts/333-evaluation-framework|"333" 教研评课框架]] — 3个优点+3个缺点+3条建议的结构化评课方法，先说好再说不好，每条建议可操作（scope: practice）
 - [[concepts/human-ai-collaboration-five-steps|"人机协同五步法"——厦门思明区AI通识教育的区域框架]] — 人机协同五步法是什么？学生怎么和AI协作完成任务？（scope: practice）
@@ -89,6 +90,7 @@
 - [[concepts/ai-general-education-rollout|普及人工智能教育的关键点——降成本的四维落地框架]] — 中小学怎么把人工智能教育真正普及开？关键抓手是什么？（scope: practice）
 - [[concepts/ai-general-education-literacy|智能体协作的三层意识与AI通识教育普及]] — 黄秉刚提出学生与AI协作的三层意识框架（成本/分层/留痕），从"工匠"到"指挥家"的能力范式转变（scope: practice）
 - [[concepts/rule-based-ai-education|有规则的AI教育——禁止进课堂不是出路，分层管理才是]] — 三层学习环境框架，披露制度+过程评价（scope: practice）
+- [[concepts/haiding-ai-edu-practice|海淀AI教育样本——区级统筹的"政产学研用"组织范式]] — 海淀"人工智能+教育"是怎么组织的？区级统筹该怎么做？（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法：让AI问你问题]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
@@ -117,6 +119,8 @@
 
 - [[raw/articles/2026-parallelism-learning-theory|Sonny Magana 的并行学习理论，一种全新的人工智能时代的学习理论]] — 来自 教育技术学自留地
 - [[raw/articles/2026-ai-era-learning-theory|在人工智能时代，我们是否需要提出一种新的学习理论？]] — 来自 教育技术学自留地
+- [[raw/articles/2026-09-29-haiding-ai-edu-practice|北京海淀区：从"海淀样本"看AI如何助力基础教育进化]] — 来自 北京日报（中国教育信息化网转载）
+- [[raw/articles/2026-09-29-ai-native-school-time-redistribution|我"反"AI，但我想做中国第一所AI原生学校]] — 来自 芥末堆（原创）
 - [[raw/articles/2026-09-24-liuxin-five-activity-chain|旧课堂已死催促AI支撑下的新课堂创生｜这样大学课堂谁能不爱？！]] — 来自 刘欣教学设计
 - [[raw/articles/2026-09-22-pbl-tech-integration-evaluation|2026-09-22-pbl-tech-integration-evaluation]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
 - [[raw/articles/2026-09-22-pbl-competition-evaluation-toolkit|2026-09-22-pbl-competition-evaluation-toolkit]] — 来自 本地资料（刘老师在 DeepSeek 辅助下整理）
