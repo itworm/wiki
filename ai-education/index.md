@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-13 | 概念页 73 个 | 原始文章 78 篇
+> 最后更新：2026-10-13 | 概念页 74 个 | 原始文章 79 篇
 
 ---
 
@@ -92,6 +92,7 @@
 - [[concepts/rule-based-ai-education|有规则的AI教育——禁止进课堂不是出路，分层管理才是]] — 三层学习环境框架，披露制度+过程评价（scope: practice）
 - [[concepts/haiding-ai-edu-practice|海淀AI教育样本——区级统筹的"政产学研用"组织范式]] — 海淀"人工智能+教育"是怎么组织的？区级统筹该怎么做？（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法：让AI问你问题]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
+- [[concepts/parents-guide-ai-homework-boundary|家长如何划定孩子使用AI的边界——"四问AI+教育"①]] — 孩子写作业用AI代劳怎么办？家长该怎么划定边界？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -195,3 +196,4 @@
 - [[raw/articles/2026-01-22-teacher-ai-guidelines|AI应用指引来了，教师该怎么干]] — 来自 news.cn
 - [[raw/articles/2026-01-06-forbes-education-trends|美媒预测2026年六大教育趋势]] — 来自 cete1987.com
 - [[raw/articles/2024-11-28-education-ai-agent-review|刘明 等 ｜ 教育大模型智能体的开发、应用现状与未来展望]] — 来自 53ai.com
+- [[raw/articles/2026-09-03-rmrb-ai-homework-parents|孩子写作业先问AI，家长怎么办（教育优质均衡发展·四问"人工智能+教育"①）]] — 来自 人民日报

@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-10-13 | 总页面数：73 个概念
+> 最后更新：2026-10-13 | 总页面数：74 个概念
 
 ---
 
@@ -83,6 +83,7 @@
 | [[concepts/smart-school-five-dimensions\|全球智慧学校倡议——学校智能化转型的五维度自查框架]] | 智慧学习体验/教学创新/教师发展/学校规划/家校社协同 |
 | [[concepts/regional-ai-edu-path\|区域AI+教育推进的实践路径与困难——基于新华视点多地调研]] | 从新华视点多地调研看区域推进AI+教育的具体做法与真实卡点 |
 | [[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架——问题意识·提问能力·真实问题]] | 怎么培养学生的人机协同能力？三段九法是什么？ |
+| [[concepts/parents-guide-ai-homework-boundary\|家长如何划定孩子使用AI的边界——"四问AI+教育"①]] | 孩子写作业用AI代劳怎么办？家长该怎么划定边界？ |
 | [[concepts/pbl-competition-evaluation-toolkit\|小学项目化融合课赛课评价工具包]] | 项目化融合课赛课怎么评分？评价量表各维度权重是多少？ |
 | [[concepts/question-three-attributes-framework\|教学设计中的问题三属性框架——AI时代的异常值设计]] | 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子） |
 | [[concepts/create-thought-space\|教师创造思想空间：让学生成为思考的主体]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
@@ -103,6 +104,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-10-13 | 新增概念：[[concepts/parents-guide-ai-homework-boundary\|家长如何划定孩子使用AI的边界]]（practice，人民日报"四问AI+教育"系列①）：**3条红线+3条绿线**、四个"不匹配"、大模型白名单、"算法驱动应试"警示；**补上库里缺失的家长视角** |
 | 2026-09-29 | 新增 2 篇（来自 09-29 日报 5 条中的前 3 条评估）：[[concepts/haiding-ai-edu-practice\|海淀AI教育样本——区级统筹的"政产学研用"组织范式]]（practice，北京日报·一年实践+多校案例）+ [[concepts/ai-native-school-time-redistribution\|AI原生学校的时间重构]]（research，芥末堆·时间视角教育哲学，⚠️理念宣言无实证）；「深圳援藏」评估后未入库（通讯报道） |
 | 2026-09-22 | 新增概念：[[concepts/ai-cross-disciplinary-teaching\|AI赋能跨学科教学——从"拼盘"到"熔炉"的六路实践]]（practice，中国教育报 9-08 专刊 6 篇整合）：三遍提问法 + AI预答辩三条实操 + 探究四支架 + 评价三要三不要 + 思维导图三阶段；**补齐 PBL 评价两页只给判据、缺方法的空白** |
 | 2026-09-22 | 新增 2 篇（中国教育报 9-22「智慧教育」·系列②）：[[concepts/ai-general-education-rollout\|普及人工智能教育的关键点]]（practice，降成本四维落地框架）+ [[concepts/human-ai-collaboration-five-steps\|人机协同五步法]]（practice，厦门思明区区域框架）；「向世界讲述中国数字教育发展故事」评估后未入库（展会新闻，信息密度低） |
