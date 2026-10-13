@@ -39,3 +39,15 @@
 - 核心框架：三层架构（Raw→Wiki→Schema）→ 三大操作（Ingest→Query→Lint）→ 知识复利闭环
 - 本知识库定位：LLM Wiki 提供理论顶层设计，与已有实操方案互补
 - 关联：[[concepts/myknowledge-methodology]] [[concepts/hermes-kb-guide]] [[concepts/ai-kb-hallucination-solutions]]
+
+## [2026-09-29] extend | 追加 SECI 模型至「知识治理方法论」（方案 A）
+- 来源：微信公众号「AI4KIDs」《云笔记赋能教师个人知识管理》（2025-05-31，源自杭州市 2019 年教师现代教育技术小课题 19X17004）
+- **评估结论：不整篇入库**——工具层落点是"云笔记"（印象笔记/有道云笔记），**全文无一次提到 AI**，已被当前"AI+知识库"实践超越；且 采集→组织→深化→应用 循环与本库已有内容重叠
+- **执行方案 A（萃取增量）**：
+  - 追加 **SECI 模型**（野中郁次郎：隐性↔显性知识四象限——社会化/外在化/组合化/内在化）至 [[concepts/myknowledge-methodology|知识治理方法论]]
+  - 建立理论关联：本库"持续编译"原则本质是**最大化「外在化」与「组合化」**（碎片盒捕获隐性经验 → wiki 结构化组合 → Agent 萃取）
+  - 追加 **「思维支架」五问**（提炼/联结/批判/迁移/元认知）
+  - 保存溯源 raw：raw/articles/2026-05-31-yunbiji-teacher-pkm.md（frontmatter 标注"仅萃取 SECI 模型，未整体入库"）
+- **顺带修复本库索引漂移**（发现时已严重：计数停在 5，实际 10 页）：
+  - index.md：计数 5→10；补录遗漏 raw（kb-engineering-practice）；清除 6 处 `🟢` 污染 + 2 处转义残留（`\|`）
+  - moc/hermes-knowledge.md：计数 5→10；「我该从哪里找」从 5 页补全至 10 页；「三条脉络」更新（补 Sean 系列与 Karpathy 脉络）
