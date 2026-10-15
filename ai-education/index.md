@@ -100,6 +100,10 @@
 - [[concepts/tianli-brain-nature-case|天立学科大脑（Tianli Brain）——覆盖107校的AI个性化学习系统]] — 首个登上《自然指数—中国》的中国AI+教育案例，107所学校部署的认知建模AI学伴系统（scope: product）
 - [[concepts/ai-edu-warring-states-landscape|教育AI战国格局——五家企业的战略路线对比]] — 猿力/松鼠AI/豆神/粉笔/作业帮五家AI教育公司路线对比（scope: product）
 
+## Entities
+
+- [[entities/liuxin-teaching-design|刘欣（"刘欣教学设计"）——作品索引与方法论脉络]]
+
 ## Decisions
 
 - [[decisions/index|决策记录索引]] — 架构取舍记录
