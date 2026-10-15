@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-15 | 概念页 74 个 | 原始文章 80 篇
+> 最后更新：2026-10-15 | 概念页 75 个 | 原始文章 81 篇
 
 ---
 
@@ -93,6 +93,7 @@
 - [[concepts/haiding-ai-edu-practice|海淀AI教育样本——区级统筹的"政产学研用"组织范式]] — 海淀"人工智能+教育"是怎么组织的？区级统筹该怎么做？（scope: practice）
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法：让AI问你问题]] — 让AI问你问题而非你问AI要答案，三种实操场景（scope: practice）
 - [[concepts/parents-guide-ai-homework-boundary|家长如何划定孩子使用AI的边界——"四问AI+教育"①]] — 孩子写作业用AI代劳怎么办？家长该怎么划定边界？（scope: practice）
+- [[concepts/ai-knowledge-visualization-pit-digging|挖坑式"课堂与AI知识可视化——从踩坑中读懂"教学评一致性]] — 老师为什么故意"挖坑"？AI辅助画知识图谱为什么会翻车？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -198,3 +199,4 @@
 - [[raw/articles/2024-11-28-education-ai-agent-review|刘明 等 ｜ 教育大模型智能体的开发、应用现状与未来展望]] — 来自 53ai.com
 - [[raw/articles/2026-09-03-rmrb-ai-homework-parents|孩子写作业先问AI，家长怎么办（教育优质均衡发展·四问"人工智能+教育"①）]] — 来自 人民日报
 - [[raw/articles/2026-10-13-liuxin-student-voice-five-activities|当课堂不再从碎碎念定义开始｜大学课堂应如何创变让学生主动完成认知之旅]] — 来自 刘欣教学设计（学生第七组供稿）
+- [[raw/articles/2026-10-15-liuxin-pit-digging-knowledge-viz|一堂挖坑式《教学系统设计》课｜AI协同下的知识可视化翻车n次后读懂教学评一致性]] — 来自 刘欣教学设计（学生24级教技G3供稿）

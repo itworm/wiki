@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-10-15 | 总页面数：74 个概念
+> 最后更新：2026-10-15 | 总页面数：75 个概念
 
 ---
 
@@ -85,6 +85,7 @@
 | [[concepts/ai-collaboration-competency-framework\|学生人机协同能力培养框架——问题意识·提问能力·真实问题]] | 怎么培养学生的人机协同能力？三段九法是什么？ |
 | [[concepts/parents-guide-ai-homework-boundary\|家长如何划定孩子使用AI的边界——"四问AI+教育"①]] | 孩子写作业用AI代劳怎么办？家长该怎么划定边界？ |
 | [[concepts/pbl-competition-evaluation-toolkit\|小学项目化融合课赛课评价工具包]] | 项目化融合课赛课怎么评分？评价量表各维度权重是多少？ |
+| [[concepts/ai-knowledge-visualization-pit-digging\|挖坑式"课堂与AI知识可视化——从踩坑中读懂"教学评一致性]] | 老师为什么故意"挖坑"？AI辅助画知识图谱为什么会翻车？ |
 | [[concepts/question-three-attributes-framework\|教学设计中的问题三属性框架——AI时代的异常值设计]] | 真问题（关系邀请）/对的问题（认知缝隙）/高价值问题（再生种子） |
 | [[concepts/create-thought-space\|教师创造思想空间：让学生成为思考的主体]] | 让学生成为思考的主体而非被动接收者，项飙"思想空间"理念的教育转化 |
 | [[concepts/teacher-ai-application-guidelines\|教师生成式人工智能应用指引（第一版）]] | 国家层面首份专门针对教师群体的生成式AI应用规范，覆盖备课/批改/管理/反思数十个场景 |
@@ -104,6 +105,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-10-15 | 新增概念：[[concepts/ai-knowledge-visualization-pit-digging\|"挖坑式"课堂与AI知识可视化]]（practice，刘欣《教学系统设计》课·学生版实录）：两次翻车（概念偏差→关系混乱）+ 老师关键判断"**要想调用AI这个超级牛的助理，你得比它更懂这个理论**"+ Mermaid提示词三条经验 + "**AI会把人的错误不断放大**" |
 | 2026-10-13 | **追加**「学生视角」一节至 [[concepts/ai-lesson-five-activity-chain\|"先做后讲"五活动链]]（同一节课的学生版，24级教技G7撰稿）：含"**重新分配'谁负责判断'**"的学生自提炼洞察，及对留白的最佳表述"**不替你想、不替你兜、不替你圆**"；标注为质性反馈非量化证据 |
 | 2026-10-13 | 新增概念：[[concepts/parents-guide-ai-homework-boundary\|家长如何划定孩子使用AI的边界]]（practice，人民日报"四问AI+教育"系列①）：**3条红线+3条绿线**、四个"不匹配"、大模型白名单、"算法驱动应试"警示；**补上库里缺失的家长视角** |
 | 2026-09-29 | 新增 2 篇（来自 09-29 日报 5 条中的前 3 条评估）：[[concepts/haiding-ai-edu-practice\|海淀AI教育样本——区级统筹的"政产学研用"组织范式]]（practice，北京日报·一年实践+多校案例）+ [[concepts/ai-native-school-time-redistribution\|AI原生学校的时间重构]]（research，芥末堆·时间视角教育哲学，⚠️理念宣言无实证）；「深圳援藏」评估后未入库（通讯报道） |
