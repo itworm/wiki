@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-10-15 | 总页面数：75 个概念
+> 最后更新：2026-10-15 | 总页面数：76 个概念
 
 ---
 
@@ -47,6 +47,7 @@
 | [[concepts/edu-ai-tech-stack-deconstruction\|教育AI技术栈——从大模型到智能体的架构解构]] | 爱学大模型/微软Study and Learn/企鹅教师助手/学而思T6等2026年教育AI技术架构案例 |
 | [[concepts/education-ai-agent-review\|教育大模型智能体综述]] | 学术综述：20个典型教育AI智能体的技术架构、开发框架与四大应用场景 |
 | [[concepts/ai-automation-century-myth\|教育自动化的百年迷思]] | 从1885年函授课程到今天大模型，教育自动化的"承诺-落空"循环永不完结 |
+| [[concepts/intelligent-education-forum-2026\|第八届智能教育论坛——AI进课堂的变化与隐忧]] | AI进课堂带来哪些变化？学界有哪些隐忧？ |
 | [[concepts/classroom-blindspot-observable-ai\|课堂认知盲区与可观测AI——SchoolAI的"教练式引导"设计哲学]] | SchoolAI的教练式引导设计哲学，可观测AI架构 |
 | [[concepts/wenke-wise-classroom-research\|问课课堂研究：WISE框架与AIED人机协同教研模型]] | 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程 |
 | [[concepts/high-level-shift-education\|高位转移——AI教育问题升维框架]] | AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度 |
@@ -105,6 +106,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-10-15 | 新增概念：[[concepts/intelligent-education-forum-2026\|第八届智能教育论坛——AI进课堂的变化与隐忧]]（research，光明日报）：7位专家集体判断 + **8500人调查**（超两成学生"更愿意依赖AI思考"）+ 胡小勇"**只有机器发生了学习**" + 陈丽"**课堂是落脚点但不一定是撬动点**" |
 | 2026-10-15 | [[entities/liuxin-teaching-design\|刘欣索引页]]**增补第五节「适用边界速查」**：20 条内容逐条标注 ✅可直接用 / ⚠️需改造 / 🔬仅作参考；明确核心事实——**刘欣是高校教师、授课对象是师范生**，并给出中小学迁移的三个现实约束（课时/学生自主性/进度压力）与"取其一环而非照搬全链"的落地建议 |
 | 2026-10-15 | 新建作者索引页 [[entities/liuxin-teaching-design\|刘欣（"刘欣教学设计"）——作品索引与方法论脉络]]：盘点出该公众号在库内已有 **21 篇原文 / 19 个页面**（**库内最大单一来源**），串成"立场→主张→方法→课堂→证据"五层脉络；同步给脚本增加 Entities 段支持 |
 | 2026-10-15 | 新增概念：[[concepts/ai-knowledge-visualization-pit-digging\|"挖坑式"课堂与AI知识可视化]]（practice，刘欣《教学系统设计》课·学生版实录）：两次翻车（概念偏差→关系混乱）+ 老师关键判断"**要想调用AI这个超级牛的助理，你得比它更懂这个理论**"+ Mermaid提示词三条经验 + "**AI会把人的错误不断放大**" |

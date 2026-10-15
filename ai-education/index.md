@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-15 | 概念页 75 个 | 原始文章 81 篇
+> 最后更新：2026-10-15 | 概念页 76 个 | 原始文章 82 篇
 
 ---
 
@@ -52,6 +52,7 @@
 - [[concepts/classroom-blindspot-observable-ai|课堂认知盲区与可观测AI——SchoolAI的"教练式引导"设计哲学]] — SchoolAI的教练式引导设计哲学，可观测AI架构（scope: research）
 - [[concepts/wenke-wise-classroom-research|问课课堂研究：WISE框架与AIED人机协同教研模型]] — 胡小勇团队提出的课堂研究新范式，从判别式评课转向探究式问课，含WISE四层分析框架和AIED四步教研流程（scope: research）
 - [[concepts/high-level-shift-education|高位转移——AI教育问题升维框架]] — AI消除低层瓶颈后，问题被抬升到质量/人性/哲学高度（scope: research）
+- [[concepts/intelligent-education-forum-2026|第八届智能教育论坛——AI进课堂的变化与隐忧]] — AI进课堂带来哪些变化？学界有哪些隐忧？（scope: research）
 
 ### practice — 课堂实践、教学案例（37 个）
 
@@ -204,3 +205,4 @@
 - [[raw/articles/2026-09-03-rmrb-ai-homework-parents|孩子写作业先问AI，家长怎么办（教育优质均衡发展·四问"人工智能+教育"①）]] — 来自 人民日报
 - [[raw/articles/2026-10-13-liuxin-student-voice-five-activities|当课堂不再从碎碎念定义开始｜大学课堂应如何创变让学生主动完成认知之旅]] — 来自 刘欣教学设计（学生第七组供稿）
 - [[raw/articles/2026-10-15-liuxin-pit-digging-knowledge-viz|一堂挖坑式《教学系统设计》课｜AI协同下的知识可视化翻车n次后读懂教学评一致性]] — 来自 刘欣教学设计（学生24级教技G3供稿）
+- [[raw/articles/2026-10-14-gmw-intelligent-education-forum|AI进课堂，带来哪些变化]] — 来自 光明日报
