@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-13 | 概念页 74 个 | 原始文章 79 篇
+> 最后更新：2026-10-15 | 概念页 74 个 | 原始文章 80 篇
 
 ---
 
@@ -197,3 +197,4 @@
 - [[raw/articles/2026-01-06-forbes-education-trends|美媒预测2026年六大教育趋势]] — 来自 cete1987.com
 - [[raw/articles/2024-11-28-education-ai-agent-review|刘明 等 ｜ 教育大模型智能体的开发、应用现状与未来展望]] — 来自 53ai.com
 - [[raw/articles/2026-09-03-rmrb-ai-homework-parents|孩子写作业先问AI，家长怎么办（教育优质均衡发展·四问"人工智能+教育"①）]] — 来自 人民日报
+- [[raw/articles/2026-10-13-liuxin-student-voice-five-activities|当课堂不再从碎碎念定义开始｜大学课堂应如何创变让学生主动完成认知之旅]] — 来自 刘欣教学设计（学生第七组供稿）
