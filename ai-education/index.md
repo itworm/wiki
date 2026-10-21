@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-20 | 概念页 77 个 | 原始文章 83 篇
+> 最后更新：2026-10-21 | 概念页 78 个 | 原始文章 84 篇
 
 ---
 
@@ -96,6 +96,7 @@
 - [[concepts/parents-guide-ai-homework-boundary|家长如何划定孩子使用AI的边界——"四问AI+教育"①]] — 孩子写作业用AI代劳怎么办？家长该怎么划定边界？（scope: practice）
 - [[concepts/ai-knowledge-visualization-pit-digging|挖坑式"课堂与AI知识可视化——从踩坑中读懂"教学评一致性]] — 老师为什么故意"挖坑"？AI辅助画知识图谱为什么会翻车？（scope: practice）
 - [[concepts/ai-science-education-learning-by-doing|AI时代科学教育如何"做中学"——人机交互·协同·融合三阶段]] — AI时代科学实验课怎么做"做中学"？技术简化会不会伤害深度认知？（scope: practice）
+- [[concepts/webpage-activity-pitfalls-in-it-class|别让信息科技课沦为"网页点读机"——三个陷阱与三条铁律]] — 信息科技课为什么容易变成网页活动表演？该怎么判断该不该用网页？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -208,3 +209,4 @@
 - [[raw/articles/2026-10-15-liuxin-pit-digging-knowledge-viz|一堂挖坑式《教学系统设计》课｜AI协同下的知识可视化翻车n次后读懂教学评一致性]] — 来自 刘欣教学设计（学生24级教技G3供稿）
 - [[raw/articles/2026-10-14-gmw-intelligent-education-forum|AI进课堂，带来哪些变化]] — 来自 光明日报
 - [[raw/articles/2026-10-20-jyb-ai-science-learning-by-doing|AI时代科学教育如何"做中学"]] — 来自 中国教育报
+- [[raw/articles/2026-10-19-webpage-activity-pitfalls|别让信息科技课，沦为一场"网页点读机"表演]] — 来自 周歌的信息科技课堂
