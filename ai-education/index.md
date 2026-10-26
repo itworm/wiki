@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-21 | 概念页 78 个 | 原始文章 84 篇
+> 最后更新：2026-10-26 | 概念页 79 个 | 原始文章 85 篇
 
 ---
 
@@ -97,6 +97,7 @@
 - [[concepts/ai-knowledge-visualization-pit-digging|挖坑式"课堂与AI知识可视化——从踩坑中读懂"教学评一致性]] — 老师为什么故意"挖坑"？AI辅助画知识图谱为什么会翻车？（scope: practice）
 - [[concepts/ai-science-education-learning-by-doing|AI时代科学教育如何"做中学"——人机交互·协同·融合三阶段]] — AI时代科学实验课怎么做"做中学"？技术简化会不会伤害深度认知？（scope: practice）
 - [[concepts/webpage-activity-pitfalls-in-it-class|别让信息科技课沦为"网页点读机"——三个陷阱与三条铁律]] — 信息科技课为什么容易变成网页活动表演？该怎么判断该不该用网页？（scope: practice）
+- [[concepts/five-station-lesson-design|五站旅程：终·图·路·走·检——AI时代教学设计力气该花在哪]] — 教学设计该把力气花在哪？五站旅程终图路走检怎么用？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -210,3 +211,4 @@
 - [[raw/articles/2026-10-14-gmw-intelligent-education-forum|AI进课堂，带来哪些变化]] — 来自 光明日报
 - [[raw/articles/2026-10-20-jyb-ai-science-learning-by-doing|AI时代科学教育如何"做中学"]] — 来自 中国教育报
 - [[raw/articles/2026-10-19-webpage-activity-pitfalls|别让信息科技课，沦为一场"网页点读机"表演]] — 来自 周歌的信息科技课堂
+- [[raw/articles/2026-10-20-liuxin-five-station-design|有判断，有内涵，讲三成，走七成！｜咱们该把教学设计力气花哪？]] — 来自 刘欣教学设计

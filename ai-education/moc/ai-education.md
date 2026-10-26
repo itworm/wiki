@@ -1,7 +1,7 @@
 # ai-education — 检索地图
 
 > 知识库 `~/wiki/ai-education/` 的核心主题总览页。
-> 最后更新：2026-10-21 | 总页面数：78 个概念
+> 最后更新：2026-10-26 | 总页面数：79 个概念
 
 ---
 
@@ -79,6 +79,7 @@
 | [[concepts/ai-five-design-principles\|AI高支持环境教学设计五原则]] | 体验先行/任务驱动/思维可见/刻意摩擦/角色分化 |
 | [[concepts/waic-2026-education-reform\|WAIC 2026教育论坛——AI时代的人才培养与教育重构]] | 经师+人师+机师，OPC/FDE新人才范式，徐汇区重构教育三件事 |
 | [[concepts/ai-two-mode-collaboration\|两种AI协同模式：内容生产者 vs 思维伙伴]] | 区分AI作为内容生产工具与作为思维伙伴的两种协同方向，提出"诊断先于建议"的深度AI协同原则 |
+| [[concepts/five-station-lesson-design\|五站旅程：终·图·路·走·检——AI时代教学设计力气该花在哪]] | 教学设计该把力气花在哪？五站旅程终图路走检怎么用？ |
 | [[concepts/human-ai-collaboration-width-depth\|人机协同教学设计——AI做宽度教师做深度]] | 7:3分工+思维眼镜卡片+教育工程师 |
 | [[concepts/great-things-classroom-center\|伟大事物——课堂中心与AI融合的哲学基础]] | 帕尔默：让学科本身而非教师/学生居于课堂中心 |
 | [[concepts/pbl-tech-integration-evaluation\|信息技术融合下的项目化学习评价——教研员角色转变与方法框架]] | 信息技术融合背景下项目化学习课程怎么评？教研员角色怎么转变？ |
@@ -108,6 +109,7 @@
 
 | 日期 | 变更 |
 |------|------|
+| 2026-10-20 | 新增概念：[[concepts/five-station-lesson-design\|五站旅程：终·图·路·走·检]]（practice，刘欣方法论**总纲**）：克拉夫基**内容vs内涵**(Bildungsinhalt/Bildungsgehalt) + 五站备课流程 + **地形图vs导航**（知识图谱≠认知图谱）+ **N1–N5错因分层** + 讲3成走7成；与五活动链构成"设计vs实施"闭环 |
 | 2026-10-20 | 新增概念：[[concepts/webpage-activity-pitfalls-in-it-class\|别让信息科技课沦为"网页点读机"]]（practice，周歌的信息科技课堂）：**三个陷阱**（互动幻觉/数据黑洞/技术过载）+ **三条铁律** + 四个追问；**不限学科——凡用互动网页承载教学的课堂都适用**（陷阱取决于载体而非学科）；揭示技术堆砌根源在评价导向倒逼"军备竞赛"，补齐赛课红线⑤的机制解释 |
 | 2026-10-20 | 新增概念：[[concepts/ai-science-education-learning-by-doing\|AI时代科学教育如何"做中学"]]（practice，中国教育报10-20智慧教育）：人机交互→协同→融合三阶段 + 两个矛盾（技术简化压缩试错空间/算法评价流失思维闪光点）+ 力学与物态变化两个误差归因课例；**填补库内"科学学科+AI"空白** |
 | 2026-10-15 | 新增概念：[[concepts/intelligent-education-forum-2026\|第八届智能教育论坛——AI进课堂的变化与隐忧]]（research，光明日报）：7位专家集体判断 + **8500人调查**（超两成学生"更愿意依赖AI思考"）+ 胡小勇"**只有机器发生了学习**" + 陈丽"**课堂是落脚点但不一定是撬动点**" |

@@ -157,6 +157,7 @@ objects:
 ## 关联页面
 
 - [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链——把"用"前置的课堂重构实操]] — **同作者的姊妹篇**（《教育新媒体创作实务》课）；同一教学法思路的另一种实现，且那页含该课的学生版实录
+- [[concepts/five-station-lesson-design|五站旅程：终·图·路·走·检]] — ⚠️ **重要补充**：本页讲"怎么画知识图谱"（**地形图**，对谁都一样）；那页指出**画完地形图还不算备课，必须再做认知导航**（认知图谱，一人一份）。"把地形图当导航"是最容易踩的坑
 - [[concepts/ai-era-teacher-as-hub|AI时代教师作为 Hub]] — "不替你想、不替你兜、不替你圆"在本页的体现：老师明知会错也不提前说
 - [[concepts/ai-collaboration-competency-framework|学生人机协同能力培养框架]] — "辩证提问/审查四方面"正是本页学生缺失的那一步（他们起初全盘接受了 AI 的解读）
 - [[concepts/pbl-tech-integration-evaluation|信息技术融合下的项目化学习评价]] — "教学评一致性"在该页是评价维度；本页是该概念的学生学习实录
