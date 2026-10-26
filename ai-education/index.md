@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-26 | 概念页 79 个 | 原始文章 85 篇
+> 最后更新：2026-10-26 | 概念页 80 个 | 原始文章 86 篇
 
 ---
 
@@ -104,6 +104,7 @@
 - [[concepts/tianli-brain-nature-case|天立学科大脑（Tianli Brain）——覆盖107校的AI个性化学习系统]] — 首个登上《自然指数—中国》的中国AI+教育案例，107所学校部署的认知建模AI学伴系统（scope: product）
 - [[concepts/ai-edu-warring-states-landscape|教育AI战国格局——五家企业的战略路线对比]] — 猿力/松鼠AI/豆神/粉笔/作业帮五家AI教育公司路线对比（scope: product）
 
+- [[concepts/dick-carey-evidence-chain|教学设计不是流程表，是证据链——迪克·凯瑞模型的九格与三条虚线]] — 迪克·凯瑞教学设计模型的九格是什么？教案为什么该是证据链？（scope: theory）
 ## Entities
 
 - [[entities/liuxin-teaching-design|刘欣（"刘欣教学设计"）——作品索引与方法论脉络]]
@@ -212,3 +213,4 @@
 - [[raw/articles/2026-10-20-jyb-ai-science-learning-by-doing|AI时代科学教育如何"做中学"]] — 来自 中国教育报
 - [[raw/articles/2026-10-19-webpage-activity-pitfalls|别让信息科技课，沦为一场"网页点读机"表演]] — 来自 周歌的信息科技课堂
 - [[raw/articles/2026-10-20-liuxin-five-station-design|有判断，有内涵，讲三成，走七成！｜咱们该把教学设计力气花哪？]] — 来自 刘欣教学设计
+- [[raw/articles/2026-10-25-liuxin-dick-carey-evidence-chain|教学设计不是流程表，是证据链｜从锚到调：一份教学设计的全流程揭秘！]] — 来自 刘欣教学设计
