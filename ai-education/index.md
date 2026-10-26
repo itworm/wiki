@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-26 | 概念页 80 个 | 原始文章 86 篇
+> 最后更新：2026-10-26 | 概念页 80 个 | 原始文章 87 篇
 
 ---
 
@@ -214,3 +214,4 @@
 - [[raw/articles/2026-10-19-webpage-activity-pitfalls|别让信息科技课，沦为一场"网页点读机"表演]] — 来自 周歌的信息科技课堂
 - [[raw/articles/2026-10-20-liuxin-five-station-design|有判断，有内涵，讲三成，走七成！｜咱们该把教学设计力气花哪？]] — 来自 刘欣教学设计
 - [[raw/articles/2026-10-25-liuxin-dick-carey-evidence-chain|教学设计不是流程表，是证据链｜从锚到调：一份教学设计的全流程揭秘！]] — 来自 刘欣教学设计
+- [[raw/articles/2026-10-16-liuxin-student-voice-g10-class-flunk|全班集体翻车名场面｜原来是踩了表面学习的大坑，只有真理解才"不烧心"！]] — 来自 刘欣教学设计
