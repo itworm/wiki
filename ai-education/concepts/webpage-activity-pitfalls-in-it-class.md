@@ -211,3 +211,4 @@ objects:
 - [[concepts/ai-cross-disciplinary-teaching|AI赋能跨学科教学]] — "AI 四支架"划定了 AI 该进入的环节；本页划定了工具该不该进入课堂
 - [[concepts/intelligent-education-forum-2026|第八届智能教育论坛]] — "只有机器发生了学习"；本页的"互动幻觉"是它在信息科技课的具体形态
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — **同问题的两个层面**：本页"数据黑洞"是课堂层（数据成教学装饰品），那页"**有数据≠有证据**"是区域层

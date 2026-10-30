@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-10-26 | 概念页 80 个 | 原始文章 87 篇
+> 最后更新：2026-10-30 | 概念页 81 个 | 原始文章 88 篇
 
 ---
 
@@ -98,6 +98,7 @@
 - [[concepts/ai-science-education-learning-by-doing|AI时代科学教育如何"做中学"——人机交互·协同·融合三阶段]] — AI时代科学实验课怎么做"做中学"？技术简化会不会伤害深度认知？（scope: practice）
 - [[concepts/webpage-activity-pitfalls-in-it-class|别让信息科技课沦为"网页点读机"——三个陷阱与三条铁律]] — 信息科技课为什么容易变成网页活动表演？该怎么判断该不该用网页？（scope: practice）
 - [[concepts/five-station-lesson-design|五站旅程：终·图·路·走·检——AI时代教学设计力气该花在哪]] — 教学设计该把力气花在哪？五站旅程终图路走检怎么用？（scope: practice）
+- [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市·区·校三级治理与"五个转变"]] — 智慧校园从2.0升3.0要变什么？区县一级到底该干什么？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -215,3 +216,4 @@
 - [[raw/articles/2026-10-20-liuxin-five-station-design|有判断，有内涵，讲三成，走七成！｜咱们该把教学设计力气花哪？]] — 来自 刘欣教学设计
 - [[raw/articles/2026-10-25-liuxin-dick-carey-evidence-chain|教学设计不是流程表，是证据链｜从锚到调：一份教学设计的全流程揭秘！]] — 来自 刘欣教学设计
 - [[raw/articles/2026-10-16-liuxin-student-voice-g10-class-flunk|全班集体翻车名场面｜原来是踩了表面学习的大坑，只有真理解才"不烧心"！]] — 来自 刘欣教学设计
+- [[raw/articles/2026-10-29-wenzhou-smart-campus-3|浙江温州智慧校园3.0"串珠成链"再出发]] — 来自 中国教育信息化网（原发温州市教育局）

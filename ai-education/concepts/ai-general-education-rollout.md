@@ -180,3 +180,4 @@ AI 技术迭代越快，单校独立运维的成本与专业门槛就越高。
 - [[concepts/smart-school-five-dimensions|全球智慧学校倡议五维度框架]] — 学校层面的建设维度
 - [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]] — 督导听课时可用其量表
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — 那页"公共供给担共性成本"的**地方实践版**：温州由市里搭公共底座（数据中台/可视化平台/通识三阶课程），学校只做场景

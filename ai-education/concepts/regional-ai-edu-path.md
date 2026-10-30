@@ -137,3 +137,4 @@ objects:
 - [[concepts/ai-cannot-solve-motivation|AI无法解决学习动机问题]] — 工具再先进，教师"会用≠用好的问题与可汗学院的"5%问题"本质一致
 - [[concepts/teacher-ai-application-guidelines|教师生成式人工智能应用指引]] — 教师培训的具体参照框架
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] — 本文中教师停留在浅层应用的案例可补充到误区分析
+- [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — **纵向个案**：新华视多点是"多地横向图景+困难"，本页是单一地市的三级治理设计（市区校责任划分、四个阶段、五个转变）

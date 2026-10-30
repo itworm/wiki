@@ -60,3 +60,4 @@ objects:
 - [[concepts/regional-ai-edu-path|区域AI+教育推进的实践路径与困难]] — 五维度框架可作为区域推进中"学校评估"环节的落地工具
 - [[concepts/ai-education-current-state|AI教育当前阶段分析]] — 倡议的"变革成熟度评估"与当前阶段的"浅层辅助"判断呼应
 - [[concepts/shanghai-ai-literacy-framework|上海市中小学人工智能素养评价框架]] — 同为评估类框架，一个评学生素养，一个评学校转型
+- [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — ⚠️ 对照：该页用的"五维创建指标"是**温州本地 2.0 口径**，与本页的国际五维**不是同一套**；但温州 3.0 明确要从五维指标转向"基础性+发展性+创新性"三维培育，可作迭代参考
