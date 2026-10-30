@@ -2,7 +2,7 @@
 
 > 按类型分类的知识目录。
 > 入口参考：[[moc/hermes-knowledge|Hermes 知识管理检索地图]]
-> 最后更新：2026-09-29 | 总页面数：10
+> 最后更新：2026-10-30 | 总页面数：10
 
 ## MOC 检索地图
 
@@ -38,3 +38,4 @@
 | [[raw/articles/2026-07-08-karpathy-llm-wiki|Karpathy 开源新方案：Agent+Obsidian，让 LLM 帮你构建复利知识库]] | 今日头条 / AI架构之家 |
 | [[raw/articles/2026-05-31-yunbiji-teacher-pkm|云笔记赋能教师个人知识管理]] | 微信公众号 / AI4KIDs（**仅萃取 SECI 模型，未整体入库**） |
 | [[raw/articles/kb-engineering-practice|3个脚本、4个Skill、3层防线：AI知识库的工程化实践]] | （待补来源） |
+| [[raw/articles/2026-10-26-fragments-kb-construction|人机共生的知识库构建之路（碎片摘录集）]] | 刘老师（本人整理） |
