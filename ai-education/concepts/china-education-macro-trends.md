@@ -4,6 +4,7 @@ created: 2026-06-05
 updated: 2026-06-05
 domain: ai-education
 scope: research
+volatility: high
 topic: 教育趋势
 primary_entry: 高考人数下降意味着什么？普高和职教格局怎么变？
 secondary_entries:

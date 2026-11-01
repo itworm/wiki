@@ -3,7 +3,7 @@ title: AI生成古诗文意象图的三重审核与重构策略
 created: 2026-06-02
 updated: 2026-06-02
 domain: ai-education
-scope: policy
+scope: practice
 topic: 教师案例
 primary_entry: 教师案例/hu-ai/poetry-image-review
 secondary_entries:

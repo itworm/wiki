@@ -4,6 +4,7 @@ created: 2026-07-28
 updated: 2026-07-28
 domain: ai-education
 scope: research
+volatility: high
 topic: 教师AI素养
 primary_entry: 中国教师AI应用的真实图景是什么
 secondary_entries:

@@ -4,6 +4,7 @@ created: 2026-06-03
 updated: 2026-06-03
 domain: ai-education
 scope: research
+volatility: high
 topic: AI教育现状分析
 primary_entry: 教育AI化处于浅层辅助阶段，教师核心价值不可替代
 secondary_entries:

@@ -4,6 +4,7 @@ created: 2026-07-28
 updated: 2026-07-28
 domain: ai-education
 scope: research
+volatility: high
 topic: AI教育研究证据
 primary_entry: AI是否真的带来学习增益的国际权威证据
 secondary_entries:

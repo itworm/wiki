@@ -4,6 +4,7 @@ created: 2026-06-04
 updated: 2026-06-04
 domain: ai-education
 scope: research
+volatility: high
 topic: 教育趋势预测
 primary_entry: 2026年全球教育趋势有哪些？福布斯怎么看？
 secondary_entries:
