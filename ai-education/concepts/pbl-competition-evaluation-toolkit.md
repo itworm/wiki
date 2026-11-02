@@ -249,3 +249,4 @@ objects:
 - [[concepts/question-three-attributes-framework|教学设计的问题三属性框架]] — 可用于判断"真实驱动性问题"要素的得分
 - [[cases/national/edtech-course-process-assessment|教育技术课 AI 爆改]] — 过程型证据链的实践参照
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 本页"过程性证据链"（5分项）是那页"保留思考轨迹、防替代性完成"的**评价化落地**

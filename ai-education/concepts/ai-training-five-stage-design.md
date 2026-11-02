@@ -44,3 +44,4 @@ objects:
 - [[ai-era-teacher-two-fates|AI时代教师的两种命运]] — "K型分化中间层消失"与"中间地带消失"是同一判断
 - [[ai-two-mode-collaboration|两种AI协同模式]] — "提示词≠许愿池"与思维伙伴理念一致
 - [[teacher-ai-report-2026|中国教师AI应用报告解读]] — 培训可引用报告数据增强说服力
+- [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — **不同维度**：本页讲单场培训的**内部结构**；那页讲**模式代际演进与验收标准**（四代 + Plus 四要素）

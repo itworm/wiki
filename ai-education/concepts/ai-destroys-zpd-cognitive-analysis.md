@@ -65,3 +65,4 @@ AI正在从认知科学机制层面破坏教育发生的核心空间——最近
 - [[oecd-digital-education-2026|OECD数字教育展望]] — "完成任务≠学习"的认知机制解释
 - [[ai-restraint-blank-space-framework|克制与留白]] — "保留认知摩擦"与"无AI时刻"一致
 - [[question-three-attributes-framework|问题三属性]] — "认知缝隙"即保留必要难度的提问版
+- [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 本页"生产效率≠学习效率"在培训场景的推论：**培训现场的产出效率不等于学员的成长**

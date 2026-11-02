@@ -212,3 +212,4 @@ objects:
 - [[concepts/intelligent-education-forum-2026|第八届智能教育论坛]] — "只有机器发生了学习"；本页的"互动幻觉"是它在信息科技课的具体形态
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — **同问题的两个层面**：本页"数据黑洞"是课堂层（数据成教学装饰品），那页"**有数据≠有证据**"是区域层
+- [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — **同族判断**：本页"互动幻觉"（点击代替思考）与那页"拼装式产出"（生成代替建构），都是**动作繁荣掩盖认知怠惰**
