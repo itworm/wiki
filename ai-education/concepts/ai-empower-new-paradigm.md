@@ -96,3 +96,4 @@ objects:
 
 - [[ai-plus-hi-collaboration-model|AI+HI人机协同递进模型]] — 同为《中小学信息技术教育》学术论文，互补
 - [[ai-edu-product-strategy|AI教育产品路线对比]] — "关系增强 vs 效率替代"，与此文的"新范式 vs 旧范式"形成呼应
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 本页田爱丽"**可编码/不可编码**"的实证：那页两个案例正是把可编码的（界面/算分/汇总）交给 AI，不可编码的（设计关卡/谈心）留给人

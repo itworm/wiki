@@ -389,3 +389,4 @@ objects:
 - [[concepts/ai-native-teacher-formula|AI原生教师=内功×外功]] — 同作者；五活动链是"内功"在课堂设计上的展开
 - [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]] — 评课时可用本文的人机分工三条线与"护栏升上来"标准作补充判据
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 本页教师三身份中的"**体验设计师**"在常昊男身上具体化了：自己总结学生常犯的错→拆成关卡→课堂 PK

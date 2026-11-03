@@ -290,3 +290,4 @@ objects:
 - [[concepts/webpage-activity-pitfalls-in-it-class|别让信息科技课沦为"网页点读机"]] — 那页"非必要不用网页"的自检；本页的"没有产出的体验点就是拍照就走"是同一判断的设计侧表达
 - [[entities/liuxin-teaching-design|刘欣教学设计·作者索引]]
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — ⭐ **"AI 是副驾，你才握方向盘"的跨来源独立复现**：本页是刘欣（教学设计），那页是周斌（教育运营），两个领域同一个比喻；撞库显示全库"方向盘"仅两处

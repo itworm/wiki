@@ -43,3 +43,4 @@ objects:
 
 - [[teacher-role-teaching-vs-education|AI时代教师的角色重新定位]] — 互补
 - [[ai-education-misuse-analysis|AI教育常见误区分析]] — 互补：那篇说"什么不该做"，这篇说"什么值得追求"
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — **能力结构 vs 能力兑现**：本页讲"内功×外功"的结构，那页讲**这套能力在 AI 时代为什么突然可以直接变成产品**（"老师天生是提示词工程师"）

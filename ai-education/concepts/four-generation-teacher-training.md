@@ -212,3 +212,4 @@ objects:
 - [[concepts/ai-destroys-zpd-cognitive-analysis|AI破坏最近发展区]] — "**生产效率≠学习效率**"：培训现场的产出效率不等于学员的成长，同一区分的两种应用
 - [[entities/liuxin-teaching-design|刘欣教学设计·作者索引]]
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 那页"**小产出**"与本页"从省填表起步做到 V320"同构；本页的"**认领而非学习**"叙事可作为培训开场（把畏难改成认领）

@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-02 | 概念页 82 个 | 原始文章 90 篇
+> 最后更新：2026-11-03 | 概念页 83 个 | 原始文章 91 篇
 
 ---
 
@@ -100,6 +100,7 @@
 - [[concepts/five-station-lesson-design|五站旅程：终·图·路·走·检——AI时代教学设计力气该花在哪]] — 教学设计该把力气花在哪？五站旅程终图路走检怎么用？（scope: practice）
 - [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市·区·校三级治理与"五个转变"]] — 智慧校园从2.0升3.0要变什么？区县一级到底该干什么？（scope: practice）
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 教师培训模式怎么演进？产出导向为什么在AI时代会失效？（scope: practice）
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 为什么一线教师能把AI用得比程序员还溜？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -220,3 +221,4 @@
 - [[raw/articles/2026-10-29-wenzhou-smart-campus-3|浙江温州智慧校园3.0"串珠成链"再出发]] — 来自 中国教育信息化网（原发温州市教育局）
 - [[raw/articles/2026-10-26-fragments-ai-edu-reflection|AI教育反思（碎片摘录集）]] — 来自 刘老师（本人整理）
 - [[raw/articles/2026-10-30-liuxin-four-generation-training-plus|从"产出海量作品"到"教师主体觉醒"：第四代教师培训的接续思考与"Plus 版"探索]] — 来自 刘欣教学设计
+- [[raw/articles/2026-11-03-chaping-teachers-ai-density|学校老师的AI浓度，可能已经超乎你想象了]] — 来自 差评X.PIN（今日头条）

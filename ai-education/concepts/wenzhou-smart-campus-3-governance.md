@@ -231,3 +231,4 @@ objects:
 - [[concepts/ai-restraint-blank-space-framework|AI克制与留白框架]] — "赋能不僭越"的另一种表述
 - [[concepts/ai-edu-product-strategy|AI教育产品策略]] — 那页从产品视角看教育 AI，本页从**采购方/治理方**视角看
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 温州"**不拼投入、拼思路**"+自研低成本工具；那页是这一路线在**教师个体层面**的证明（一个种子教师带动全校）
