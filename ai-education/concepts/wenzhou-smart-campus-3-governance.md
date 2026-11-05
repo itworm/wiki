@@ -232,3 +232,4 @@ objects:
 - [[concepts/ai-edu-product-strategy|AI教育产品策略]] — 那页从产品视角看教育 AI，本页从**采购方/治理方**视角看
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 温州"**不拼投入、拼思路**"+自研低成本工具；那页是这一路线在**教师个体层面**的证明（一个种子教师带动全校）
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — **同一分界线的两种表述**：本页"机器管对不对、老师管好不好"是区域治理视角，那页"**助攻还是越位**"是课堂行为视角

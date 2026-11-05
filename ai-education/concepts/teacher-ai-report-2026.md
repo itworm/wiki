@@ -45,3 +45,4 @@ objects:
 - [[teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — 官方数据印证"教书与育人分离"
 - [[ai-education-misuse-analysis|AI教育常见误区分析]] — "通用热专业冷"是误区的数据侧写
 - [[ai-native-teacher-formula|AI原生教师公式]] — "内功外功"与"四维三阶"可互证
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — **数据 vs 行为**：本页是 8.6 万教师调研数据，那页是数据背后的行为表现；那页补了本页缺失的 **69.4%（清晰认识角色变化）**

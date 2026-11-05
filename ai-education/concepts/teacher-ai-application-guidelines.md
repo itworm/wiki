@@ -115,3 +115,4 @@ objects:
 - [[concepts/ai-lesson-prep-methodology|AI备课方法论]] — 指引中"教案设计"场景的具体方法论
 - [[concepts/teacher-ai-socratic-method|苏格拉底式AI交互法]] — 指引中"教学反思"场景的实操方法
 - [[concepts/create-thought-space|教师创造思想空间]] — 指引中"以学生学习为中心"理念的延伸
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — **政策条文 vs 落地困境**：本页是指引文件内容，那页是文件下发后教师的真实纠结（**助攻还是越位**）与**地方规范三种形态**（山东"责任主体"/武汉江岸"能用慎用禁用"分级）

@@ -102,3 +102,4 @@ OECD《数字教育展望2026》同时指出：GenAI需从"通用聊天"走向"�
 - [[concepts/ai-automation-century-myth|教育自动化的百年迷思]] — 历史纵深理解当前阶段
 - [[concepts/ai-cannot-solve-motivation|AI无法解决学习动机问题]] — AI教育瓶颈的另一面
 - [[raw/articles/2026-05-08-ai-education-analysis|原文全文]]
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — 本页判断"浅层辅助→教师主导"，那页给出**"浅层应用有余、深层融合不足"**的具体形态与**"会用→用得好"**门槛

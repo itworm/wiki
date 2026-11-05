@@ -220,3 +220,4 @@ objects:
 - [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链]] — 教师三身份中的"**体验设计师**"在本页常昊男身上具体化了
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] — 反面参照：外包闭环（无人在学）vs 本页（教师自己动手造）
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — 本页"备课功底决定产品好坏"与那页"**AI是遇强则强、遇弱则弱**"+"**你得手握种子才行**"同义（一个说产品，一个说人）

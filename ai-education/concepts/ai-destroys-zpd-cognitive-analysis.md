@@ -66,3 +66,4 @@ AI正在从认知科学机制层面破坏教育发生的核心空间——最近
 - [[ai-restraint-blank-space-framework|克制与留白]] — "保留认知摩擦"与"无AI时刻"一致
 - [[question-three-attributes-framework|问题三属性]] — "认知缝隙"即保留必要难度的提问版
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 本页"生产效率≠学习效率"在培训场景的推论：**培训现场的产出效率不等于学员的成长**
+- [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — 那页"**思维外包**"是认知卸载的教师口语版（"学生用AI查资料是辅助学习还是思维外包？"）
