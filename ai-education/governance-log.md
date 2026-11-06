@@ -2909,3 +2909,8 @@
 ## [2026-11-05] lint | 健康检查
 - 共扫描 211 个页面
 - ✅ 无问题
+
+## [2026-11-06] lint | 健康检查
+- 共扫描 212 个页面
+- ⚠️ 孤立页: 1 个
+  - [[raw/articles/2026-11-05-gxu-efficiency-to-ai-growth-to-human|2026-11-05-gxu-efficiency-to-ai-growth-to-human]] — 没有被任何页面引用
