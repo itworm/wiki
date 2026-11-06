@@ -153,3 +153,4 @@ objects:
 - [[concepts/ai-collaboration-competency-framework|学生人机协同能力培养框架]] — "辩证提问/审查四方面"可用于核验 AI 生成内容
 - [[concepts/ai-general-education-rollout|普及人工智能教育的关键点]] — 区域推进侧；科学学科是其"多元载体"之一
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — 本页"技术简化压缩试错空间"是**问题诊断**；那页"有意保留必要的费力环节"是**设计对策**

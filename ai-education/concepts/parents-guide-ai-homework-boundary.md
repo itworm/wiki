@@ -163,3 +163,4 @@ objects:
 - [[concepts/ai-collaboration-competency-framework|学生人机协同能力培养框架]] — "辩证提问/审查四方面"正是孟天广所说"评价能力不匹配"的解法
 - [[concepts/ai-general-education-rollout|普及人工智能教育的关键点]] — 区域推进侧；本页是其"家庭端"的配套
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — 本页记录的"**巨人版模型导致挫败感**"正是那页"必要的费力 ≠ 挫败"界限的现实注解

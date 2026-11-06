@@ -46,3 +46,4 @@ objects:
 - [[ai-education-misuse-analysis|AI教育常见误区分析]] — "答案优先"误区的实证支撑
 - [[ai-era-learning-theory|AI时代呼唤新的学习理论]] — 为"为什么需要新理论"提供了认知层面的背景
 - [[teacher-role-teaching-vs-education|AI时代教师角色的重新定位]] — "育人"中的"独立思考"能力正是本文担忧的核心
+- [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — ⭐ 本页专节讲「认知挣扎是学习的必要条件」（**体验侧**）；那页补了**设计侧的对应表述**「有意保留必要的费力环节」（赵双良），并划清"必要的费力 ≠ 挫败"的界限

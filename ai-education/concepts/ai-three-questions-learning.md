@@ -93,3 +93,4 @@ objects:
 - [[post-literacy-age-ai-impact|后识字时代——阅读衰退与AI认知影响]] — 认知挣扎是学习必要条件，"检测题追问"正是保留挣扎
 - [[high-level-shift-education|高位转移——AI教育问题升维框架]] — 提问能力是AI消除低层瓶颈后被抬升的高维能力
 - [[create-thought-space|教师创造思想空间]] — 让学生成为思考主体，三问法让学生用问题驱动而非被动接收
+- [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — 本页"检测题追问正是**保留挣扎**"是体验侧；那页给出三个词的分解（**有意/必要/环节**），把"保留"落成可定位的设计动作
