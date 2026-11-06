@@ -1,3 +1,19 @@
+---
+title: 202608 暑期 昆明-建水-弥勒八日（旧版，已归档）
+domain: travel
+scope: itinerary
+topic: 昆明建水弥勒八日行程（历史版本）
+primary_entry: （已归档，请查九日版）
+status: archive
+superseded_by: 202608-kunming-jianshui-mile-9days.md
+date: 2026-08-03
+updated: 2026-08-03
+objects:
+  - 昆明
+  - 建水
+  - 弥勒
+---
+
 # 202608 暑期 • 昆明-建水-弥勒八日（AI生成+手修）
 
 昆明—建水—弥勒八日（AI生成+手修）

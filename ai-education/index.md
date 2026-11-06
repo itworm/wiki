@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-05 | 概念页 84 个 | 原始文章 92 篇
+> 最后更新：2026-11-06 | 概念页 84 个 | 原始文章 93 篇
 
 ---
 
@@ -224,3 +224,4 @@
 - [[raw/articles/2026-10-30-liuxin-four-generation-training-plus|从"产出海量作品"到"教师主体觉醒"：第四代教师培训的接续思考与"Plus 版"探索]] — 来自 刘欣教学设计
 - [[raw/articles/2026-11-03-chaping-teachers-ai-density|学校老师的AI浓度，可能已经超乎你想象了]] — 来自 差评X.PIN（今日头条）
 - [[raw/articles/2026-11-03-jyb-teacher-ai-tech-mastery|AI时代，教师如何做好技术驾驭者]] — 来自 中国教育报（paper.jyb.cn）
+- [[raw/articles/2026-11-05-gxu-efficiency-to-ai-growth-to-human|广西大学探索人工智能赋能本科育人——把效率还给AI，把成长留给人]] — 来自 中国教育报（中国教育信息化网转载，赵双良）
