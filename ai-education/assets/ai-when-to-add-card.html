@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 该加在哪 · 一页判断卡</title>
+<style>
+  /* 中文渲染用本地子集字体；缺失时自动回退系统字体 */
+  @font-face{font-family:'NotoSC';src:url('fonts/noto-sans-sc-400.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+  @font-face{font-family:'NotoSC';src:url('fonts/noto-sans-sc-700.woff2') format('woff2');font-weight:700 900;font-style:normal;font-display:swap}
+</style>
+<style>
+  :root{
+    --ink:#1a202c; --sub:#4a5568; --line:#cbd5e0; --bg:#fafaf8;
+    --blue:#2b6cb0; --blue-bg:#ebf4ff;
+    --green:#2f855a; --green-bg:#f0fff4;
+    --red:#c53030; --red-bg:#fff5f5;
+    --orange:#c05621; --orange-bg:#fffaf0;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'NotoSC',-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    background:#e9ecef; color:var(--ink); line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{
+    width:210mm; min-height:297mm; margin:16px auto; padding:13mm 12mm;
+    background:var(--bg); box-shadow:0 4px 24px rgba(0,0,0,.18);
+  }
+
+  /* ── 页眉 ── */
+  header{border-bottom:3px solid var(--ink); padding-bottom:7px; margin-bottom:14px}
+  .eyebrow{font-size:9px; letter-spacing:.22em; color:var(--sub); text-transform:uppercase; font-weight:600}
+  h1{font-size:23px; font-weight:800; letter-spacing:-.02em; margin-top:3px; line-height:1.2}
+  .src{font-size:9px; color:var(--sub); margin-top:4px}
+
+  /* ── 核心反问 ── */
+  .ask{
+    background:var(--ink); color:#fff; border-radius:5px;
+    padding:13px 16px; margin-bottom:13px;
+  }
+  .ask .tag{font-size:10px; letter-spacing:.16em; opacity:.72; font-weight:600}
+  .ask .q{font-size:18px; font-weight:700; margin-top:5px; line-height:1.45}
+  .ask .q em{font-style:normal; color:#f6e05e}
+
+  /* ── 决策阶梯 ── */
+  .flow{display:flex; flex-direction:column; gap:0; margin-bottom:14px}
+  .step{display:flex; align-items:stretch; gap:8px}
+  .step .rail{
+    width:26px; flex:none; display:flex; align-items:center; justify-content:center;
+    font-size:11px; font-weight:800; color:#fff; background:var(--blue);
+    border-radius:4px 0 0 4px;
+  }
+  .step .body{
+    flex:1; background:#fff; border:1px solid var(--line); border-left:none;
+    border-radius:0 4px 4px 0; padding:8px 11px;
+    display:grid; grid-template-columns:1fr auto; gap:10px; align-items:center;
+  }
+  .step .cond{font-size:11.5px}
+  .step .cond b{font-size:12.5px}
+  .step .verdict{
+    font-size:11px; font-weight:800; padding:5px 11px; border-radius:4px;
+    white-space:nowrap; letter-spacing:.02em;
+  }
+  .v-no{color:var(--red); background:var(--red-bg); border:1.5px solid var(--red)}
+  .v-yes{color:var(--green); background:var(--green-bg); border:1.5px solid var(--green)}
+  .arrow{text-align:center; font-size:10px; color:var(--sub); line-height:1; padding:2px 0 2px 40px}
+
+  /* ── 三条红线 ── */
+  .section-title{
+    font-size:12px; font-weight:800; letter-spacing:.04em;
+    display:flex; align-items:center; gap:7px; margin-bottom:8px;
+  }
+  .section-title::before{
+    content:''; width:4px; height:14px; background:var(--red);
+    border-radius:1px; flex:none;
+  }
+  .redlines{display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:14px}
+  .rl{background:var(--red-bg); border:1px solid #feb2b2; border-radius:5px; padding:9px 10px}
+  .rl .n{font-size:9px; font-weight:800; color:var(--red); letter-spacing:.1em}
+  .rl .t{font-size:11.5px; font-weight:700; margin:3px 0 4px; line-height:1.35}
+  .rl .d{font-size:10px; color:var(--sub); line-height:1.45}
+
+  /* ── 八环节表 ── */
+  .grid-title{
+    font-size:12px; font-weight:800; letter-spacing:.04em;
+    margin-bottom:7px;
+    display:flex; justify-content:space-between; align-items:center; gap:7px;
+  }
+  .grid-title::before{
+    content:''; width:4px; height:14px; background:var(--ink);
+    border-radius:1px; flex:none;
+  }
+  .grid-title > span:first-of-type{margin-right:auto}
+  .grid-title .count{font-size:10px; font-weight:600; color:var(--sub)}
+  table{width:100%; border-collapse:collapse; font-size:10.5px; margin-bottom:13px}
+  th{background:var(--ink); color:#fff; font-size:9.5px; font-weight:700;
+     letter-spacing:.06em; padding:5px 7px; text-align:left}
+  td{padding:5px 7px; border-bottom:1px solid #e2e8f0; vertical-align:top}
+  tbody tr:nth-child(even) td{background:#fff}
+  tbody tr:nth-child(odd) td{background:#f7fafc}
+  .badge{display:inline-block; font-size:9px; font-weight:800;
+         padding:2px 7px; border-radius:3px; white-space:nowrap}
+  .b-add{color:var(--green); background:var(--green-bg); border:1px solid #9ae6b4}
+  .b-skip{color:var(--red); background:var(--red-bg); border:1px solid #feb2b2}
+  td.reason{color:var(--sub); font-size:10px}
+
+  /* ── 展示需要 ── */
+  .exhibit{
+    background:var(--orange-bg); border:1.5px dashed var(--orange);
+    border-radius:5px; padding:10px 12px; margin-bottom:12px;
+  }
+  .exhibit .h{font-size:11px; font-weight:800; color:var(--orange); letter-spacing:.04em; margin-bottom:5px}
+  .exhibit p{font-size:10.5px; line-height:1.55}
+  .exhibit .two{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:6px}
+  .exhibit .col{font-size:10px; line-height:1.5}
+  .exhibit .col b{display:block; font-size:10.5px; margin-bottom:2px}
+  .exhibit .col.obj{color:var(--orange)}
+
+  /* ── 页脚 ── */
+  footer{border-top:1px solid var(--line); padding-top:7px; display:flex; justify-content:space-between; align-items:flex-end}
+  footer .k{font-size:10px; color:var(--sub); line-height:1.6}
+  footer .k b{color:var(--ink)}
+  footer .page-no{font-size:9px; color:var(--sub); letter-spacing:.1em}
+
+  /* ── 打印 ── */
+  @media print{
+    @page{size:A4; margin:0}
+    body{background:#fff}
+    .page{margin:0; box-shadow:none; width:auto; min-height:auto; padding:11mm 10mm}
+  }
+  @media (max-width:780px){
+    .page{width:100%; min-height:auto; padding:18px 14px; margin:0}
+    h1{font-size:19px}
+    .ask .q{font-size:15px}
+    .redlines{grid-template-columns:1fr}
+    .step .body{grid-template-columns:1fr}
+    .step .verdict{justify-self:start}
+    .exhibit .two{grid-template-columns:1fr}
+    table{font-size:10px}
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="eyebrow">AI 赋能 · 判断卡</div>
+    <h1>这一步，该不该加 AI？</h1>
+    <div class="src">依据：许友森《AI赋能怎么加？一节省级获奖课例的复盘》（上中下三篇）· 福建省赛一等奖 · 漳州古城课例</div>
+  </header>
+
+  <!-- 核心反问 -->
+  <div class="ask">
+    <div class="tag">先问一句 · 全部判断都从这里开始</div>
+    <div class="q">拿掉 AI，学生的思维<em>会变差吗</em>？<br><span style="font-size:14px;opacity:.85">不会变差 —— 那我加它干什么？</span></div>
+  </div>
+
+  <!-- 三层判断 -->
+  <div class="flow">
+    <div class="step">
+      <div class="rail">1</div>
+      <div class="body">
+        <div class="cond"><b>学生此刻的能力，够不到这件事</b><br>但教学又确实需要他做到</div>
+        <div class="verdict v-yes">＋ 加 · 补认知台阶</div>
+      </div>
+    </div>
+    <div class="arrow">↓ 够得到 → 继续往下问</div>
+
+    <div class="step">
+      <div class="rail">2</div>
+      <div class="body">
+        <div class="cond"><b>学生能做到，但效率太低</b><br>而且这件事<u>不是</u>这节课的教学核心</div>
+        <div class="verdict v-yes">＋ 加 · 省无效时间</div>
+      </div>
+    </div>
+    <div class="arrow">↓ 是核心 → 到这一步就别加了</div>
+
+    <div class="step">
+      <div class="rail" style="background:var(--red)">✕</div>
+      <div class="body" style="background:var(--red-bg);border-color:#feb2b2">
+        <div class="cond"><b>学生能做的</b>，并且<u>这件事本身就是教学要练的</u></div>
+        <div class="verdict v-no">－ 坚决不加</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 三条红线 -->
+  <div class="section-title">三条红线 · 加了就是扣分</div>
+  <div class="redlines">
+    <div class="rl">
+      <div class="n">红线 01</div>
+      <div class="t">外包「扳回来」的过程</div>
+      <div class="d">学生必须自己把直觉扳过来。<b>AI 给个漂亮答案，他抄下得高分，但脑子里那个弯永远没转过来。</b></div>
+    </div>
+    <div class="rl">
+      <div class="n">红线 02</div>
+      <div class="t">问的是认同，不是知识</div>
+      <div class="d">「这事跟我有关」只能靠同龄人的真实行动触发。<b>AI 生成一段「青少年应该怎样」，他只会点头，不会起身。</b></div>
+    </div>
+    <div class="rl">
+      <div class="n">红线 03</div>
+      <div class="t">这是全课探究的产出</div>
+      <div class="d">AI 一分钟能写得更工整、更像样。<b>但它写的是一份提案，不是这个孩子的判断。</b></div>
+    </div>
+  </div>
+
+  <!-- 八环节 -->
+  <div class="grid-title">
+    <span>课例实测 · 八环节</span>
+    <span class="count">加 3 处，不加 5 处</span>
+  </div>
+  <table>
+    <thead>
+      <tr><th style="width:31%">环节</th><th style="width:13%">判断</th><th>依据</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>课前 · 查古城整体脉络</td><td><span class="badge b-add">＋ 加</span></td><td class="reason">够不到（梳理政策+报道＝调研员半个月的活），但教学需要整体认知</td></tr>
+      <tr><td>课前 · 实地拍照＋写说明</td><td><span class="badge b-skip">－ 不加</span></td><td class="reason"><b>这是这节课的地基，必须他亲眼看见</b>——照片自己拍，说明自己写</td></tr>
+      <tr><td>课中 · 查具体法条</td><td><span class="badge b-add">＋ 加</span></td><td class="reason">翻得到，但太慢，且「怎么在法规库检索」不是本课要练的</td></tr>
+      <tr><td>课中 · 核验 AI 答案</td><td><span class="badge b-skip">－ 不加</span></td><td class="reason">练的是辩证思维：查官网原文、核对条文、记录差异、形成结论</td></tr>
+      <tr><td>课中 · 厝边阿姨辩驳</td><td><span class="badge b-skip">－ 不加</span></td><td class="reason">练的是逼自己全面看问题，<b>一外包就废</b></td></tr>
+      <tr><td>课中 · 青少年如何做贡献</td><td><span class="badge b-skip">－ 不加</span></td><td class="reason">问的不是知识，是<b>认同与自省</b></td></tr>
+      <tr><td>课后 · 画概念图</td><td><span class="badge b-add">＋ 加</span></td><td class="reason">不会画，且绘画技能不是这节课要练的</td></tr>
+      <tr><td>课后 · 微提案案由与建议</td><td><span class="badge b-skip">－ 不加</span></td><td class="reason"><b>全课探究的产出，AI 一写，整节课就白上</b></td></tr>
+    </tbody>
+  </table>
+
+  <!-- 展示需要 -->
+  <div class="exhibit">
+    <div class="h">⚠ 还有一种需要，别混进来 · 赛课/交材料专用</div>
+    <p>如果这份东西是要<b>交课件、参赛、做课例分享</b>——那属于「展示需要」，可以补数字人、视频、自述，把「只有人在才发生的动作」演出来。<b>这不是作假，是把你的课翻译成别人能看懂的形式。</b></p>
+    <div class="two">
+      <div class="col"><b>教学需要</b>对象是<b style="display:inline">学生</b>。老师能说的老师说，能做的老师做。</div>
+      <div class="col obj"><b>展示需要</b>对象是<b style="display:inline">评审和听课的人</b>。可以补，但不要带回常态课。</div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="k">
+      <b>产出真伪怎么查：</b>这个案由，是不是他自己从那张照片里看出来的？这条建议，是不是他自己从那句反驳词里长出来的？<br>
+      <b>一句话：</b>概念图可以让 AI 画，案由和建议，一个字都不能代。
+    </div>
+    <div class="page-no">1 / 1</div>
+  </footer>
+
+</div>
+</body>
+</html>
