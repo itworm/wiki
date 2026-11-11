@@ -250,3 +250,4 @@ objects:
 - [[cases/national/edtech-course-process-assessment|教育技术课 AI 爆改]] — 过程型证据链的实践参照
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 本页"过程性证据链"（5分项）是那页"保留思考轨迹、防替代性完成"的**评价化落地**
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — ⭐ 那页给赛课评分维度；那页补上 **"展示需要"这一维**——**赛课课件与常态课是两套逻辑**，数字人可以进参赛课件但不要带回常态课

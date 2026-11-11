@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-06 | 概念页 84 个 | 原始文章 93 篇
+> 最后更新：2026-11-11 | 概念页 85 个 | 原始文章 94 篇
 
 ---
 
@@ -102,6 +102,7 @@
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — 教师培训模式怎么演进？产出导向为什么在AI时代会失效？（scope: practice）
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 为什么一线教师能把AI用得比程序员还溜？（scope: practice）
 - [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位（中国教育报 11-03 调查）]] — 教师用AI备课算不算越位？"禁止教师用AI备课"是真的吗？（scope: practice）
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 一节课哪一步该加AI、哪一步不该加？怎么判断？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -225,3 +226,4 @@
 - [[raw/articles/2026-11-03-chaping-teachers-ai-density|学校老师的AI浓度，可能已经超乎你想象了]] — 来自 差评X.PIN（今日头条）
 - [[raw/articles/2026-11-03-jyb-teacher-ai-tech-mastery|AI时代，教师如何做好技术驾驭者]] — 来自 中国教育报（paper.jyb.cn）
 - [[raw/articles/2026-11-05-gxu-efficiency-to-ai-growth-to-human|广西大学探索人工智能赋能本科育人——把效率还给AI，把成长留给人]] — 来自 中国教育报（中国教育信息化网转载，赵双良）
+- [[raw/articles/2026-10-18-xu-yousen-ai-when-to-add|AI赋能怎么加？一节省级获奖课例的复盘（上中下三篇）]] — 来自 许友森思政工作室（许老师的备课手记）

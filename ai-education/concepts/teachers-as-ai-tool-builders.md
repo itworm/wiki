@@ -221,3 +221,4 @@ objects:
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] — 反面参照：外包闭环（无人在学）vs 本页（教师自己动手造）
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — 本页"备课功底决定产品好坏"与那页"**AI是遇强则强、遇弱则弱**"+"**你得手握种子才行**"同义（一个说产品，一个说人）
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 本页"备课功底决定产品好坏"在**单节课设计**上的完整示范：三处加、五处不加，每处给出理由

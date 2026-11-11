@@ -154,3 +154,4 @@ objects:
 - [[oecd-digital-education-2026|OECD数字教育展望]] — "完成任务≠学习发生"与四瞬间互证
 - [[question-three-attributes-framework|问题三属性]] — "认知缝隙"与"认知冲突"一脉相承
 - [[ai-education-misuse-analysis|AI教育常见误区分析]] — "无缝课堂"误区正是本文批判的"太顺太满"
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — ⭐ **原则 vs 判据**：本页讲"为什么要克制"（四瞬间/三原则/保留必要的费力环节）；那页给**"怎么判断该不该加"**（两条原则+八环节表+"拿掉AI学生思维会变差吗"）

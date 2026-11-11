@@ -213,3 +213,4 @@ objects:
 - [[entities/liuxin-teaching-design|刘欣教学设计·作者索引]]
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 那页"**小产出**"与本页"从省填表起步做到 V320"同构；本页的"**认领而非学习**"叙事可作为培训开场（把畏难改成认领）
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 那页的"**防AI幻觉任务**"（查完AI必须去官网核原文、核对条文/记录差异/形成结论）与"判断产出真伪"可用于培训的**防 AI 代劳设计**

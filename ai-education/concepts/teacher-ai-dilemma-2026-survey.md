@@ -319,3 +319,4 @@ objects:
 - [[concepts/ai-empower-new-paradigm|AI赋能新范式]] — 田爱丽"可编码/不可编码"与本页窦文韬"划清辅助边界"（教学设计/学情判断/价值引领绝不能外包）高度一致
 - [[concepts/ai-destroys-zpd-cognitive-analysis|AI破坏最近发展区]] — 本页"**思维外包**"是认知卸载的教师口语版
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 本页是**宏观二分**（启发思路 vs 代写代办/助攻 vs 越位）；那页是**可执行的三条件判据**（够不到 / 太慢且非核心 / 能做且是核心→坚决不加）
