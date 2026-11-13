@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-11 | 概念页 85 个 | 原始文章 94 篇
+> 最后更新：2026-11-13 | 概念页 86 个 | 原始文章 94 篇
 
 ---
 
@@ -103,6 +103,7 @@
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 为什么一线教师能把AI用得比程序员还溜？（scope: practice）
 - [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位（中国教育报 11-03 调查）]] — 教师用AI备课算不算越位？"禁止教师用AI备课"是真的吗？（scope: practice）
 - [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 一节课哪一步该加AI、哪一步不该加？怎么判断？（scope: practice）
+- [[concepts/micro-course-design-for-teacher-training|教师培训微课设计——把"技术讲解"改成"问题驱动"]] — 给老师做AI教学应用微课，怎么设计才有人看、看得进去？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
