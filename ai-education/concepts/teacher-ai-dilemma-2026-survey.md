@@ -320,3 +320,4 @@ objects:
 - [[concepts/ai-destroys-zpd-cognitive-analysis|AI破坏最近发展区]] — 本页"**思维外包**"是认知卸载的教师口语版
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 本页是**宏观二分**（启发思路 vs 代写代办/助攻 vs 越位）；那页是**可执行的三条件判据**（够不到 / 太慢且非核心 / 能做且是核心→坚决不加）
+- [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — ⭐ 那页"**说清为什么采纳/拒绝/重构AI建议**"是本页四组纠结（代写代办 vs 启发思路）的**具体解法**：不预判是否越位，让学生交代理由，理由本身即过程证据

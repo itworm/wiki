@@ -224,3 +224,4 @@ objects:
 - [[concepts/dick-carey-evidence-chain|迪克凯瑞证据链]] — 那页④"行为目标"要求"行为+条件+标准"；本页"看后能否复述核心那一步"就是微课的**可观察证据**
 - [[practice-log/micro-course/index|教研手记 · 微课设计]] — 本页的原始讨论记录（含"后来"待补栏）
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — 本页"被动接受的舒适状态"与那页三面镜子第③条是同一问题的不同场景（微课 / 课堂）

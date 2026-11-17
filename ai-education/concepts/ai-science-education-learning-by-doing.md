@@ -154,3 +154,4 @@ objects:
 - [[concepts/ai-general-education-rollout|普及人工智能教育的关键点]] — 区域推进侧；科学学科是其"多元载体"之一
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/ai-restraint-blank-space-framework|AI融合课的克制与留白]] — 本页"技术简化压缩试错空间"是**问题诊断**；那页"有意保留必要的费力环节"是**设计对策**
+- [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — 那页 SSI 议题（AED 配置牵涉生命科学/公共安全/伦理）是"跨学科真实问题"的具体课堂形态
