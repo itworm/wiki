@@ -25,3 +25,4 @@ AI不是削弱思考，而是让思考进入更高维度。AI承担低阶认知�
 
 - [[high-level-shift-education|高位转移]] — 视角互补
 - [[post-literacy-age-ai-impact|后识字时代]] — 对照阅读
+- [[concepts/evidence-based-teaching-three-stage|三阶循证教学——从「凭经验」到「看证据」的完整操作链]] — 那页"**差异化作业落脚于自身最近发展区**"是 ZPD 在作业环节的落地版：不只分题量（必做/选做），而是按认知缺陷类型分（缺理解 vs 缺迁移）

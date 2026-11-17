@@ -220,3 +220,4 @@ objects:
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版]] — 本页"课堂成果送出去接真实回应"＝那页"真场景"的极致版（出口也真实）
 - [[concepts/ai-education-current-state|AI教育当前阶段分析]] — 本页"已越过要不要用AI、进入怎样用才有分寸的深水区"是那页阶段判断的**区域样本**
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/evidence-based-teaching-three-stage|三阶循证教学——从「凭经验」到「看证据」的完整操作链]] — ⭐ **课堂层的另一条轴**：本页讲**思维站位**（AI 站身后、学生站中央），那页讲**数据闭环**（课前定准/课中诊断/课后对症）。站位决定用不用，闭环决定用得准不准

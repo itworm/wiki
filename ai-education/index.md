@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-17 | 概念页 87 个 | 原始文章 95 篇
+> 最后更新：2026-11-17 | 概念页 88 个 | 原始文章 96 篇
 
 ---
 
@@ -105,6 +105,7 @@
 - [[concepts/ai-integration-when-to-add|AI赋能怎么加——两条判断原则与「教学需要 vs 展示需要」]] — 一节课哪一步该加AI、哪一步不该加？怎么判断？（scope: practice）
 - [[concepts/micro-course-design-for-teacher-training|教师培训微课设计——把"技术讲解"改成"问题驱动"]] — 给老师做AI教学应用微课，怎么设计才有人看、看得进去？（scope: practice）
 - [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — AI进课堂之后究竟谁来思考？广州越秀怎么做的？（scope: practice）
+- [[concepts/evidence-based-teaching-three-stage|三阶循证教学——从「凭经验」到「看证据」的完整操作链]] — 学情数据怎么才能真正改教案？为什么老师凭经验判断的难点常常是错的？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -230,3 +231,4 @@
 - [[raw/articles/2026-11-05-gxu-efficiency-to-ai-growth-to-human|广西大学探索人工智能赋能本科育人——把效率还给AI，把成长留给人]] — 来自 中国教育报（中国教育信息化网转载，赵双良）
 - [[raw/articles/2026-10-18-xu-yousen-ai-when-to-add|AI赋能怎么加？一节省级获奖课例的复盘（上中下三篇）]] — 来自 许友森思政工作室（许老师的备课手记）
 - [[raw/articles/2026-11-11-ycwb-yuexiu-ai-classroom|让AI站在思维身后，人站在课堂中央！广州越秀数智教育改革走在全国前列]] — 来自 羊城晚报·羊城派
+- [[raw/articles/2026-11-09-jyb-precise-teaching-three-stage|数学课堂如何精准教学]]
