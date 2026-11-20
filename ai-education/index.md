@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-18 | 概念页 88 个 | 原始文章 97 篇
+> 最后更新：2026-11-20 | 概念页 88 个 | 原始文章 98 篇
 
 ---
 
@@ -233,3 +233,4 @@
 - [[raw/articles/2026-11-11-ycwb-yuexiu-ai-classroom|让AI站在思维身后，人站在课堂中央！广州越秀数智教育改革走在全国前列]] — 来自 羊城晚报·羊城派
 - [[raw/articles/2026-11-09-jyb-precise-teaching-three-stage|数学课堂如何精准教学]]
 - [[raw/articles/2026-11-18-liuxin-four-participation-training|完成比完美重要｜教师AI培训的四参与设计]]
+- [[raw/articles/2026-10-28-keyboard-agent-minigame|一个手搓的键盘教学小游戏《键盘特工》要的拿走]]

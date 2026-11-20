@@ -388,6 +388,7 @@ objects:
 - [[concepts/ai-training-five-stage-design|AI赋能教育培训设计]] — 同作者的五段式培训结构，可对照看其活动设计母题
 - [[concepts/ai-native-teacher-formula|AI原生教师=内功×外功]] — 同作者；五活动链是"内功"在课堂设计上的展开
 - [[concepts/pbl-competition-evaluation-toolkit|小学项目化融合课赛课评价工具包]] — 评课时可用本文的人机分工三条线与"护栏升上来"标准作补充判据
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者]] — ⭐ **同源的另一端**：本页"别用名词开场"（先做后讲），那页 §8.1"**认知地图要先摊开再谈指法**"。共同判断：**学生缺的不是"练"的机会，是"见过"的机会**
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者——"老师天生就是提示词工程师"]] — 本页教师三身份中的"**体验设计师**"在常昊男身上具体化了：自己总结学生常犯的错→拆成关卡→课堂 PK
 - [[concepts/teacher-ai-dilemma-2026-survey|教师AI应用的现实困境——助攻还是越位]] — "用前置"的同源思路；那页的 **AI 均质化**为本页提供了新的病理命名（"你的思考越少、个人色彩越弱，输出内容就越相似"）

@@ -210,6 +210,7 @@ objects:
 - [[concepts/ai-lesson-five-activity-chain|"先做后讲"五活动链]] — 该页"AI 护栏员"身份与本页"知道什么时候不用工具"同源
 - [[concepts/ai-cross-disciplinary-teaching|AI赋能跨学科教学]] — "AI 四支架"划定了 AI 该进入的环节；本页划定了工具该不该进入课堂
 - [[concepts/intelligent-education-forum-2026|第八届智能教育论坛]] — "只有机器发生了学习"；本页的"互动幻觉"是它在信息科技课的具体形态
+- [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者]] — ⭐ **正例**：那页 §八《键盘特工》主界面写明"**所有任务需在真实键盘上完成**"，学生点不过去，必须真按 —— 这是本页"互动幻觉"的**规避样本**
 - [[moc/ai-education|AI 教育检索地图]]
 - [[concepts/wenzhou-smart-campus-3-governance|温州智慧校园3.0——市区校三级治理与"五个转变"]] — **同问题的两个层面**：本页"数据黑洞"是课堂层（数据成教学装饰品），那页"**有数据≠有证据**"是区域层
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版——从"交出作品"到"主体觉醒"]] — **同族判断**：本页"互动幻觉"（点击代替思考）与那页"拼装式产出"（生成代替建构），都是**动作繁荣掩盖认知怠惰**
