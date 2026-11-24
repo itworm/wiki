@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-24 | 概念页 89 个 | 原始文章 99 篇
+> 最后更新：2026-11-24 | 概念页 90 个 | 原始文章 100 篇
 
 ---
 
@@ -107,6 +107,7 @@
 - [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — AI进课堂之后究竟谁来思考？广州越秀怎么做的？（scope: practice）
 - [[concepts/evidence-based-teaching-three-stage|三阶循证教学——从「凭经验」到「看证据」的完整操作链]] — 学情数据怎么才能真正改教案？为什么老师凭经验判断的难点常常是错的？（scope: practice）
 - [[concepts/ai-classroom-management-seeing-students|AI是班主任的第二双眼——从「管人」到「看见人」]] — AI对班主任最大的价值是什么？为什么说不是替我管人而是帮我看见人？（scope: practice）
+- [[concepts/differentiated-homework-design|分层不分人——定锚·搭梯·开菜单·留活口]] — 分层作业为什么会伤人？怎么做到分任务不分人？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -236,3 +237,4 @@
 - [[raw/articles/2026-11-18-liuxin-four-participation-training|完成比完美重要｜教师AI培训的四参与设计]]
 - [[raw/articles/2026-10-28-keyboard-agent-minigame|一个手搓的键盘教学小游戏《键盘特工》要的拿走]]
 - [[raw/articles/2026-11-24-jyb-ai-classroom-management|【编者按】]]
+- [[raw/articles/2026-07-28-differentiated-homework-not-people|分层作业别再「一刀切」了：我跨了几门课，才摸清这套通用打法]]

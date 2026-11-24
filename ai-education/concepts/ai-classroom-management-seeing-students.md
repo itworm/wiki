@@ -368,3 +368,4 @@ AI 给了 5 条，第 3 条是：
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者]] — 本页的五个作者都是"知道它好在哪"的一线教师；"发言卡"就是**用最低成本造了一个机制**
 - [[concepts/ai-restraint-blank-space-framework|AI 的克制与留白]] — 本页三条边界（AI 只是提醒 / 只闲聊不谈成绩 / 必须人工确认）是"克制"在**师生关系**里的具体形态
 - [[concepts/ai-education-current-state|AI+教育的当前状态]] — 本页是"从浅层工具使用走向深层关系改善"的一个样本
+- [[concepts/differentiated-homework-design|分层不分人——定锚·搭梯·开菜单·留活口]] — **同构的诊断动作**：那页"沉默名单"承认**注意力**有偏（只看到台柱子和问题生），那页"有没有把人按成绩切堆"承认**评价**有偏。**都是先承认偏差，再改行为**
