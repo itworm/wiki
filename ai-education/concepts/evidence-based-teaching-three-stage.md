@@ -229,3 +229,4 @@ objects:
 - [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂]] — 两篇都是课堂层实景：越秀篇讲**思维站位**（AI 站身后、学生站中央），本页讲**数据闭环**（课前定准、课中诊断、课后对症）。**站位决定用不用，闭环决定用得准不准**
 - [[concepts/ai-education-current-state|AI+教育的当前状态]] — 本页是"从'会用'到'用得好'"的一个具体样本
 - [[concepts/four-generation-teacher-training|四代教师培训]] — 本页的五步教研循环可用于**第四代产出导向培训**的实作环节
+- [[concepts/ai-classroom-management-seeing-students|AI是班主任的第二双眼——从「管人」到「看见人」]] — ⭐ **同一个动作的两次出现**：本页"60% 学生卡在没人预料的地方"推翻备课判断，那页"**班里近一半学生一次都没入镜**"推翻注意力分配。**都是数据先打脸、再改行为**，一个在课堂、一个在班主任

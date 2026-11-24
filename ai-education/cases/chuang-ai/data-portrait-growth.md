@@ -148,3 +148,4 @@ objects:
 - [[concepts/ai-personalized-learning-profile|AI个性化学习适配——五维自测法]] — 让学生认识自身特点的另一种路径
 - [[concepts/oecd-digital-education-2026|OECD数字教育展望2026]] — "完成任务≠学习发生"，与本案例"数据可见≠成长发生"呼应
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/ai-classroom-management-seeing-students|AI是班主任的第二双眼——从「管人」到「看见人」]] — 那页"班级管理从模糊评价走向精准支持"一句，在那页落成了**六个具体场景**（沉默名单/排座/预警/评语/班会/考勤）

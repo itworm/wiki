@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-20 | 概念页 88 个 | 原始文章 98 篇
+> 最后更新：2026-11-24 | 概念页 89 个 | 原始文章 99 篇
 
 ---
 
@@ -106,6 +106,7 @@
 - [[concepts/micro-course-design-for-teacher-training|教师培训微课设计——把"技术讲解"改成"问题驱动"]] — 给老师做AI教学应用微课，怎么设计才有人看、看得进去？（scope: practice）
 - [[concepts/yuexiu-ai-classroom-reform|让AI站在思维身后——广州越秀数智课堂的两个切片与专家处方]] — AI进课堂之后究竟谁来思考？广州越秀怎么做的？（scope: practice）
 - [[concepts/evidence-based-teaching-three-stage|三阶循证教学——从「凭经验」到「看证据」的完整操作链]] — 学情数据怎么才能真正改教案？为什么老师凭经验判断的难点常常是错的？（scope: practice）
+- [[concepts/ai-classroom-management-seeing-students|AI是班主任的第二双眼——从「管人」到「看见人」]] — AI对班主任最大的价值是什么？为什么说不是替我管人而是帮我看见人？（scope: practice）
 
 ### product — 产品、公司、平台（2 个）
 
@@ -234,3 +235,4 @@
 - [[raw/articles/2026-11-09-jyb-precise-teaching-three-stage|数学课堂如何精准教学]]
 - [[raw/articles/2026-11-18-liuxin-four-participation-training|完成比完美重要｜教师AI培训的四参与设计]]
 - [[raw/articles/2026-10-28-keyboard-agent-minigame|一个手搓的键盘教学小游戏《键盘特工》要的拿走]]
+- [[raw/articles/2026-11-24-jyb-ai-classroom-management|【编者按】]]

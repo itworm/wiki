@@ -27,3 +27,7 @@ sources:
 
 ## 关键词
 RAG,校园智能体,豆包
+
+## 关联
+
+- [[concepts/ai-classroom-management-seeing-students|AI是班主任的第二双眼——从「管人」到「看见人」]] — 本页是**家访**场景的智能体；那页 §五 给的是家校沟通**开口前的三个自问**（描述 vs 评价 / 寻求配合 vs 推卸 / 指出问题 vs 给出做法），更轻、零成本
