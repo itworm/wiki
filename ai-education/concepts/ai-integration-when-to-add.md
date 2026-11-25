@@ -308,3 +308,4 @@ objects:
 - [[concepts/four-generation-teacher-training|四代教师培训与 Plus 版]] — 本页"防 AI 幻觉 + 判断产出真伪"可用于培训的**防 AI 代劳设计**
 - [[concepts/teachers-as-ai-tool-builders|教师是AI时代的天然生产者]] — 那页"备课功底决定产品好坏"；本页是它在**单节课设计**上的完整示范
 - [[moc/ai-education|AI 教育检索地图]]
+- [[concepts/ai-classroom-reconstruction-path|AI重构课堂的实践路径——四次备课·一个公式·三级进阶]] — ⭐ **从"要不要加"升级到"加到第几层"**：本页两条判断原则（教学需要 vs 展示需要）在那页发展成体系 —— **技术层次图**（低/中/高阶）+ **难度阶梯 Level 1–6**（感知→体验→理解→应用→进阶→创新）
