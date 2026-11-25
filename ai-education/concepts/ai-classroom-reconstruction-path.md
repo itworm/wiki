@@ -363,3 +363,4 @@ objects:
 - [[concepts/four-generation-teacher-training|四代教师培训]] — 本页"四次备课"是**培训开场的最佳案例素材**：四轮失败比正面示范更能消解"AI 很好用"的幻觉
 - [[concepts/ai-general-education-rollout|AI通识教育怎么落地]] — 那页讲"课怎么进课表"，本页讲"**进去了怎么上**"；本页的三级进阶 + 分学段课程形态是那页的内容填充
 - [[concepts/teachers-as-ai-tool-builders|教师是 AI 时代的天然生产者]] — 本页"学习设计师"是教师角色的**目标态**；那页的常昊男、周斌是**达到这个状态的样本**
+- [[cases/yong-ai/four-tents-history-game|《四帐记》——一节历史课做成能「走进去」的游戏]] — 本页"三级进阶"第二阶说"**AI 给出的是可能性，学生要做的是判断**"；那页就是它的实物：**十六条干扰项**，AI 摊开材料，判断在人

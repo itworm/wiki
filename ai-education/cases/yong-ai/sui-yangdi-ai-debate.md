@@ -89,3 +89,4 @@ AI介入的时机不是教师预设的PPT动画时序，而是**由课堂中真�
 - [[concepts/ai-two-mode-collaboration|两种AI协同模式：内容生产者 vs 思维伙伴]] — 本案例属于"思维伙伴"模式在历史学科中的落地
 - [[concepts/create-thought-space|教师创造思想空间]] — 辩论本身是创造思想空间的经典形式，AI不挤压而是填充这个空间
 - [[concepts/ai-education-misuse-analysis|AI教育常见误区分析]] — 本案例避开了"答案优先""AI权威化"等常见误区
+- [[cases/yong-ai/four-tents-history-game|《四帐记》——一节历史课做成能「走进去」的游戏]] — ⭐ **同科同能力，两种用法**：本页靠**辩论**辨析史料倾向（横向，不同立场），那页靠**排除干扰项**辨析相关强度（纵向，真但不支撑）。**两个都是史料批判核心，互补不重复**

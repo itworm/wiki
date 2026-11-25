@@ -3,7 +3,7 @@
 > 按类型分类的知识目录。每条一行：wikilink + 一句话摘要。
 > 入口参考：[[moc/ai-education|ai-education 检索地图]]
 > 治理规范：`system/wiki-harness.md`
-> 最后更新：2026-11-25 | 概念页 92 个 | 原始文章 102 篇
+> 最后更新：2026-11-25 | 概念页 92 个 | 原始文章 103 篇
 
 ---
 
@@ -129,7 +129,7 @@
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| [[cases/yong-ai/index|课堂教学案例（用AI）]] | 12 | 学科课堂中 AI 辅助教学实践 |
+| [[cases/yong-ai/index|课堂教学案例（用AI）]] | 13 | 学科课堂中 AI 辅助教学实践 |
 | [[cases/chuang-ai/index|教育管理平台案例（创AI）]] | 9 | 校园管理、智能体、数据分析等平台 |
 | [[cases/hu-ai/index|AI安全应用案例（护AI）]] | 1 | AI 生成内容审核与数据安全 |
 | [[cases/national/index|全国优秀案例]] | 2 | 全国范围征集的优秀 AI 教育案例 |
@@ -242,3 +242,4 @@
 - [[raw/articles/2026-07-28-differentiated-homework-not-people|分层作业别再「一刀切」了：我跨了几门课，才摸清这套通用打法]]
 - [[raw/articles/2026-11-22-sgh-three-teacher-classroom|2026年「生活·实践」教育长三角地区工作研讨会在奉贤举办]]
 - [[raw/articles/2026-11-24-matao-four-lesson-prep-ai-classroom|从四次备课说起：AI重构课堂的实践路径]]
+- [[raw/articles/2026-11-04-four-tents-history-game|我把一节历史课，做成了一个能「走进去」的游戏]]
